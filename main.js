@@ -11,6 +11,8 @@ var deviceInfo = function() {
 var getLocation = function() {
     var suc = function(p) {
         alert(p.coords.latitude + " " + p.coords.longitude);
+        document.getElementById("X").innerHTML = p.coords.latitude;
+
     };
     var locFail = function() {
     };
