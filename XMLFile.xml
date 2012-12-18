@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Gauge 
+ name ="Colwick"
+ description ="Colwick gauge near holme pierpoint"
+ location = "52.955257,-1.06191"
+/>
+<!--imageUrl = "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/Controls/RiverLevels/ChartImage.jpg?Id=331&ChartType=Graph"-->
