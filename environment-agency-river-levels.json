@@ -1853,7 +1853,9 @@
         "date_scraped": "2010-10-19 18:57:13",
         "River": "River Trent",
         "station": "Colwick",
-        "Town": "Holme Pierrepont"
+        "Town": "Holme Pierrepont",
+		"GraphCode": "331",
+		"loc": ""
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=2144&RegionId=2&AreaId=6&CatchmentId=26",
