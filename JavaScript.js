@@ -26,8 +26,6 @@ var GetCurrentLocation = function () {
     {
     
         if (gauges != null) {
-            var currentGauge;
-
             var search = new Search("Colwick");
             gauges.forEach(search.FindGaugeByStation);
             alert(gauges.length);
