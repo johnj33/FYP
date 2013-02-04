@@ -30,6 +30,7 @@ var GetCurrentLocation = function () {
 
             var search = new Search("Colwick");
             gauges.forEach(search.FindGaugeByStation);
+            alert(gauges.length);
             if (searchResult != null) {
                 alert(searchResult.town);
                 var data = "";
@@ -40,7 +41,7 @@ var GetCurrentLocation = function () {
                 data += "," + searchResult.graphcode;
                 data += "," + searchResult.loc;
                 localStorage["Gauge"] = data;
-                window.location = "Gauge.html";
+                window.location = "Gauge/Gauge.html";
                 
             }
             else
@@ -77,7 +78,7 @@ function initialize() {
 
     var xmlhttp = new XMLHttpRequest();
 
-    xmlhttp.open("GET", "environment-agency-river-levels.json", true);
+    xmlhttp.open("GET", "Data/environment-agency-river-levels.json", true);
 
     xmlhttp.onreadystatechange = function () {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -121,25 +122,25 @@ function Search(value) {
             alert(this.result);
             return;
         }
-            
-    }
 
-    this.FindGaugeByStation = function (gauge) {
+    };
+
+    this.FindGaugeByStation = function(gauge) {
         if (gauge.station == value) {
             searchResult = gauge;
             return;
         }
-            
-    }
 
-    this.FindGaugeByRiver = function (gauge) {
+    };
+
+    this.FindGaugeByRiver = function(gauge) {
         if (gauge.river == value) {
             results[results.length] = gauge;
         }
-    }
+    };
 
-    this.GetAllRivers = function (gauge) {
+    this.GetAllRivers = function(gauge) {
         results[results.length] = gauge.river;
-    }
+    };
 
 }
