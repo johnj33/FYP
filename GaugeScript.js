@@ -3,6 +3,7 @@
         Gauge = localStorage["Gauge"];
         var text1 = document.getElementById("text1");
         var text2 = document.getElementById("text2");
+        var text3 = document.getElementById("text3");
         var graph1 = document.getElementById("graph1");
         var graph2 = document.getElementById("graph2");
         var values = new Array();
@@ -18,9 +19,12 @@
         
         alert(values[4]);
         text1.textContent = "Gauge: " + values[3];
-        text2.textContent = "Town: " + values[0] + " \n River: " + values[2];
+        text2.textContent = "Town: " + values[0];
+        text3.textContent = " \n River: " + values[2];
+       
     }
     catch (ex) {
         alert(ex);
     }
+    
 }

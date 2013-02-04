@@ -1,40 +1,56 @@
 ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">    
+<style>
+    @font-face {
+        font-family: Age;
+        src: url('Age.otf'); /* IE9+ */
+    }
+
+    div {
+        font-family: Age;
+        font-size: xx-large;
+    }
+</style>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCr7CxvSh4GRjo7Arsvz8SXzPibP-ajV3w&sensor=true"> </script>
-    <script type="text/javascript" charset="utf-8" src="GaugeScript.js"></script>
+<script type="text/javascript" charset="utf-8" src="GaugeScript.js"></script>
 <head>
     <title></title>
     <style type="text/css">
         .auto-style1 {
-            width: 298px;
+            width: 900px;
         }
     </style>
 </head>
 <body onload="Initialise()">
 
-    <table style="width:100%;">
+    <table style="width: 100%;">
         <tr>
             <td class="auto-style1">
-                <div id="text1"/>
+                <div id="text1" />
             </td>
-            <td>
+        </tr>
+        <tr>
+            <td class="auto-style1">
                 <div id="text2" />
             </td>
         </tr>
         <tr>
             <td class="auto-style1">
-                    <img id ="graph2" src ="null" height ="200" /> 
-            </td>
-            <td>
-           
+                <div id="text3" />
             </td>
         </tr>
         <tr>
             <td class="auto-style1">
-                <img id ="graph1" src ="null"  height ="200"/>
-                
+                <img id="graph2" src="null" height="200" />
             </td>
-           <!--<td><div style="height:300px; width:200px" id="map_gauge"></div></td>-->
+            <td></td>
+        </tr>
+        <tr>
+            <td class="auto-style1">
+                <img id="graph1" src="null" height="200" />
+
+            </td>
+            <!--<td><div style="height:300px; width:200px" id="map_gauge"></div></td>-->
         </tr>
     </table>
 
