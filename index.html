@@ -2,45 +2,65 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta name="viewport" content="width=320; user-scalable=no" />
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
-    <title> Local River Levels</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <title>Local River Levels</title>
     <script type="text/javascript" charset="utf-8" src="JavaScript.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCr7CxvSh4GRjo7Arsvz8SXzPibP-ajV3w&sensor=true"> </script>
 </head>
-    
-<body onload ="initialize();" >
 
-    <table style="width:100%;">
+<body onload="initialize();">
+    <style>
+        @font-face {
+            font-family: Age;
+            src: url('..\Resources\Age.otf'); /* IE9+ */
+        }
+
+        div {
+            font-family: Age;
+        }
+
+        .imageStyle {
+            width: 100%;
+        }
+    </style>
+    <table style="width: 100%;">
         <tr>
             <td>&nbsp;
-                <div id ="table" />                 
+                    <div id="table" />
+                <div style="font-size: 22pt">River Levels</div>
             </td>
 
-            <td>&nbsp;
-
-            </td>
-
-            <td>&nbsp;
-                <input id="Button1" type="image" src="Resources\button test.png" value="button" onclick ="GetCurrentLocation();"/>
-            </td>
         </tr>
 
+        <!--<tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;
+                        <div style="height: 300px; width: 400px" id="map_canvas"></div>
+                    </td>
+                    <td>&nbsp;</td>
+                </tr>-->
         <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;
-                <div style="height:300px; width:400px" id="map_canvas"></div>
+            <td>
+                <textarea style="width: 100%">Rivers</textarea>
             </td>
-            <td>&nbsp;</td>
+            <td>
+                <button style="font-family: Age; height: 45px; width: 123px; font-size: 12pt">Gauges By Rivers</button>
+            </td>
         </tr>
-
         <tr>
             <td>&nbsp;
-                <img id ="image" src ="http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/Controls/RiverLevels/ChartImage.jpg?Id=331&ChartType=Graph" />
+                
+                    <button id="Button1" onclick="GetCurrentLocation();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt">Gauges Near Me</button>
             </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <textarea style="width: 100%">Gauges</textarea>
+            </td>
         </tr>
     </table>
+
+    <img src="Resources/alps.png" class="imageStyle" />
 
 </body>
 </html>
