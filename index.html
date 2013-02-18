@@ -12,7 +12,7 @@
     <style>
         @font-face {
             font-family: Age;
-            src: url('Resources/Age.otf'); /* IE9+ */
+            src: url('Resources/36daythk.ttf'); /* IE9+ */
         }
 
         div {
@@ -41,10 +41,10 @@
                 </tr>-->
         <tr>
             <td>
-                <textarea style="width: 100%">Rivers</textarea>
+                <select id="RiversSelction" style="font-family: Age;"/>
             </td>
             <td>
-                <button style="font-family: Age; height: 45px; width: 149px; font-size: 12pt; border-width: thick; border-color: black; background-color: white;">Gauges By Rivers</button>
+                <button style="font-family: Age; height: 45px; width: 149px; font-size: 12pt; border-width: thick; border-color: black; background-color: white;" onclick="SearchRivers()">Gauges By Rivers</button>
             </td>
         </tr>
         <tr>
@@ -55,12 +55,12 @@
         </tr>
         <tr>
             <td>
-                <textarea style="width: 100%">Gauges</textarea>
+                <select id="GaugesSelection"/>
             </td>
         </tr>
     </table>
 
-    <img src="Resources/alps.png" class="imageStyle" />
+    <img src="Resources/alps.png" class="imageStyle" style="font-family: Age;"/>
 
 </body>
 </html>

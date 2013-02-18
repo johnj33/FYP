@@ -1,10 +1,28 @@
 ﻿var map;
 var gauges = new Array();
+var rivers = new Array();
 var searchResult;
 var results;
 
-var GetCurrentLocation = function () {
-    var suc = function (p) {
+var SearchRivers = function () {
+    try {
+        
+    
+    var rivereditbox = document.getElementById("RiversSelction");
+    var gaugeeditbox = document.getElementById("GaugesSelection");
+    var search = new Search(rivers[rivereditbox.selectedIndex]);
+    gauges.forEach(search.FindGaugeByRiver);
+
+    for (var i = 0; i < results.length; i++) {
+        gaugeeditbox.options[i] = new Option(results[i].station,results[i]);
+    }
+    } catch (e) {
+        alert(e);
+    }
+};
+
+var GetCurrentLocation = function() {
+    var suc = function(p) {
         try {
             var mapOptions = {
                 zoom: 14,
@@ -12,19 +30,17 @@ var GetCurrentLocation = function () {
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             };
 
-            map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);            
-        }
-
-        catch (ex) {
+            map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+        } catch(ex) {
             alert(ex);
         }
     };
-    var locFail = function () {
+
+    var locFail = function() {
         alert("fail");
     };
-    try
-    {
-    
+    try {
+
         if (gauges != null) {
             var search = new Search("Colwick");
             gauges.forEach(search.FindGaugeByStation);
@@ -40,30 +56,11 @@ var GetCurrentLocation = function () {
                 data += "," + searchResult.loc;
                 localStorage["Gauge"] = data;
                 window.location = "Gauge/Gauge.html";
-                
-            }
-            else
+
+            } else
                 alert("location not found");
-
-            //search = new Search("River Trent");
-            //gauges.forEach(search.FindGaugeByRiver);
-            //if (results.length > 0) {
-
-            //    var theTable = document.getElementById('table');
-            //    for (var i = 0, tr, td; i < results.length; i++) {
-            //        tr = document.createElement('tr');
-            //        td = document.createElement('td');
-            //        td.appendChild(document.createTextNode(results[i].station));
-            //        tr.appendChild(td);
-            //        theTable.appendChild(tr);
-            //    }
-
-            //    //document.getElementById('table').appendChild(theTable);
-            //    alert(results.length);
-            //}
         }
-    }
-    catch(ex3){
+    } catch(ex3) {
         alert(ex3);
     }
 
@@ -71,31 +68,45 @@ var GetCurrentLocation = function () {
 };
 
 
-
 function initialize() {
 
     var xmlhttp = new XMLHttpRequest();
-
+    alert("test");
     xmlhttp.open("GET", "Data/environment-agency-river-levels.json", true);
 
     xmlhttp.onreadystatechange = function () {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
             try {
+                
+                var rivereditbox = document.getElementById("RiversSelction");
                 var text = JSON.parse(xmlhttp.responseText);
                 gauges = new Array();
-
-                for (var i = 0 ; i < text["gauges"].length; i++) {
+                for (var i = 0; i < text["gauges"].length; i++) {
                     var currentGauge = text["gauges"][i];
-                    gauges[i] = new Gauge(currentGauge["url"], currentGauge["River"], currentGauge["station"], currentGauge["Town"], currentGauge["GraphCode"],currentGauge["loc"]);
+                    gauges[i] = new Gauge(currentGauge["url"], currentGauge["River"], currentGauge["station"], currentGauge["Town"], currentGauge["GraphCode"], currentGauge["loc"]);
+                    if (!RiverAdded(currentGauge["River"])) {
+                        rivers[rivers.length] = currentGauge["River"];
+                        rivereditbox.options[rivers.length] = new Option(currentGauge["River"], currentGauge["River"]);
+                    }
                 }
 
-            }
-            catch (ex2) {
+
+            } catch (ex2) {
                 alert(ex2);
             }
+
+
         }
+        xmlhttp.send();
+    };
+}
+
+function RiverAdded(river) {
+    for (var i = 0; i < rivers.length; i++) {
+        if (rivers[i] == river)
+            return true;
     }
-    xmlhttp.send();
+    return false;
 }
 
 function Gauge(url, river, station, town, graphcode, loc) {
