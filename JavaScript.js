@@ -71,9 +71,12 @@ var GetCurrentLocation = function() {
 function initialize() {
 
     var xmlhttp = new XMLHttpRequest();
-    alert("test");
-    xmlhttp.open("GET", "Data/environment-agency-river-levels.json", true);
-
+    try {
+        xmlhttp.open("GET", "Data/environment-agency-river-levels.json", true);
+    }
+    catch(ex1) {
+        alert(ex1);
+    }
     xmlhttp.onreadystatechange = function () {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
             try {
