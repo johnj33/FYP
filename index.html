@@ -12,7 +12,7 @@
     <style>
         @font-face {
             font-family: Age;
-            src: url('Resources/b2sq.ttf'); /* IE9+ */
+            src: url('Resources/Age.otf'); /* IE9+ */
         }
 
         div {
@@ -33,23 +33,28 @@
         </tr>
 
         <tr>
-            <td>
-                <select id="RiversSelction" style="font-family: Age;"/>
+            <td style="width: 70%">
+                <select id="RiversSelction" style="font-family: Age; width: 100%"/>
             </td>
-            <td>
+            <td  style="width: 30%">
                 <button style="font-family: Age; height: 45px; width: 149px; font-size: 12pt; border-width: thick; border-color: black; background-color: white;" onclick="SearchRivers()">Gauges By Rivers</button>
             </td>
         </tr>
         <tr>
-            <td>&nbsp;
+            <td style="width: 70%">&nbsp;
                 
-                    <button id="Button1" onclick="GetCurrentLocation();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white" >Gauges Near Me</button>
+                <button id="Button1" onclick="GetCurrentLocation();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white" >Gauges Near Me</button>
             </td>
+            <td style="width: 30%"/>
         </tr>
         <tr>
-            <td>
-                <select id="GaugesSelection"/>
+            <td style="width: 70%">
+                <select id="GaugesSelection" style="width: 100%"/>
             </td>
+            <td style="width: 30%">
+                <button id="ViewGaugeBtn" onclick="ViewGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white" > View Gauge</button>
+            </td>
+
         </tr>
     </table>
 

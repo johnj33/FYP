@@ -10,7 +10,7 @@ var SearchRivers = function () {
     
     var rivereditbox = document.getElementById("RiversSelction");
     var gaugeeditbox = document.getElementById("GaugesSelection");
-    var search = new Search(rivers[rivereditbox.selectedIndex]);
+    var search = new Search(rivers[rivereditbox.selectedIndex - 1]);
     gauges.forEach(search.FindGaugeByRiver);
 
     for (var i = 0; i < results.length; i++) {
@@ -18,6 +18,35 @@ var SearchRivers = function () {
     }
     } catch (e) {
         alert(e);
+    }
+};
+
+var ViewGauge = function() {
+    try {
+        var gaugeeditbox = document.getElementById("GaugesSelection");
+        
+        var gauge = gaugeeditbox.options[gaugeeditbox.selectedIndex].text;
+        var search = new Search(gauge);
+        gauges.forEach(search.FindGaugeByStation);
+        alert(gauges.length);
+        
+        if (searchResult != null) {
+
+            var data = "";
+            data += searchResult.town;
+            data += "," + searchResult.url;
+            data += "," + searchResult.river;
+            data += "," + searchResult.station;
+            data += "," + searchResult.graphcode;
+            data += "," + searchResult.loc;
+
+            localStorage["Gauge"] = data;
+            window.location = "Gauge/Gauge.html";
+        }
+    }
+    catch(ex)
+    {
+        alert(ex);
     }
 };
 
@@ -47,13 +76,7 @@ var GetCurrentLocation = function() {
             alert(gauges.length);
             if (searchResult != null) {
                 alert(searchResult.town);
-                var data = "";
-                data += searchResult.town;
-                data += "," + searchResult.url;
-                data += "," + searchResult.river;
-                data += "," + searchResult.station;
-                data += "," + searchResult.graphcode;
-                data += "," + searchResult.loc;
+                
                 localStorage["Gauge"] = data;
                 window.location = "Gauge/Gauge.html";
 

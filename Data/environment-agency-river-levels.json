@@ -5,126 +5,144 @@
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Harpers Brook",
         "station": "Harpers Brook",
-        "Town": "Lowick"
+        "Town": "Lowick",
+		"GraphCode": "177"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6113&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Ise",
         "station": "Slade Brook",
-        "Town": "Barton Seagrave"
+        "Town": "Barton Seagrave",
+		"GraphCode": "184"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6104&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Ise",
         "station": "Harrowden",
-        "Town": "Great Harrowden"
+        "Town": "Great Harrowden",
+		"GraphCode": "176"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6109&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Ise",
         "station": "Barford Bridge",
-        "Town": "Newton"
+        "Town": "Newton",
+		"GraphCode": "181"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6120&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene",
         "station": "Kislingbury",
-        "Town": "Kislingbury"
+        "Town": "Kislingbury",
+		"GraphCode": "189"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6218&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene - Brampton Branch",
         "station": "Brixworth",
-        "Town": "Brixworth"
+        "Town": "Brixworth",
+		"GraphCode": "194"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6118&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene - Brampton Branch",
         "station": "Geldharts Mill",
-        "Town": "Kingsthorpe"
+        "Town": "Kingsthorpe"		,
+		"GraphCode": "188"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6122&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene - Brampton Branch",
         "station": "St Andrews Bypass",
-        "Town": "Northampton"
+        "Town": "Northampton",
+		"GraphCode": "191"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6102&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene - Brampton Branch",
         "station": "St Andrews Mill",
-        "Town": "Northampton"
+        "Town": "Northampton",
+		"GraphCode": "174"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6101&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene - Whitton Branch",
         "station": "Dodford",
-        "Town": "Dodford"
+        "Town": "Dodford",
+		"GraphCode": "173"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6116&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene (N'hampton-Wollaston)",
         "station": "Cogenhoe",
-        "Town": "Cogenhoe"
+        "Town": "Cogenhoe",
+		"GraphCode": "186"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6115&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene (N'hampton-Wollaston)",
         "station": "Bedford Road Sluice",
-        "Town": "Great Houghton"
+        "Town": "Great Houghton",
+		"GraphCode": "185"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6014&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene (Orton - Wash)",
         "station": "West Lighthouse",
-        "Town": "Guy's Head"
+        "Town": "Guy's Head",
+		"GraphCode": "172"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6121&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene (Orton - Wash)",
         "station": "Little Bridge",
-        "Town": "Whittlesey"
+        "Town": "Whittlesey",
+		"GraphCode": "190"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6111&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene (Wollaston-Wansford)",
         "station": "Lilford",
-        "Town": "Pilton"
+        "Town": "Pilton",
+		"GraphCode": "183"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6107&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Nene (Wollaston-Wansford)",
         "station": "Wansford",
-        "Town": "Wansford"
+        "Town": "Wansford",
+		"GraphCode": "179"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6106&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Willow Brook",
         "station": "Fotheringhay",
-        "Town": "Fotheringhay"
+        "Town": "Fotheringhay",
+		"GraphCode": "178"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6124&RegionId=1&AreaId=13&CatchmentId=75",
         "date_scraped": "2010-10-19 18:56:44",
         "River": "Willow Brook",
         "station": "Weldon Flood Storage Reservoir",
-        "Town": "Weldon"
+        "Town": "Weldon",
+		"GraphCode": "193"
     },
     {
         "url": "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6103&RegionId=1&AreaId=13&CatchmentId=75",
