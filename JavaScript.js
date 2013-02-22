@@ -120,6 +120,11 @@ function initialize() {
 
             } catch (ex2) {
                 alert(ex2);
+                for (var prop in ex2) {
+                    alert("property: " + prop + " value: [" + err[prop] + "]");
+                }
+                alert("toString(): " + " value: [" + err.toString() + "]");
+                
             }
 
 
