@@ -73,6 +73,7 @@ function initialize() {
     var xmlhttp = new XMLHttpRequest();
     try {
         xmlhttp.open("GET", "Data/environment-agency-river-levels.json", true);
+        xmlhttp.send();
     }
     catch(ex1) {
         alert(ex1);
@@ -100,7 +101,7 @@ function initialize() {
 
 
         }
-        xmlhttp.send();
+        
     };
 }
 
