@@ -28,7 +28,6 @@ var ViewGauge = function() {
         var gauge = gaugeeditbox.options[gaugeeditbox.selectedIndex].text;
         var search = new Search(gauge);
         gauges.forEach(search.FindGaugeByStation);
-        alert(gauges.length);
         
         if (searchResult != null) {
 
