@@ -10,7 +10,7 @@ var SearchRivers = function () {
     
     var rivereditbox = document.getElementById("RiversSelction");
     var gaugeeditbox = document.getElementById("GaugesSelection");
-    var search = new Search(rivers[rivereditbox.selectedIndex - 1]);
+    var search = new Search(rivers[rivereditbox.selectedIndex]);
     gauges.forEach(search.FindGaugeByRiver);
 
     for (var i = 0; i < results.length; i++) {
@@ -105,7 +105,6 @@ function initialize() {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
             try {
                 
-                var rivereditbox = document.getElementById("RiversSelction");
                 var text = JSON.parse(xmlhttp.responseText);
                 gauges = new Array();
                 for (var i = 0; i < text["gauges"].length; i++) {
@@ -113,9 +112,24 @@ function initialize() {
                     gauges[i] = new Gauge(currentGauge["url"], currentGauge["River"], currentGauge["station"], currentGauge["Town"], currentGauge["GraphCode"], currentGauge["loc"]);
                     if (!RiverAdded(currentGauge["River"])) {
                         rivers[rivers.length] = currentGauge["River"];
-                        rivereditbox.options[rivers.length] = new Option(currentGauge["River"], currentGauge["River"]);
+                        
+                        //alert(i);
+                        //var geocoder = new google.maps.Geocoder();
+                        
+                        //geocoder.geocode( { 'address': currentGauge["Town"]}, function(results, status) {
+                        //    if (status == google.maps.GeocoderStatus.OK) {
+                        //        alert(results[0].geometry.location);
+                                
+                               
+                        //    } else {
+                        //        alert("Geocode was not successful for the following reason: " + status);
+                        //    }
+                        //});
+                        //alert(loc.results.address_components.geometry.location.lat);
                     }
                 }
+                rivers.sort();
+                rivers.forEach(addRiver);                
 
 
             } catch (ex2) {
@@ -133,6 +147,12 @@ function initialize() {
     };
 }
 
+function addRiver(river) {
+   
+    var rivereditbox = document.getElementById("RiversSelction");
+    rivereditbox.options.add(new Option(river, river));
+
+}
 function RiverAdded(river) {
     for (var i = 0; i < rivers.length; i++) {
         if (rivers[i] == river)
