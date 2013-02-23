@@ -1070,7 +1070,7 @@
          "River":"River Bure",
          "station":"Corpusty",
          "Town":"Corpusty",
-         "GraphCode":""
+         "GraphCode":"95"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6210&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1078,7 +1078,7 @@
          "River":"River Bure",
          "station":"Hickling Broad",
          "Town":"Hickling Heath",
-         "GraphCode":""
+         "GraphCode":"110"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6099&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1086,7 +1086,7 @@
          "River":"River Bure",
          "station":"Ingworth",
          "Town":"Ingworth",
-         "GraphCode":""
+         "GraphCode":"100"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6215&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1094,7 +1094,7 @@
          "River":"River Bure",
          "station":"Ranworth Broad",
          "Town":"Ranworth",
-         "GraphCode":""
+         "GraphCode":"115"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6217&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1102,7 +1102,7 @@
          "River":"River Bure",
          "station":"Repps",
          "Town":"Repps",
-         "GraphCode":""
+         "GraphCode":"117"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6202&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1110,7 +1110,7 @@
          "River":"River Bure",
          "station":"3 Mile House",
          "Town":"West End",
-         "GraphCode":""
+         "GraphCode":"102"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6211&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1118,7 +1118,7 @@
          "River":"River Bure",
          "station":"Hoveton Broad",
          "Town":"Wroxham",
-         "GraphCode":""
+         "GraphCode":"111"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6088&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1126,7 +1126,7 @@
          "River":"River Waveney",
          "station":"Diss",
          "Town":"Diss",
-         "GraphCode":""
+         "GraphCode":"94"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6204&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1134,7 +1134,7 @@
          "River":"River Waveney",
          "station":"Beccles Quay",
          "Town":"Gillingham",
-         "GraphCode":""
+         "GraphCode":"104"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6083&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1142,7 +1142,7 @@
          "River":"River Waveney",
          "station":"Billingford",
          "Town":"Oakley",
-         "GraphCode":""
+         "GraphCode":"93"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6212&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1150,7 +1150,7 @@
          "River":"River Waveney",
          "station":"Oulton Broad",
          "Town":"Oulton Broad",
-         "GraphCode":""
+         "GraphCode":"112"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6098&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1158,7 +1158,7 @@
          "River":"River Wensum",
          "station":"Fakenham",
          "Town":"Fakenham",
-         "GraphCode":""
+         "GraphCode":"99"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6125&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1166,7 +1166,7 @@
          "River":"River Wensum",
          "station":"Swanton Morley",
          "Town":"Swanton Morley",
-         "GraphCode":""
+         "GraphCode":"101"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6208&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1174,7 +1174,7 @@
          "River":"River Yare",
          "station":"Cantley",
          "Town":"Cantley",
-         "GraphCode":""
+         "GraphCode":"108"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6213&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1182,7 +1182,7 @@
          "River":"River Yare",
          "station":"Reedham",
          "Town":"Reedham",
-         "GraphCode":""
+         "GraphCode":"113"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6214&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1190,7 +1190,7 @@
          "River":"River Yare",
          "station":"Rockland St Mary",
          "Town":"Rockland St Mary",
-         "GraphCode":""
+         "GraphCode":"114"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6205&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1198,7 +1198,7 @@
          "River":"River Yare",
          "station":"Brundall",
          "Town":"Surlingham",
-         "GraphCode":""
+         "GraphCode":"105"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6095&RegionId=1&AreaId=14&CatchmentId=76",
@@ -1206,7 +1206,7 @@
          "River":"River Yare",
          "station":"Low Street",
          "Town":"Thuxton",
-         "GraphCode":""
+         "GraphCode":"96"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6206&RegionId=1&AreaId=14&CatchmentId=76",
