@@ -4111,7 +4111,7 @@
          "River":"Wyre",
          "station":"St Michaels",
          "Town":"St Michael's On Wyre",
-         "GraphCode":""
+         "GraphCode":"757"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5042&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4119,7 +4119,7 @@
          "River":"Caldew",
          "station":"Denton Holme",
          "Town":"Carlisle",
-         "GraphCode":""
+         "GraphCode":"715"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5039&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4127,7 +4127,7 @@
          "River":"Caldew",
          "station":"Cummersdale",
          "Town":"Cummersdale",
-         "GraphCode":""
+         "GraphCode":"713"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5125&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4135,7 +4135,7 @@
          "River":"Caldew",
          "station":"Sebergham",
          "Town":"Sebergham",
-         "GraphCode":""
+         "GraphCode":"723"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5033&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4143,7 +4143,7 @@
          "River":"Coal Burn",
          "station":"Coalburn Beck",
          "Town":"Butterburn",
-         "GraphCode":""
+         "GraphCode":"712"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5040&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4151,7 +4151,7 @@
          "River":"Dacre Beck",
          "station":"Dacre Bridge",
          "Town":"Dacre",
-         "GraphCode":""
+         "GraphCode":"714"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5046&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4159,7 +4159,7 @@
          "River":"Eamont",
          "station":"Eamont Bridge Farm",
          "Town":"Eamont Bridge",
-         "GraphCode":""
+         "GraphCode":"716"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5141&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4167,7 +4167,7 @@
          "River":"Eamont",
          "station":"Udford",
          "Town":"Edenhall",
-         "GraphCode":""
+         "GraphCode":"727"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5005&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4175,7 +4175,7 @@
          "River":"Eden",
          "station":"Appleby",
          "Town":"Appleby-In-Westmorland",
-         "GraphCode":""
+         "GraphCode":"709"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5127&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4183,7 +4183,7 @@
          "River":"Eden",
          "station":"Sheepmount",
          "Town":"Carlisle",
-         "GraphCode":""
+         "GraphCode":"724"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5081&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4191,7 +4191,7 @@
          "River":"Eden",
          "station":"Linstock",
          "Town":"Linstock",
-         "GraphCode":""
+         "GraphCode":"721"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5059&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4199,7 +4199,7 @@
          "River":"Eden",
          "station":"Great Musgrave Bridge",
          "Town":"Little Musgrave",
-         "GraphCode":""
+         "GraphCode":"718"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5138&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4207,7 +4207,7 @@
          "River":"Eden",
          "station":"Temple Sowerby",
          "Town":"Temple Sowerby",
-         "GraphCode":""
+         "GraphCode":"726"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5058&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4215,7 +4215,7 @@
          "River":"Eden",
          "station":"Great Corby",
          "Town":"Wetheral",
-         "GraphCode":""
+         "GraphCode":"726"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5074&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4223,7 +4223,7 @@
          "River":"Gelt",
          "station":"Hynam Bridge",
          "Town":"Castle Carrock",
-         "GraphCode":""
+         "GraphCode":"720"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5025&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4231,7 +4231,7 @@
          "River":"Haweswater Beck",
          "station":"Burnbanks",
          "Town":"Bampton",
-         "GraphCode":""
+         "GraphCode":"710"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5032&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4239,7 +4239,7 @@
          "River":"Lyne",
          "station":"Cliff Bridge",
          "Town":"Kirklinton",
-         "GraphCode":""
+         "GraphCode":"711"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5100&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4247,7 +4247,7 @@
          "River":"Petteril",
          "station":"Newbiggin Bridge",
          "Town":"Carleton",
-         "GraphCode":""
+         "GraphCode":"722"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5062&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4255,7 +4255,7 @@
          "River":"Petteril",
          "station":"Harraby Green",
          "Town":"Carlisle",
-         "GraphCode":""
+         "GraphCode":"719"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5135&RegionId=4&AreaId=11&CatchmentId=62",
@@ -4263,7 +4263,7 @@
          "River":"Roe Beck",
          "station":"Stockdalewath",
          "Town":"Stockdalewath",
-         "GraphCode":""
+         "GraphCode":"725"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5064&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4271,7 +4271,7 @@
          "River":"Blakewater",
          "station":"Harrison Street",
          "Town":"Blackburn",
-         "GraphCode":""
+         "GraphCode":"769"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5150&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4279,7 +4279,7 @@
          "River":"Calder",
          "station":"Whalley Weir",
          "Town":"Billington",
-         "GraphCode":""
+         "GraphCode":"788"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5104&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4287,7 +4287,7 @@
          "River":"Calder",
          "station":"Oxford Rd",
          "Town":"Burnley",
-         "GraphCode":""
+         "GraphCode":"777"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5087&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4295,7 +4295,7 @@
          "River":"Calder",
          "station":"Lomeshaye",
          "Town":"Nelson",
-         "GraphCode":""
+         "GraphCode":"774"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5105&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4303,7 +4303,7 @@
          "River":"Calder",
          "station":"Padiham Town Centre",
          "Town":"Padiham",
-         "GraphCode":""
+         "GraphCode":"778"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5061&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4311,7 +4311,7 @@
          "River":"Darwen",
          "station":"Hardman Way",
          "Town":"Darwen",
-         "GraphCode":""
+         "GraphCode":"768"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5048&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4319,7 +4319,7 @@
          "River":"Darwen",
          "station":"Ewood",
          "Town":"Lower Darwen",
-         "GraphCode":""
+         "GraphCode":"766"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5015&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4327,7 +4327,7 @@
          "River":"Darwen",
          "station":"Blue Bridge",
          "Town":"Walton-Le-Dale",
-         "GraphCode":""
+         "GraphCode":"763"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5006&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4335,7 +4335,7 @@
          "River":"Douglas",
          "station":"Appley Bridge",
          "Town":"Appley Bridge",
-         "GraphCode":""
+         "GraphCode":"760"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5106&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4343,7 +4343,7 @@
          "River":"Douglas",
          "station":"Parbold",
          "Town":"Newburgh",
-         "GraphCode":""
+         "GraphCode":"779"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5147&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4351,7 +4351,7 @@
          "River":"Douglas",
          "station":"Wanes Blades",
          "Town":"Newburgh",
-         "GraphCode":""
+         "GraphCode":"787"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5117&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4359,7 +4359,7 @@
          "River":"Douglas",
          "station":"Red Rock",
          "Town":"Red Rock",
-         "GraphCode":""
+         "GraphCode":"782"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5152&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4367,7 +4367,7 @@
          "River":"Douglas",
          "station":"Wigan",
          "Town":"Wigan",
-         "GraphCode":""
+         "GraphCode":"789"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5071&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4375,7 +4375,7 @@
          "River":"Hodder",
          "station":"Hodder Place",
          "Town":"Great Mitton",
-         "GraphCode":""
+         "GraphCode":"771"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5010&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4383,7 +4383,7 @@
          "River":"Lostock",
          "station":"Bamber Bridge",
          "Town":"Bamber Bridge",
-         "GraphCode":""
+         "GraphCode":"761"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5083&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4391,7 +4391,7 @@
          "River":"Lostock",
          "station":"Littlewood Bridge",
          "Town":"Croston",
-         "GraphCode":""
+         "GraphCode":"772"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5118&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4399,7 +4399,7 @@
          "River":"Pendle Water",
          "station":"Reedyford",
          "Town":"Barrowford",
-         "GraphCode":""
+         "GraphCode":"783"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5011&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4407,7 +4407,7 @@
          "River":"Pendle Water",
          "station":"Barden Lane",
          "Town":"Brierfield",
-         "GraphCode":""
+         "GraphCode":"762"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5109&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4415,7 +4415,7 @@
          "River":"Ribble",
          "station":"Penny Bridge",
          "Town":"Giggleswick",
-         "GraphCode":""
+         "GraphCode":"780"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5056&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4423,7 +4423,7 @@
          "River":"Ribble",
          "station":"Gisburn",
          "Town":"Gisburn",
-         "GraphCode":""
+         "GraphCode":"767"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5066&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4431,7 +4431,7 @@
          "River":"Ribble",
          "station":"Henthorn",
          "Town":"Great Mitton",
-         "GraphCode":""
+         "GraphCode":"770"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5099&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4439,7 +4439,7 @@
          "River":"Ribble",
          "station":"New Jumbles Rock",
          "Town":"Hurst Green",
-         "GraphCode":""
+         "GraphCode":"776"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5091&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4447,7 +4447,7 @@
          "River":"Ribble",
          "station":"Low Moor",
          "Town":"Low Moor",
-         "GraphCode":""
+         "GraphCode":"775"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5146&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4455,7 +4455,7 @@
          "River":"Ribble",
          "station":"Walton-Le-Dale",
          "Town":"Preston",
-         "GraphCode":""
+         "GraphCode":"786"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5119&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4463,7 +4463,7 @@
          "River":"Ribble",
          "station":"Ribchester School",
          "Town":"Ribchester",
-         "GraphCode":""
+         "GraphCode":"784"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5122&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4471,7 +4471,7 @@
          "River":"Ribble",
          "station":"Samlesbury",
          "Town":"Samlesbury",
-         "GraphCode":""
+         "GraphCode":"785"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5086&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4479,7 +4479,7 @@
          "River":"Ribble",
          "station":"Locks Weir",
          "Town":"Stackhouse",
-         "GraphCode":""
+         "GraphCode":"773"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5043&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4487,7 +4487,7 @@
          "River":"Shaw Brook Tributary",
          "station":"Dryden Street",
          "Town":"Padiham",
-         "GraphCode":""
+         "GraphCode":"765"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5038&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4495,7 +4495,7 @@
          "River":"Yarrow",
          "station":"Croston",
          "Town":"Croston",
-         "GraphCode":""
+         "GraphCode":"764"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5111&RegionId=4&AreaId=11&CatchmentId=63",
@@ -4503,7 +4503,7 @@
          "River":"Yarrow",
          "station":"Pincock Brow",
          "Town":"Euxton",
-         "GraphCode":""
+         "GraphCode":"781"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5027&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4511,7 +4511,7 @@
          "River":"Calder",
          "station":"Calder Hall",
          "Town":"Calder Bridge",
-         "GraphCode":""
+         "GraphCode":"691"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5128&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4519,7 +4519,7 @@
          "River":"Cocker",
          "station":"South Street Footbridge",
          "Town":"Cockermouth",
-         "GraphCode":""
+         "GraphCode":"698"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5129&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4527,7 +4527,7 @@
          "River":"Cocker",
          "station":"Southwaite Bridge",
          "Town":"Cockermouth",
-         "GraphCode":""
+         "GraphCode":"699"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5123&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4535,7 +4535,7 @@
          "River":"Cocker",
          "station":"Scalehill Upper Lorton Valley",
          "Town":"Loweswater",
-         "GraphCode":""
+         "GraphCode":"697"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5103&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4543,7 +4543,7 @@
          "River":"Derwent",
          "station":"Ouse Bridge",
          "Town":"Dubwath",
-         "GraphCode":""
+         "GraphCode":"696"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5155&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4551,7 +4551,7 @@
          "River":"Derwent",
          "station":"Workington Dock",
          "Town":"Workington",
-         "GraphCode":""
+         "GraphCode":"1952"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5018&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4559,7 +4559,7 @@
          "River":"Ehen",
          "station":"Braystones",
          "Town":"Braystones",
-         "GraphCode":""
+         "GraphCode":"689"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5047&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4567,7 +4567,7 @@
          "River":"Ehen",
          "station":"Egremont",
          "Town":"Egremont",
-         "GraphCode":""
+         "GraphCode":"693"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5014&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4575,7 +4575,7 @@
          "River":"Ehen",
          "station":"Bleach Green Weir",
          "Town":"Ennerdale Bridge",
-         "GraphCode":""
+         "GraphCode":"688"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5024&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4583,7 +4583,7 @@
          "River":"Ellen",
          "station":"Bull Gill",
          "Town":"Allerby",
-         "GraphCode":""
+         "GraphCode":"690"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5037&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4591,7 +4591,7 @@
          "River":"Esk (Cumbria)",
          "station":"Cropple Howe",
          "Town":"Eskdale Green",
-         "GraphCode":""
+         "GraphCode":"692"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5140&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4599,7 +4599,7 @@
          "River":"Glendermackin",
          "station":"Threlkeld",
          "Town":"Threlkeld",
-         "GraphCode":""
+         "GraphCode":"702"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5060&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4607,7 +4607,7 @@
          "River":"Greta",
          "station":"Greta Bridge",
          "Town":"Keswick",
-         "GraphCode":""
+         "GraphCode":"694"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5090&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4615,7 +4615,7 @@
          "River":"Greta",
          "station":"Low Briery",
          "Town":"Keswick",
-         "GraphCode":""
+         "GraphCode":"695"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5131&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4623,7 +4623,7 @@
          "River":"Keekle",
          "station":"St Leonards",
          "Town":"Cleator",
-         "GraphCode":""
+         "GraphCode":"700"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5139&RegionId=4&AreaId=11&CatchmentId=66",
@@ -4631,7 +4631,7 @@
          "River":"St Johns Beck",
          "station":"Thirlmere",
          "Town":"Legburthwaite",
-         "GraphCode":""
+         "GraphCode":"701"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5092&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4639,7 +4639,7 @@
          "River":"Crake",
          "station":"Low Nibthwaite",
          "Town":"Blawith",
-         "GraphCode":""
+         "GraphCode":"792"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5044&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4647,7 +4647,7 @@
          "River":"Duddon",
          "station":"Duddon Hall",
          "Town":"Duddon Bridge",
-         "GraphCode":""
+         "GraphCode":"791"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5142&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4655,7 +4655,7 @@
          "River":"Duddon",
          "station":"Ulpha",
          "Town":"Hall Dunnerdale",
-         "GraphCode":""
+         "GraphCode":"796"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5017&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4663,7 +4663,7 @@
          "River":"Kent",
          "station":"Bowston",
          "Town":"Burneside",
-         "GraphCode":""
+         "GraphCode":"790"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5144&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4671,7 +4671,7 @@
          "River":"Kent",
          "station":"Victoria Bridge",
          "Town":"Kendal",
-         "GraphCode":""
+         "GraphCode":"797"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5126&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4679,7 +4679,7 @@
          "River":"Kent",
          "station":"Sedgwick",
          "Town":"Sedgwick",
-         "GraphCode":""
+         "GraphCode":"794"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5098&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4687,7 +4687,7 @@
          "River":"Mint",
          "station":"Mint Bridge",
          "Town":"Kendal",
-         "GraphCode":""
+         "GraphCode":"793"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5130&RegionId=4&AreaId=11&CatchmentId=67",
@@ -4695,7 +4695,7 @@
          "River":"Sprint",
          "station":"Sprint Mill, Kendal",
          "Town":"Burneside",
-         "GraphCode":""
+         "GraphCode":"795"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5078&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4703,7 +4703,7 @@
          "River":"Alt",
          "station":"Kirkby",
          "Town":"Aintree",
-         "GraphCode":""
+         "GraphCode":"812"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5002&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4711,7 +4711,7 @@
          "River":"Arrowe Brook",
          "station":"Acton Lane",
          "Town":"Upton",
-         "GraphCode":""
+         "GraphCode":"805"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5053&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4719,7 +4719,7 @@
          "River":"Birket",
          "station":"Fornalls Bridge",
          "Town":"Hoylake",
-         "GraphCode":""
+         "GraphCode":"810"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5041&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4727,7 +4727,7 @@
          "River":"Birket",
          "station":"Davis Road",
          "Town":"Moreton",
-         "GraphCode":""
+         "GraphCode":"808"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5019&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4735,7 +4735,7 @@
          "River":"Gowy",
          "station":"Bridge Trafford",
          "Town":"Bridge Trafford",
-         "GraphCode":""
+         "GraphCode":"806"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5084&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4743,7 +4743,7 @@
          "River":"Irish Sea",
          "station":"Liverpool Gladstone Dock",
          "Town":"Bootle",
-         "GraphCode":""
+         "GraphCode":"1951"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5050&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4751,7 +4751,7 @@
          "River":"Mersey",
          "station":"Fiddlers Ferry",
          "Town":"Penketh",
-         "GraphCode":""
+         "GraphCode":"809"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5149&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4759,7 +4759,7 @@
          "River":"Mersey",
          "station":"Westy",
          "Town":"Westy",
-         "GraphCode":""
+         "GraphCode":"814"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5031&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4767,7 +4767,7 @@
          "River":"Sankey Brook",
          "station":"Causey Bridge",
          "Town":"Dallam",
-         "GraphCode":""
+         "GraphCode":"807"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5069&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4775,7 +4775,7 @@
          "River":"Sankey Brook",
          "station":"Higham Avenue",
          "Town":"Dallam",
-         "GraphCode":""
+         "GraphCode":"811"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5085&RegionId=4&AreaId=12&CatchmentId=60",
@@ -4783,7 +4783,7 @@
          "River":"Sankey Brook",
          "station":"Liverpool Road",
          "Town":"Sankey",
-         "GraphCode":""
+         "GraphCode":"813"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5134&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4791,7 +4791,7 @@
          "River":"Beal",
          "station":"Station Road",
          "Town":"Milnrow",
-         "GraphCode":""
+         "GraphCode":"829"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5049&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4799,7 +4799,7 @@
          "River":"Croal",
          "station":"Farnworth",
          "Town":"Farnworth",
-         "GraphCode":""
+         "GraphCode":"820"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5034&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4807,7 +4807,7 @@
          "River":"Irk",
          "station":"Collyhurst Weir",
          "Town":"Manchester",
-         "GraphCode":""
+         "GraphCode":"819"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5093&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4815,7 +4815,7 @@
          "River":"Irwell",
          "station":"Lower Broughton",
          "Town":"Broughton",
-         "GraphCode":""
+         "GraphCode":"825"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5095&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4823,7 +4823,7 @@
          "River":"Irwell",
          "station":"Manchester Racecourse",
          "Town":"Broughton",
-         "GraphCode":""
+         "GraphCode":"826"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5026&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4831,7 +4831,7 @@
          "River":"Irwell",
          "station":"Bury Ground",
          "Town":"Bury",
-         "GraphCode":""
+         "GraphCode":"818"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5075&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4839,7 +4839,7 @@
          "River":"Irwell",
          "station":"Irwell Vale",
          "Town":"Edenfield",
-         "GraphCode":""
+         "GraphCode":"821"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5076&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4847,7 +4847,7 @@
          "River":"Irwell",
          "station":"Kearsley",
          "Town":"Kearsley",
-         "GraphCode":""
+         "GraphCode":"822"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5115&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4855,7 +4855,7 @@
          "River":"Irwell",
          "station":"Ramsbottom Weir",
          "Town":"Ramsbottom",
-         "GraphCode":""
+         "GraphCode":"827"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5003&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4863,7 +4863,7 @@
          "River":"Irwell",
          "station":"Adelphi Weir",
          "Town":"Rusholme",
-         "GraphCode":""
+         "GraphCode":"815"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5136&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4871,7 +4871,7 @@
          "River":"Irwell",
          "station":"Stubbins",
          "Town":"Stubbins",
-         "GraphCode":""
+         "GraphCode":"830"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5116&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4879,7 +4879,7 @@
          "River":"Limey Water",
          "station":"Rawtenstall",
          "Town":"Rawtenstall",
-         "GraphCode":""
+         "GraphCode":"828"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5088&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4887,7 +4887,7 @@
          "River":"Medlock",
          "station":"London Road",
          "Town":"Manchester",
-         "GraphCode":""
+         "GraphCode":"824"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5082&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4895,7 +4895,7 @@
          "River":"Ogden Brook",
          "station":"Little Bridge",
          "Town":"Helmshore",
-         "GraphCode":""
+         "GraphCode":"823"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5013&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4903,7 +4903,7 @@
          "River":"Roch",
          "station":"Blackford Bridge",
          "Town":"Hollins",
-         "GraphCode":""
+         "GraphCode":"817"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5004&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4911,7 +4911,7 @@
          "River":"Roch",
          "station":"Albert Royds Bridge",
          "Town":"Smallbridge",
-         "GraphCode":""
+         "GraphCode":"816"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5137&RegionId=4&AreaId=12&CatchmentId=61",
@@ -4927,7 +4927,7 @@
          "River":"Spodden",
          "station":"Whitworth",
          "Town":"Whitworth",
-         "GraphCode":""
+         "GraphCode":"832"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5036&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4935,7 +4935,7 @@
          "River":"Dane",
          "station":"Congleton Park",
          "Town":"Congleton",
-         "GraphCode":""
+         "GraphCode":"854"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5121&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4943,7 +4943,7 @@
          "River":"Dane",
          "station":"Rudheath",
          "Town":"Davenham",
-         "GraphCode":""
+         "GraphCode":"859"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5073&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4951,7 +4951,7 @@
          "River":"Dane",
          "station":"Hug Bridge",
          "Town":"Rushton Spencer",
-         "GraphCode":""
+         "GraphCode":"856"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5097&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4959,7 +4959,7 @@
          "River":"Valley Brook",
          "station":"Marshfield Bridge",
          "Town":"Wistaston Green",
-         "GraphCode":""
+         "GraphCode":"858"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5009&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4967,7 +4967,7 @@
          "River":"Weaver",
          "station":"Audlem",
          "Town":"Coxbank",
-         "GraphCode":""
+         "GraphCode":"853"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5065&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4975,7 +4975,7 @@
          "River":"Weaver",
          "station":"Hayhurst Bridge",
          "Town":"Northwich",
-         "GraphCode":""
+         "GraphCode":"855"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5007&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4983,7 +4983,7 @@
          "River":"Weaver",
          "station":"Ashbrook",
          "Town":"Wimboldsley Green",
-         "GraphCode":""
+         "GraphCode":"852"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5089&RegionId=4&AreaId=12&CatchmentId=64",
@@ -4991,7 +4991,7 @@
          "River":"Wincham Brook",
          "station":"Lostock Gralam",
          "Town":"Higher Wincham",
-         "GraphCode":""
+         "GraphCode":"857"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5016&RegionId=4&AreaId=12&CatchmentId=65",
@@ -4999,7 +4999,7 @@
          "River":"Bollin",
          "station":"Bollington Mill",
          "Town":"Little Bollington",
-         "GraphCode":""
+         "GraphCode":"834"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5045&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5007,7 +5007,7 @@
          "River":"Bollin",
          "station":"Dunham Massey",
          "Town":"Little Bollington",
-         "GraphCode":""
+         "GraphCode":"838"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5102&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5015,7 +5015,7 @@
          "River":"Bollin",
          "station":"Old Mill Lane",
          "Town":"Macclesfield",
-         "GraphCode":""
+         "GraphCode":"843"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5114&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5023,7 +5023,7 @@
          "River":"Bollin",
          "station":"Prestbury",
          "Town":"Prestbury",
-         "GraphCode":""
+         "GraphCode":"846"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5153&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5031,7 +5031,7 @@
          "River":"Bollin",
          "station":"Wilmslow",
          "Town":"Wilmslow",
-         "GraphCode":""
+         "GraphCode":"850"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5133&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5039,7 +5039,7 @@
          "River":"Dean",
          "station":"Stanneylands",
          "Town":"Styal",
-         "GraphCode":""
+         "GraphCode":"847"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5035&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5047,7 +5047,7 @@
          "River":"Etherow",
          "station":"Compstall",
          "Town":"Compstall",
-         "GraphCode":""
+         "GraphCode":"837"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5154&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5055,7 +5055,7 @@
          "River":"Etherow",
          "station":"Woolley Bridge",
          "Town":"Hollingworth",
-         "GraphCode":""
+         "GraphCode":"851"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5079&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5063,7 +5063,7 @@
          "River":"Glossop Brook",
          "station":"High Street West",
          "Town":"Glossop",
-         "GraphCode":""
+         "GraphCode":"840"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5096&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5071,7 +5071,7 @@
          "River":"Goyt",
          "station":"Marple Bridge",
          "Town":"Compstall",
-         "GraphCode":""
+         "GraphCode":"841"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5052&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5079,7 +5079,7 @@
          "River":"Mersey",
          "station":"Flixton Bridge",
          "Town":"Flixton",
-         "GraphCode":""
+         "GraphCode":"839"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5101&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5087,7 +5087,7 @@
          "River":"Mersey",
          "station":"Northenden",
          "Town":"Northenden",
-         "GraphCode":""
+         "GraphCode":"842"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5021&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5095,7 +5095,7 @@
          "River":"Mersey",
          "station":"Brinksway",
          "Town":"Stockport",
-         "GraphCode":""
+         "GraphCode":"835"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5008&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5103,7 +5103,7 @@
          "River":"Mersey",
          "station":"Ashton Weir",
          "Town":"Urmston",
-         "GraphCode":""
+         "GraphCode":"833"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5107&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5111,7 +5111,7 @@
          "River":"Sinderland Brk",
          "station":"Partington",
          "Town":"Partington",
-         "GraphCode":""
+         "GraphCode":"844"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5112&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5119,7 +5119,7 @@
          "River":"Tame",
          "station":"Portwood",
          "Town":"Bredbury",
-         "GraphCode":""
+         "GraphCode":"845"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5143&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5127,7 +5127,7 @@
          "River":"Tame",
          "station":"Uppermill",
          "Town":"Greenfield",
-         "GraphCode":""
+         "GraphCode":"848"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5023&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5135,7 +5135,7 @@
          "River":"Tame",
          "station":"Broomstairs Bridge",
          "Town":"Haughton Green",
-         "GraphCode":""
+         "GraphCode":"836"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=5145&RegionId=4&AreaId=12&CatchmentId=65",
@@ -5143,7 +5143,7 @@
          "River":"Tame",
          "station":"Waggon Road",
          "Town":"Mossley",
-         "GraphCode":""
+         "GraphCode":"849"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3014&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5151,7 +5151,7 @@
          "River":"Avonmouth Tide",
          "station":"Avonmouth",
          "Town":"Avonmouth",
-         "GraphCode":""
+         "GraphCode":"1942"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3032&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5159,7 +5159,7 @@
          "River":"Brislington Brook",
          "station":"Brislington",
          "Town":"Brislington",
-         "GraphCode":""
+         "GraphCode":"1049"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3009&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5167,7 +5167,7 @@
          "River":"Bristol Frome",
          "station":"Chipping Sodbury",
          "Town":"Chipping Sodbury",
-         "GraphCode":""
+         "GraphCode":"1035"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3029&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5175,7 +5175,7 @@
          "River":"Bristol Frome",
          "station":"Frampton Cotterell",
          "Town":"Frampton Cotterell",
-         "GraphCode":""
+         "GraphCode":"1046"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3036&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5183,7 +5183,7 @@
          "River":"Bristol Frome",
          "station":"Frenchay",
          "Town":"Hambrook",
-         "GraphCode":""
+         "GraphCode":"1053"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3023&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5191,7 +5191,7 @@
          "River":"Bristol Frome",
          "station":"Tubbs Bottom",
          "Town":"Iron Acton",
-         "GraphCode":""
+         "GraphCode":"1042"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3006&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5207,7 +5207,7 @@
          "River":"By Brook",
          "station":"Middlehill",
          "Town":"Ashley",
-         "GraphCode":""
+         "GraphCode":"1057"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3022&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5215,7 +5215,7 @@
          "River":"By Brook",
          "station":"West Kington",
          "Town":"West Kington",
-         "GraphCode":""
+         "GraphCode":"1041"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3044&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5223,7 +5223,7 @@
          "River":"Chew River",
          "station":"Compton Dando",
          "Town":"Compton Dando",
-         "GraphCode":""
+         "GraphCode":"1061"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3031&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5231,7 +5231,7 @@
          "River":"Chew Stoke Brook",
          "station":"Chew Stoke",
          "Town":"Chew Stoke",
-         "GraphCode":""
+         "GraphCode":"1048"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3033&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5239,7 +5239,7 @@
          "River":"Colliters Brook",
          "station":"Colliters Brook",
          "Town":"Bishopsworth",
-         "GraphCode":""
+         "GraphCode":"1050"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3060&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5247,7 +5247,7 @@
          "River":"Congresbury Yeo",
          "station":"Iwood",
          "Town":"Congresbury",
-         "GraphCode":""
+         "GraphCode":"1069"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3030&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5255,7 +5255,7 @@
          "River":"Dauntsey Brook",
          "station":"Dauntsey",
          "Town":"Dauntsey",
-         "GraphCode":""
+         "GraphCode":"1047"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3018&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5263,7 +5263,7 @@
          "River":"Gauze Brook",
          "station":"Rodbourne",
          "Town":"Rodbourne",
-         "GraphCode":""
+         "GraphCode":"1039"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3050&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5271,7 +5271,7 @@
          "River":"Mells River",
          "station":"Vallis",
          "Town":"Great Elm",
-         "GraphCode":""
+         "GraphCode":"1067"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3024&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5279,7 +5279,7 @@
          "River":"Mells River",
          "station":"Stoke Bottom Farm",
          "Town":"Nettlebridge",
-         "GraphCode":""
+         "GraphCode":"1043"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3045&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5287,7 +5287,7 @@
          "River":"Midford Brook",
          "station":"Midford",
          "Town":"Southstoke",
-         "GraphCode":""
+         "GraphCode":"1062"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3005&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5295,7 +5295,7 @@
          "River":"Nunney Brook",
          "station":"Holwell",
          "Town":"Nunney",
-         "GraphCode":""
+         "GraphCode":"1034"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3041&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5303,7 +5303,7 @@
          "River":"River Avon",
          "station":"Bathford",
          "Town":"Batheaston",
-         "GraphCode":""
+         "GraphCode":"1058"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3037&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5311,7 +5311,7 @@
          "River":"River Avon",
          "station":"Netham Weir",
          "Town":"Bristol",
-         "GraphCode":""
+         "GraphCode":"1058"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3027&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5319,7 +5319,7 @@
          "River":"River Avon",
          "station":"Great Somerford",
          "Town":"Great Somerford",
-         "GraphCode":""
+         "GraphCode":"1044"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3013&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5327,7 +5327,7 @@
          "River":"River Avon",
          "station":"Ashton Vale",
          "Town":"Leigh Woods",
-         "GraphCode":""
+         "GraphCode":"1036"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3043&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5335,7 +5335,7 @@
          "River":"River Avon",
          "station":"Saltford",
          "Town":"Saltford",
-         "GraphCode":""
+         "GraphCode":"1060"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3042&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5351,7 +5351,7 @@
          "River":"River Avon",
          "station":"Bradford on Avon",
          "Town":"Westwood",
-         "GraphCode":""
+         "GraphCode":"1037"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3059&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5359,7 +5359,7 @@
          "River":"River Axe",
          "station":"Wookey",
          "Town":"Wookey",
-         "GraphCode":""
+         "GraphCode":"1068"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3052&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5375,7 +5375,7 @@
          "River":"River Biss",
          "station":"Trowbridge",
          "Town":"Trowbridge",
-         "GraphCode":""
+         "GraphCode":"1064"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3039&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5383,7 +5383,7 @@
          "River":"River Boyd",
          "station":"Bitton",
          "Town":"Bitton",
-         "GraphCode":""
+         "GraphCode":"1056"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3021&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5391,7 +5391,7 @@
          "River":"River Boyd",
          "station":"Wick",
          "Town":"Wick",
-         "GraphCode":""
+         "GraphCode":"1040"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3026&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5407,7 +5407,7 @@
          "River":"River Marden",
          "station":"Stanley",
          "Town":"Tytherton Lucas",
-         "GraphCode":""
+         "GraphCode":"1055"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3046&RegionId=5&AreaId=7&CatchmentId=30",
@@ -5415,7 +5415,7 @@
          "River":"Semington Brook",
          "station":"Semington",
          "Town":"Semington",
-         "GraphCode":""
+         "GraphCode":"1063"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3035&RegionId=5&AreaId=7&CatchmentId=30",
