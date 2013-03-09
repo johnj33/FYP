@@ -49,7 +49,8 @@ var ViewGauge = function() {
     }
 };
 
-var GetCurrentLocation = function() {
+var GetCurrentLocation = function () {
+    window.location = "MapPage/MapPage.html";
     //var suc = function(p) {
     //    try {
     //        var mapOptions = {
@@ -125,7 +126,6 @@ function jsonparse(data) {
             
         }
 
-        showdetailstemp();
         rivers.sort();
         rivers.forEach(addRiver);
 
@@ -138,39 +138,6 @@ function jsonparse(data) {
         alert("toString(): " + " value: [" + err.toString() + "]");
 
     }
-}
-var text = "{\"gauges\":[";
-
-function showdetailstemp() {
-
-    document.getElementById("jsontxt").textContent = text;
-    for (var i = 0; i < gauges.length; i++) {
-
-        //if (i == 0) {
-        //    var geocoder = new google.maps.Geocoder();
-        //    geocoder.geocode({ 'address': gauges[i].town }, function (results, status) {
-        //        if (status == google.maps.GeocoderStatus.OK) {
-        //            //try {
-        //            document.getElementById("jsontxt").textContent += results[0].geometry.location;
-        //            //alert(results[0].geometry.location);
-        //            //gauges[i].loc = results[0].geometry.location;
-        //            //text += gauges[i].toString();
-        //            //alert(i);
-        //            //if (i == gauges.length) {
-        //            //    document.getElementById("jsontxt").textContent = text;
-        //            //    alert("true");
-        //            //}
-        //            //} catch(e) {
-        //            //    alert(e);
-        //            //} 
-        //        } else {
-        //            alert("Geocode was not successful for the following reason: " + status);
-        //        }
-                
-        //    });
-        //}
-    }
-
 }
 
 function addRiver(river) {
