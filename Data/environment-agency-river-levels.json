@@ -6774,7 +6774,7 @@
          "River":"River Allen",
          "station":"Loverley Mill",
          "Town":"Moor Crichel",
-         "GraphCode":"",
+         "GraphCode":"1079",
          "loc":"50.8771130-2.0123080"
       },
       {
@@ -6783,7 +6783,7 @@
          "River":"River Allen",
          "station":"Walford Mill",
          "Town":"Wimborne Minster",
-         "GraphCode":"",
+         "GraphCode":"1074",
          "loc":"50.8006570-1.9844950"
       },
       {
@@ -6792,7 +6792,7 @@
          "River":"River Cale",
          "station":"Wincanton",
          "Town":"Wincanton",
-         "GraphCode":"",
+         "GraphCode":"1073",
          "loc":"51.0556880-2.4160070"
       },
       {
@@ -6801,7 +6801,7 @@
          "River":"River Lodden",
          "station":"Lodden Bridge",
          "Town":"Gillingham",
-         "GraphCode":"",
+         "GraphCode":"1082",
          "loc":"51.38632200.5514380"
       },
       {
@@ -6810,7 +6810,7 @@
          "River":"River Stour",
          "station":"Blandford",
          "Town":"Blandford St Mary",
-         "GraphCode":"",
+         "GraphCode":"1080",
          "loc":"50.8510160-2.1582960"
       },
       {
@@ -6819,7 +6819,7 @@
          "River":"River Stour",
          "station":"Ensbury",
          "Town":"Ensbury",
-         "GraphCode":"",
+         "GraphCode":"1070",
          "loc":"51.4800076-0.1193557"
       },
       {
@@ -6828,7 +6828,7 @@
          "River":"River Stour",
          "station":"Gillingham Le Neubourg Way",
          "Town":"Gillingham",
-         "GraphCode":"",
+         "GraphCode":"1071",
          "loc":"51.38632200.5514380"
       },
       {
@@ -6837,7 +6837,7 @@
          "River":"River Stour",
          "station":"Hammoon",
          "Town":"Hammoon",
-         "GraphCode":"",
+         "GraphCode":"1081",
          "loc":"50.9283069-2.2633870"
       },
       {
@@ -6846,7 +6846,7 @@
          "River":"River Stour",
          "station":"Milton on Stour",
          "Town":"Milton On Stour",
-         "GraphCode":"",
+         "GraphCode":"1072",
          "loc":"51.0555290-2.2892750"
       },
       {
@@ -6855,7 +6855,7 @@
          "River":"River Stour",
          "station":"Wimborne",
          "Town":"Oakley",
-         "GraphCode":"",
+         "GraphCode":"1077",
          "loc":"37.9974219-121.7124536"
       },
       {
@@ -6864,7 +6864,7 @@
          "River":"River Stour",
          "station":"Iford Bridge",
          "Town":"Pokesdown",
-         "GraphCode":"",
+         "GraphCode":"1075",
          "loc":"50.7283910-1.8237300"
       },
       {
@@ -6873,7 +6873,7 @@
          "River":"River Stour",
          "station":"Throop",
          "Town":"Throop",
-         "GraphCode":"",
+         "GraphCode":"1078",
          "loc":"41.4514694-75.6118548"
       },
       {
@@ -6882,7 +6882,7 @@
          "River":"Shreen Water",
          "station":"Colesbrook",
          "Town":"Milton On Stour",
-         "GraphCode":"",
+         "GraphCode":"1083",
          "loc":"51.0555290-2.2892750"
       },
       {
@@ -6891,7 +6891,7 @@
          "River":"Bickerly Mill Stream",
          "station":"Ringwood Riverside Terrace",
          "Town":"Ringwood",
-         "GraphCode":"",
+         "GraphCode":"1120",
          "loc":"41.1134289-74.2454254"
       },
       {
@@ -6900,7 +6900,7 @@
          "River":"Chitterne Brook",
          "station":"Codford",
          "Town":"Codford St Mary",
-         "GraphCode":"",
+         "GraphCode":"1110",
          "loc":"51.1549020-2.0424680"
       },
       {
@@ -6909,7 +6909,7 @@
          "River":"Docken's Water",
          "station":"Moyles Court",
          "Town":"Mockbeggar",
-         "GraphCode":"",
+         "GraphCode":"1103",
          "loc":"51.19551900.4531570"
       },
       {
@@ -6918,7 +6918,7 @@
          "River":"Groundwater level",
          "station":"Tilshead",
          "Town":"Orcheston",
-         "GraphCode":"",
+         "GraphCode":"1106",
          "loc":"51.2098230-1.9181200"
       },
       {
@@ -6927,7 +6927,7 @@
          "River":"River Avon",
          "station":"Amesbury",
          "Town":"Amesbury",
-         "GraphCode":"",
+         "GraphCode":"1114",
          "loc":"42.8583925-70.9300376"
       },
       {
@@ -6936,7 +6936,7 @@
          "River":"River Avon",
          "station":"Knapp Mill",
          "Town":"Burton",
-         "GraphCode":"",
+         "GraphCode":"1109",
          "loc":"52.8140281-1.6371359"
       },
       {
@@ -6945,7 +6945,7 @@
          "River":"River Avon",
          "station":"East Mills Flume",
          "Town":"Fordingbridge",
-         "GraphCode":"",
+         "GraphCode":"1105",
          "loc":"50.9258359-1.7925260"
       },
       {
@@ -6954,7 +6954,7 @@
          "River":"River Avon",
          "station":"East Mills Weir",
          "Town":"Fordingbridge",
-         "GraphCode":"",
+         "GraphCode":"1104",
          "loc":"50.9258359-1.7925260"
       },
       {
@@ -6963,7 +6963,7 @@
          "River":"River Avon",
          "station":"Upavon East",
          "Town":"Rushall",
-         "GraphCode":"",
+         "GraphCode":"1113",
          "loc":"52.6069490-1.9595280"
       },
       {
@@ -6972,7 +6972,7 @@
          "River":"River Avon",
          "station":"Salisbury",
          "Town":"Salisbury",
-         "GraphCode":"",
+         "GraphCode":"1117",
          "loc":"51.0687850-1.7944720"
       },
       {
@@ -6981,7 +6981,7 @@
          "River":"River Avon",
          "station":"Upavon West",
          "Town":"Upavon",
-         "GraphCode":"",
+         "GraphCode":"1112",
          "loc":"51.2928770-1.8091780"
       },
       {
@@ -6990,7 +6990,7 @@
          "River":"River Bourne",
          "station":"Idmiston",
          "Town":"Idmiston",
-         "GraphCode":"",
+         "GraphCode":"1101",
          "loc":"51.1301616-1.7255270"
       },
       {
@@ -6999,7 +6999,7 @@
          "River":"River Bourne",
          "station":"Laverstock",
          "Town":"Laverstock",
-         "GraphCode":"",
+         "GraphCode":"1108",
          "loc":"51.0765070-1.7707090"
       },
       {
@@ -7017,7 +7017,7 @@
          "River":"River Bourne",
          "station":"Salisbury Bourne",
          "Town":"Salisbury",
-         "GraphCode":"",
+         "GraphCode":"1100",
          "loc":"51.0687850-1.7944720"
       },
       {
@@ -7026,7 +7026,7 @@
          "River":"River Ebble",
          "station":"Nunton Bridge",
          "Town":"Nunton",
-         "GraphCode":"",
+         "GraphCode":"1107",
          "loc":"51.0329260-1.7775830"
       },
       {
@@ -7035,7 +7035,7 @@
          "River":"River Nadder",
          "station":"Tisbury",
          "Town":"Tisbury",
-         "GraphCode":"",
+         "GraphCode":"1119",
          "loc":"41.4558899-70.6141097"
       },
       {
@@ -7044,7 +7044,7 @@
          "River":"River Nadder",
          "station":"Wilton",
          "Town":"Wilton",
-         "GraphCode":"",
+         "GraphCode":"1118",
          "loc":"41.2013889-73.4375000"
       },
       {
@@ -7053,7 +7053,7 @@
          "River":"River Wylye",
          "station":"Brixton Deverill",
          "Town":"Monkton Deverill",
-         "GraphCode":"",
+         "GraphCode":"1111",
          "loc":"51.1371759-2.2060540"
       },
       {
@@ -7062,7 +7062,7 @@
          "River":"River Wylye",
          "station":"Norton Bavant",
          "Town":"Norton Bavant",
-         "GraphCode":"",
+         "GraphCode":"1115",
          "loc":"51.2047778-2.1193267"
       },
       {
@@ -7071,7 +7071,7 @@
          "River":"River Wylye",
          "station":"South Newton",
          "Town":"South Newton",
-         "GraphCode":"",
+         "GraphCode":"1116",
          "loc":"42.3370413-71.2092214"
       },
       {
@@ -7080,7 +7080,7 @@
          "River":"Exe Estuary",
          "station":"Lympstone",
          "Town":"Lympstone",
-         "GraphCode":"",
+         "GraphCode":"860",
          "loc":"50.6481939-3.4294850"
       },
       {
@@ -7089,7 +7089,7 @@
          "River":"Exminster Marshes",
          "station":"Limekilns",
          "Town":"Exminster",
-         "GraphCode":"",
+         "GraphCode":"873",
          "loc":"50.6765649-3.4948760"
       },
       {
@@ -7098,7 +7098,7 @@
          "River":"Exminster Marshes",
          "station":"Swans Nest",
          "Town":"Exminster",
-         "GraphCode":"",
+         "GraphCode":"861",
          "loc":"50.6765649-3.4948760"
       },
       {
@@ -7107,7 +7107,7 @@
          "River":"River Barle",
          "station":"Brushford",
          "Town":"Brushford",
-         "GraphCode":"",
+         "GraphCode":"876",
          "loc":"51.0196530-3.5439050"
       },
       {
@@ -7116,7 +7116,7 @@
          "River":"River Barle",
          "station":"Simonsbath",
          "Town":"Simonsbath",
-         "GraphCode":"",
+         "GraphCode":"862",
          "loc":"51.1390980-3.7551970"
       },
       {
@@ -7125,7 +7125,7 @@
          "River":"River Batherm",
          "station":"Bampton",
          "Town":"Bampton",
-         "GraphCode":"",
+         "GraphCode":"863",
          "loc":"51.7234530-1.5491050"
       },
       {
@@ -7134,7 +7134,7 @@
          "River":"River Clyst",
          "station":"Ashclyst",
          "Town":"Ashclyst",
-         "GraphCode":"",
+         "GraphCode":"869",
          "loc":"50.7622949-3.4383179"
       },
       {
@@ -7143,7 +7143,7 @@
          "River":"River Clyst",
          "station":"Clyst Honiton",
          "Town":"Clyst Honiton",
-         "GraphCode":"",
+         "GraphCode":"870",
          "loc":"50.7344990-3.4347050"
       },
       {
@@ -7152,7 +7152,7 @@
          "River":"River Creedy",
          "station":"Cowley Bridge",
          "Town":"Cowley",
-         "GraphCode":"",
+         "GraphCode":"880",
          "loc":"44.8832856-108.4695651"
       },
       {
@@ -7161,7 +7161,7 @@
          "River":"River Creedy",
          "station":"Upton Hellions",
          "Town":"Upton Hellions",
-         "GraphCode":"",
+         "GraphCode":"865",
          "loc":"50.8193220-3.6450810"
       },
       {
@@ -7170,7 +7170,7 @@
          "River":"River Culm",
          "station":"Woodmill",
          "Town":"Cullompton",
-         "GraphCode":"",
+         "GraphCode":"878",
          "loc":"50.8552290-3.3917010"
       },
       {
@@ -7179,7 +7179,7 @@
          "River":"River Culm",
          "station":"Rewe",
          "Town":"Rewe",
-         "GraphCode":"",
+         "GraphCode":"867",
          "loc":"50.7856420-3.5836010"
       },
       {
@@ -7188,7 +7188,7 @@
          "River":"River Exe",
          "station":"Exwick",
          "Town":"Exeter",
-         "GraphCode":"",
+         "GraphCode":"881",
          "loc":"50.7184120-3.5338990"
       },
       {
@@ -7197,7 +7197,7 @@
          "River":"River Exe",
          "station":"Trews Weir",
          "Town":"Exeter",
-         "GraphCode":"",
+         "GraphCode":"871",
          "loc":"50.7184120-3.5338990"
       },
       {
@@ -7206,7 +7206,7 @@
          "River":"River Exe",
          "station":"Exford",
          "Town":"Exford",
-         "GraphCode":"",
+         "GraphCode":"874",
          "loc":"51.1338620-3.6411430"
       },
       {
@@ -7215,7 +7215,7 @@
          "River":"River Exe",
          "station":"Pixton",
          "Town":"Pixton",
-         "GraphCode":"",
+         "GraphCode":"875",
          "loc":"51.10002750.0516293"
       },
       {
@@ -7224,7 +7224,7 @@
          "River":"River Exe",
          "station":"Stoodleigh",
          "Town":"Stoodleigh",
-         "GraphCode":"",
+         "GraphCode":"877",
          "loc":"50.9605010-3.5397920"
       },
       {
@@ -7233,7 +7233,7 @@
          "River":"River Exe",
          "station":"Thorverton",
          "Town":"Thorverton",
-         "GraphCode":"",
+         "GraphCode":"879",
          "loc":"50.8063360-3.5300950"
       },
       {
@@ -7242,7 +7242,7 @@
          "River":"River Exe",
          "station":"Tiverton",
          "Town":"Tiverton",
-         "GraphCode":"",
+         "GraphCode":"866",
          "loc":"41.6259211-71.2134231"
       },
       {
@@ -7251,7 +7251,7 @@
          "River":"River Lowman",
          "station":"Craze Lowman",
          "Town":"Chevithorne",
-         "GraphCode":"",
+         "GraphCode":"868",
          "loc":"50.9295910-3.4563050"
       },
       {
@@ -7260,7 +7260,7 @@
          "River":"River Yeo",
          "station":"Yeoford",
          "Town":"Yeoford",
-         "GraphCode":"",
+         "GraphCode":"864",
          "loc":"50.7771210-3.7302180"
       },
       {
@@ -7269,7 +7269,7 @@
          "River":"South Devon Coast",
          "station":"Exmouth",
          "Town":"Exmouth Tide",
-         "GraphCode":"",
+         "GraphCode":"872",
          "loc":"50.6186915-3.4059041"
       },
       {
@@ -7278,7 +7278,7 @@
          "River":"Bradiford Water",
          "station":"Plaistow Mill",
          "Town":"Muddiford",
-         "GraphCode":"",
+         "GraphCode":"972",
          "loc":"51.1267900-4.0578230"
       },
       {
@@ -7287,7 +7287,7 @@
          "River":"Coney Gut",
          "station":"Coney Gut",
          "Town":"Barnstaple",
-         "GraphCode":"",
+         "GraphCode":"976",
          "loc":"51.0781599-4.0583380"
       },
       {
@@ -7296,7 +7296,7 @@
          "River":"Coney Gut",
          "station":"Portmarsh Lane",
          "Town":"Barnstaple",
-         "GraphCode":"",
+         "GraphCode":"971",
          "loc":"51.0781599-4.0583380"
       },
       {
@@ -7305,7 +7305,7 @@
          "River":"East Lyn River",
          "station":"Brendon",
          "Town":"Brendon",
-         "GraphCode":"",
+         "GraphCode":"966",
          "loc":"52.6181828-1.6469374"
       },
       {
@@ -7314,7 +7314,7 @@
          "River":"Landkey Brook",
          "station":"Swimbridge",
          "Town":"Swimbridge",
-         "GraphCode":"",
+         "GraphCode":"970",
          "loc":"51.0520319-3.9722200"
       },
       {
@@ -7323,7 +7323,7 @@
          "River":"Little Dart",
          "station":"Chulmleigh",
          "Town":"Chulmleigh",
-         "GraphCode":"",
+         "GraphCode":"977",
          "loc":"50.9139660-3.8694150"
       },
       {
@@ -7332,7 +7332,7 @@
          "River":"North Devon Coast",
          "station":"Ilfracombe",
          "Town":"Ilfracombe",
-         "GraphCode":"",
+         "GraphCode":"1944",
          "loc":"51.2051630-4.1267620"
       },
       {
@@ -7341,7 +7341,7 @@
          "River":"River Bray",
          "station":"Newtown Bridge",
          "Town":"Charles",
-         "GraphCode":"",
+         "GraphCode":"974",
          "loc":"38.5221781-77.1024902"
       },
       {
@@ -7350,7 +7350,7 @@
          "River":"River Caen (Tidal)",
          "station":"Braunton",
          "Town":"Braunton",
-         "GraphCode":"",
+         "GraphCode":"978",
          "loc":"51.1080390-4.1610140"
       },
       {
@@ -7368,7 +7368,7 @@
          "River":"River Mole",
          "station":"North Molton",
          "Town":"North Molton",
-         "GraphCode":"",
+         "GraphCode":"973",
          "loc":"51.0654362-3.8035006"
       },
       {
@@ -7377,7 +7377,7 @@
          "River":"River Mole",
          "station":"Mole Mills",
          "Town":"South Molton",
-         "GraphCode":"",
+         "GraphCode":"964",
          "loc":"51.0168180-3.8321190"
       },
       {
@@ -7386,7 +7386,7 @@
          "River":"River Taw",
          "station":"Taw Bridge",
          "Town":"Brushford",
-         "GraphCode":"",
+         "GraphCode":"979",
          "loc":"51.0196530-3.5439050"
       },
       {
@@ -7395,7 +7395,7 @@
          "River":"River Taw",
          "station":"Newnham Bridge",
          "Town":"Burrington",
-         "GraphCode":"",
+         "GraphCode":"975",
          "loc":"35.8460050-79.0334950"
       },
       {
@@ -7404,7 +7404,7 @@
          "River":"River Taw",
          "station":"Sticklepath",
          "Town":"Sticklepath",
-         "GraphCode":"",
+         "GraphCode":"967",
          "loc":"50.7305080-3.9263080"
       },
       {
@@ -7413,7 +7413,7 @@
          "River":"River Taw",
          "station":"Umberleigh",
          "Town":"Umberleigh",
-         "GraphCode":"",
+         "GraphCode":"969",
          "loc":"50.9969420-3.9849800"
       },
       {
@@ -7422,7 +7422,7 @@
          "River":"River Yeo",
          "station":"Veraby",
          "Town":"Bishop's Nympton",
-         "GraphCode":"",
+         "GraphCode":"968",
          "loc":"50.9995040-3.7713780"
       },
       {
@@ -7431,7 +7431,7 @@
          "River":"River Yeo",
          "station":"Collard Bridge",
          "Town":"Goodleigh",
-         "GraphCode":"",
+         "GraphCode":"981",
          "loc":"51.0867670-3.9999340"
       },
       {
@@ -7440,7 +7440,7 @@
          "River":"River Yeo",
          "station":"Lapford",
          "Town":"Lapford",
-         "GraphCode":"",
+         "GraphCode":"965",
          "loc":"50.8605810-3.7991680"
       },
       {
@@ -7449,7 +7449,7 @@
          "River":"East Okement River",
          "station":"Fatherford",
          "Town":"Okehampton",
-         "GraphCode":"",
+         "GraphCode":"1011",
          "loc":"50.7383080-4.0042630"
       },
       {
@@ -7458,7 +7458,7 @@
          "River":"East Okement River",
          "station":"East Okement Farm",
          "Town":"Okehampton Camp",
-         "GraphCode":"",
+         "GraphCode":"1006",
          "loc":"50.7191740-4.0027200"
       },
       {
@@ -7467,7 +7467,7 @@
          "River":"North Devon Coast",
          "station":"Appledore",
          "Town":"Appledore",
-         "GraphCode":"",
+         "GraphCode":"1012",
          "loc":"51.0537780-4.1930560"
       },
       {
@@ -7476,7 +7476,7 @@
          "River":"River Lew",
          "station":"Gribbleford Bridge",
          "Town":"Hatherleigh",
-         "GraphCode":"",
+         "GraphCode":"1013",
          "loc":"50.8191750-4.0724010"
       },
       {
@@ -7485,7 +7485,7 @@
          "River":"River North Lew",
          "station":"Norley Bridge",
          "Town":"Northlew",
-         "GraphCode":"",
+         "GraphCode":"1010",
          "loc":"50.7737810-4.1238950"
       },
       {
@@ -7494,7 +7494,7 @@
          "River":"River Okement",
          "station":"Jacobstowe",
          "Town":"Jacobstowe",
-         "GraphCode":"",
+         "GraphCode":"1014",
          "loc":"50.7921184-4.0201907"
       },
       {
@@ -7503,7 +7503,7 @@
          "River":"River Torridge",
          "station":"Dolton",
          "Town":"Dolton",
-         "GraphCode":"",
+         "GraphCode":"1016",
          "loc":"41.6389236-87.6072680"
       },
       {
@@ -7512,7 +7512,7 @@
          "River":"River Torridge",
          "station":"Torrington",
          "Town":"Great Torrington",
-         "GraphCode":"",
+         "GraphCode":"1017",
          "loc":"50.9519820-4.1406160"
       },
       {
@@ -7521,7 +7521,7 @@
          "River":"River Torridge",
          "station":"Rockhay Bridge",
          "Town":"Sheepwash",
-         "GraphCode":"",
+         "GraphCode":"1015",
          "loc":"50.8373769-4.1528610"
       },
       {
@@ -7530,7 +7530,7 @@
          "River":"River Torridge",
          "station":"Weare Giffard",
          "Town":"Weare Giffard",
-         "GraphCode":"",
+         "GraphCode":"1008",
          "loc":"50.9763350-4.1710640"
       },
       {
@@ -7539,7 +7539,7 @@
          "River":"River Waldon",
          "station":"Bradworthy",
          "Town":"Bradworthy",
-         "GraphCode":"",
+         "GraphCode":"1007",
          "loc":"50.9016820-4.3847240"
       },
       {
@@ -7557,7 +7557,7 @@
          "River":"De Lank River",
          "station":"De Lank",
          "Town":"St Breward",
-         "GraphCode":"",
+         "GraphCode":"902",
          "loc":"50.5423029-4.7010540"
       },
       {
@@ -7566,7 +7566,7 @@
          "River":"North Cornwall Coast",
          "station":"Bude",
          "Town":"Bude",
-         "GraphCode":"",
+         "GraphCode":"897",
          "loc":"31.4629491-90.8501014"
       },
       {
@@ -7575,7 +7575,7 @@
          "River":"North Cornwall Coast",
          "station":"Padstow",
          "Town":"Padstow",
-         "GraphCode":"",
+         "GraphCode":"906",
          "loc":"50.5420620-4.9390170"
       },
       {
@@ -7584,7 +7584,7 @@
          "River":"North Cornwall Coast",
          "station":"Wadebridge",
          "Town":"Wadebridge",
-         "GraphCode":"",
+         "GraphCode":"904",
          "loc":"50.5166540-4.8364560"
       },
       {
@@ -7593,7 +7593,7 @@
          "River":"River Allen",
          "station":"Penvose",
          "Town":"St Kew Highway",
-         "GraphCode":"",
+         "GraphCode":"905",
          "loc":"50.5433760-4.7783380"
       },
       {
@@ -7611,7 +7611,7 @@
          "River":"River Camel",
          "station":"Slaughterbridge",
          "Town":"Camelford",
-         "GraphCode":"",
+         "GraphCode":"900",
          "loc":"50.6220550-4.6823640"
       },
       {
@@ -7620,7 +7620,7 @@
          "River":"River Camel",
          "station":"Denby",
          "Town":"Denby",
-         "GraphCode":"",
+         "GraphCode":"910",
          "loc":"39.2689362-89.9039894"
       },
       {
@@ -7629,7 +7629,7 @@
          "River":"River Camel",
          "station":"Sladesbridge",
          "Town":"Sladesbridge",
-         "GraphCode":"",
+         "GraphCode":"899",
          "loc":"50.5073210-4.8015720"
       },
       {
@@ -7638,7 +7638,7 @@
          "River":"River Gannel",
          "station":"Gwills",
          "Town":"Gwills",
-         "GraphCode":"",
+         "GraphCode":"901",
          "loc":"38.4411818-84.6366113"
       },
       {
@@ -7656,7 +7656,7 @@
          "River":"River Neet",
          "station":"Helebridge",
          "Town":"Marhamchurch",
-         "GraphCode":"",
+         "GraphCode":"909",
          "loc":"50.8057919-4.5227160"
       },
       {
@@ -7665,7 +7665,7 @@
          "River":"River Neet",
          "station":"Woolstone Mill",
          "Town":"Titson",
-         "GraphCode":"",
+         "GraphCode":"898",
          "loc":"50.7888540-4.4958280"
       },
       {
@@ -7674,7 +7674,7 @@
          "River":"River Strat",
          "station":"Bush",
          "Town":"Stratton",
-         "GraphCode":"",
+         "GraphCode":"907",
          "loc":"43.0613889-72.9041667"
       },
       {
@@ -7683,7 +7683,7 @@
          "River":"River Valency",
          "station":"Boscastle New Mills",
          "Town":"Boscastle",
-         "GraphCode":"",
+         "GraphCode":"903",
          "loc":"50.6869140-4.6928320"
       },
       {
@@ -7692,7 +7692,7 @@
          "River":"Pol River",
          "station":"Polperro",
          "Town":"Polperro",
-         "GraphCode":"",
+         "GraphCode":"932",
          "loc":"50.3316144-4.5169902"
       },
       {
@@ -7701,7 +7701,7 @@
          "River":"River Fowey",
          "station":"Trekeivesteps",
          "Town":"Common Moor",
-         "GraphCode":"",
+         "GraphCode":"931",
          "loc":"54.417351510.3423379"
       },
       {
@@ -7710,7 +7710,7 @@
          "River":"River Fowey",
          "station":"Restormel",
          "Town":"Lostwithiel",
-         "GraphCode":"",
+         "GraphCode":"934",
          "loc":"50.4060210-4.6750679"
       },
       {
@@ -7719,7 +7719,7 @@
          "River":"River Fowey",
          "station":"Wainsford",
          "Town":"Mount",
-         "GraphCode":"",
+         "GraphCode":"929",
          "loc":"39.7656664-76.6722015"
       },
       {
@@ -7728,7 +7728,7 @@
          "River":"River Seaton",
          "station":"Trebrownbridge",
          "Town":"Seaton",
-         "GraphCode":"",
+         "GraphCode":"928",
          "loc":"50.7052740-3.0720869"
       },
       {
@@ -7737,7 +7737,7 @@
          "River":"St Neot River",
          "station":"Craigshill Wood",
          "Town":"St Neot",
-         "GraphCode":"",
+         "GraphCode":"933",
          "loc":"50.4820000-4.5590000"
       },
       {
@@ -7746,7 +7746,7 @@
          "River":"Warleggan River",
          "station":"Trengoffe",
          "Town":"Mount",
-         "GraphCode":"",
+         "GraphCode":"930",
          "loc":"39.7656664-76.6722015"
       },
       {
@@ -7755,7 +7755,7 @@
          "River":"Bolingey Stream",
          "station":"Bolingey",
          "Town":"Bolingey",
-         "GraphCode":"",
+         "GraphCode":"1025",
          "loc":"50.3367810-5.1431180"
       },
       {
@@ -7764,7 +7764,7 @@
          "River":"North Cornwall Coast",
          "station":"St Ives",
          "Town":"St Ives",
-         "GraphCode":"",
+         "GraphCode":"1018",
          "loc":"50.2152089-5.4777498"
       },
       {
@@ -7773,7 +7773,7 @@
          "River":"Perrancombe Stream",
          "station":"Rose in Vale",
          "Town":"Mithian",
-         "GraphCode":"",
+         "GraphCode":"1026",
          "loc":"50.3119190-5.1686290"
       },
       {
@@ -7782,7 +7782,7 @@
          "River":"Perrancombe Stream",
          "station":"Perrancoombe",
          "Town":"Perranporth",
-         "GraphCode":"",
+         "GraphCode":"1022",
          "loc":"50.3444340-5.1544440"
       },
       {
@@ -7791,7 +7791,7 @@
          "River":"River Cober",
          "station":"Loe Pool",
          "Town":"Helston",
-         "GraphCode":"",
+         "GraphCode":"1023",
          "loc":"50.1015930-5.2749960"
       },
       {
@@ -7800,7 +7800,7 @@
          "River":"River Cober",
          "station":"Boscadjack",
          "Town":"Wendron",
-         "GraphCode":"",
+         "GraphCode":"1019",
          "loc":"50.1332330-5.2501580"
       },
       {
@@ -7809,7 +7809,7 @@
          "River":"River Hayle",
          "station":"Relubbus",
          "Town":"Relubbus",
-         "GraphCode":"",
+         "GraphCode":"1021",
          "loc":"50.1359050-5.4071030"
       },
       {
@@ -7818,7 +7818,7 @@
          "River":"River Hayle",
          "station":"St Erth",
          "Town":"St Erth",
-         "GraphCode":"",
+         "GraphCode":"1020",
          "loc":"50.1660000-5.4370000"
       },
       {
@@ -7827,7 +7827,7 @@
          "River":"River Hayle (Tidal)",
          "station":"Hayle Tideflap",
          "Town":"Hayle",
-         "GraphCode":"",
+         "GraphCode":"1024",
          "loc":"50.1854670-5.4209100"
       },
       {
@@ -7836,7 +7836,7 @@
          "River":"South Cornwall Coast",
          "station":"Newlyn",
          "Town":"Newlyn",
-         "GraphCode":"",
+         "GraphCode":"1945",
          "loc":"50.1070580-5.5503289"
       },
       {
@@ -7845,7 +7845,7 @@
          "River":"Carnon River",
          "station":"Bissoe",
          "Town":"Bissoe",
-         "GraphCode":"",
+         "GraphCode":"888",
          "loc":"50.2324960-5.1216920"
       },
       {
@@ -7854,7 +7854,7 @@
          "River":"Par River",
          "station":"Luxulyan",
          "Town":"Luxulyan",
-         "GraphCode":"",
+         "GraphCode":"887",
          "loc":"50.3903810-4.7460630"
       },
       {
@@ -7863,7 +7863,7 @@
          "River":"Par River",
          "station":"Ponts Vale",
          "Town":"Tywardreath Highway",
-         "GraphCode":"",
+         "GraphCode":"892",
          "loc":"50.3664630-4.7084410"
       },
       {
@@ -7872,7 +7872,7 @@
          "River":"River Allen (downstream)",
          "station":"Idless Dam",
          "Town":"Idless",
-         "GraphCode":"",
+         "GraphCode":"894",
          "loc":"50.2869330-5.0605170"
       },
       {
@@ -7881,7 +7881,7 @@
          "River":"River Fal",
          "station":"Trenowth",
          "Town":"Grampound Road",
-         "GraphCode":"",
+         "GraphCode":"891",
          "loc":"50.3178610-4.9307900"
       },
       {
@@ -7890,7 +7890,7 @@
          "River":"River Fal",
          "station":"Tregony",
          "Town":"Tregony",
-         "GraphCode":"",
+         "GraphCode":"895",
          "loc":"50.2672570-4.9149920"
       },
       {
@@ -7899,7 +7899,7 @@
          "River":"River Kenwyn",
          "station":"Truro",
          "Town":"Truro",
-         "GraphCode":"",
+         "GraphCode":"890",
          "loc":"41.9947700-70.0490107"
       },
       {
@@ -7908,7 +7908,7 @@
          "River":"South Cornwall Coast",
          "station":"Truro Harbour",
          "Town":"Truro",
-         "GraphCode":"",
+         "GraphCode":"889",
          "loc":"41.9947700-70.0490107"
       },
       {
@@ -7917,7 +7917,7 @@
          "River":"St Austell River",
          "station":"Molingey",
          "Town":"London Apprentice",
-         "GraphCode":"",
+         "GraphCode":"884",
          "loc":"50.3153000-4.8028570"
       },
       {
@@ -7926,7 +7926,7 @@
          "River":"Tresillian River",
          "station":"Ladock",
          "Town":"Ladock",
-         "GraphCode":"",
+         "GraphCode":"893",
          "loc":"50.3203109-4.9584860"
       },
       {
@@ -7935,7 +7935,7 @@
          "River":"Long Brook",
          "station":"Plympton",
          "Town":"Plympton",
-         "GraphCode":"",
+         "GraphCode":"951",
          "loc":"-34.9631615138.5563487"
       },
       {
@@ -7944,7 +7944,7 @@
          "River":"River Inny",
          "station":"Bealsmill",
          "Town":"Bealsmill",
-         "GraphCode":"",
+         "GraphCode":"938",
          "loc":"50.5683480-4.3180170"
       },
       {
@@ -7953,7 +7953,7 @@
          "River":"River Kensey",
          "station":"Truscott",
          "Town":"Launceston",
-         "GraphCode":"",
+         "GraphCode":"945",
          "loc":"-41.4370868147.1393767"
       },
       {
@@ -7962,7 +7962,7 @@
          "River":"River Lyd",
          "station":"Lifton Park",
          "Town":"Lifton",
-         "GraphCode":"",
+         "GraphCode":"955",
          "loc":"50.6456270-4.2828010"
       },
       {
@@ -7971,7 +7971,7 @@
          "River":"River Lynher",
          "station":"Pillaton",
          "Town":"Pillaton",
-         "GraphCode":"",
+         "GraphCode":"939",
          "loc":"50.4565960-4.3024180"
       },
       {
@@ -7980,7 +7980,7 @@
          "River":"River Ottery",
          "station":"Werrington",
          "Town":"Werrington Park",
-         "GraphCode":"",
+         "GraphCode":"944",
          "loc":"52.6156337-0.2720457"
       },
       {
@@ -7989,7 +7989,7 @@
          "River":"River Plym",
          "station":"Carnwood",
          "Town":"Bickleigh",
-         "GraphCode":"",
+         "GraphCode":"950",
          "loc":"50.4424560-4.0831010"
       },
       {
@@ -7998,7 +7998,7 @@
          "River":"River Tamar",
          "station":"Greystone Bridge",
          "Town":"Felldownhead",
-         "GraphCode":"",
+         "GraphCode":"948",
          "loc":"50.5982970-4.2947610"
       },
       {
@@ -8007,7 +8007,7 @@
          "River":"River Tamar",
          "station":"Gunnislake",
          "Town":"Gunnislake",
-         "GraphCode":"",
+         "GraphCode":"954",
          "loc":"50.5252890-4.2095770"
       },
       {
@@ -8016,7 +8016,7 @@
          "River":"River Tamar",
          "station":"Polson Bridge",
          "Town":"Liftondown",
-         "GraphCode":"",
+         "GraphCode":"956",
          "loc":"50.6479370-4.3112270"
       },
       {
@@ -8025,7 +8025,7 @@
          "River":"River Tamar",
          "station":"Crowford Bridge",
          "Town":"Whitstone",
-         "GraphCode":"",
+         "GraphCode":"941",
          "loc":"35.5746428-78.7897663"
       },
       {
@@ -8034,7 +8034,7 @@
          "River":"River Tavy",
          "station":"Denham Ludbrook",
          "Town":"Buckland Monachorum",
-         "GraphCode":"",
+         "GraphCode":"949",
          "loc":"50.4951940-4.1308500"
       },
       {
@@ -8043,7 +8043,7 @@
          "River":"River Tavy",
          "station":"Mary Tavy",
          "Town":"Mary Tavy",
-         "GraphCode":"",
+         "GraphCode":"940",
          "loc":"50.5932450-4.1155680"
       },
       {
@@ -8052,7 +8052,7 @@
          "River":"River Thrushel",
          "station":"Hayne Bridge",
          "Town":"Lifton",
-         "GraphCode":"",
+         "GraphCode":"947",
          "loc":"50.6456270-4.2828010"
       },
       {
@@ -8061,7 +8061,7 @@
          "River":"River Thrushel",
          "station":"Tinhay",
          "Town":"Lifton",
-         "GraphCode":"",
+         "GraphCode":"936",
          "loc":"50.6456270-4.2828010"
       },
       {
@@ -8070,7 +8070,7 @@
          "River":"River Tiddy",
          "station":"Tideford",
          "Town":"Tideford",
-         "GraphCode":"",
+         "GraphCode":"937",
          "loc":"50.4138730-4.3253009"
       },
       {
@@ -8079,7 +8079,7 @@
          "River":"River Walkham",
          "station":"Horrabridge",
          "Town":"Horrabridge",
-         "GraphCode":"",
+         "GraphCode":"953",
          "loc":"50.5092070-4.0978410"
       },
       {
@@ -8097,7 +8097,7 @@
          "River":"River Yealm",
          "station":"Cornwood",
          "Town":"Cornwood",
-         "GraphCode":"",
+         "GraphCode":"942",
          "loc":"50.4212190-3.9641400"
       },
       {
@@ -8106,7 +8106,7 @@
          "River":"River Yealm",
          "station":"Puslinch",
          "Town":"Yealmpton",
-         "GraphCode":"",
+         "GraphCode":"946",
          "loc":"50.3571831-3.9950099"
       },
       {
@@ -8115,8 +8115,8 @@
          "River":"Tory Brook",
          "station":"Newnham Park",
          "Town":"Plympton",
-         "GraphCode":"",
-         "loc":"-34.9631615138.5563487"
+         "GraphCode":"952",
+         "loc":"50.387125,-4.051208"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3176&RegionId=5&AreaId=8&CatchmentId=39",
@@ -8124,7 +8124,7 @@
          "River":"Tory Brook",
          "station":"Lee Moor",
          "Town":"Wotter",
-         "GraphCode":"",
+         "GraphCode":"935",
          "loc":"50.4388739-4.0321950"
       },
       {
@@ -8133,7 +8133,7 @@
          "River":"Withy Brook",
          "station":"Bastreet",
          "Town":"Trebartha",
-         "GraphCode":"",
+         "GraphCode":"943",
          "loc":"50.5676300-4.4506810"
       },
       {
@@ -8142,7 +8142,7 @@
          "River":"Aller Brook",
          "station":"Kingskerswell",
          "Town":"Kingskerswell",
-         "GraphCode":"",
+         "GraphCode":"984",
          "loc":"50.5001520-3.5884510"
       },
       {
@@ -8151,7 +8151,7 @@
          "River":"East Dart River",
          "station":"Bellever",
          "Town":"Bellever",
-         "GraphCode":"",
+         "GraphCode":"994",
          "loc":"50.5809150-3.9015550"
       },
       {
@@ -8160,7 +8160,7 @@
          "River":"River Ashburn",
          "station":"Ashburton Lower",
          "Town":"Ashburton",
-         "GraphCode":"",
+         "GraphCode":"1001",
          "loc":"-43.9083813171.7485672"
       },
       {
@@ -8169,7 +8169,7 @@
          "River":"River Ashburn",
          "station":"Ashburton Upper",
          "Town":"Ashburton",
-         "GraphCode":"",
+         "GraphCode":"1000",
          "loc":"-43.9083813171.7485672"
       },
       {
@@ -8178,7 +8178,7 @@
          "River":"River Avon",
          "station":"Didworthy",
          "Town":"Didworthy",
-         "GraphCode":"",
+         "GraphCode":"999",
          "loc":"50.4445512-3.8532123"
       },
       {
@@ -8187,7 +8187,7 @@
          "River":"River Avon",
          "station":"Loddiswell",
          "Town":"Loddiswell",
-         "GraphCode":"",
+         "GraphCode":"997",
          "loc":"50.3245570-3.8024660"
       },
       {
@@ -8196,7 +8196,7 @@
          "River":"River Bovey",
          "station":"Bovey Parke",
          "Town":"Bovey Tracey",
-         "GraphCode":"",
+         "GraphCode":"987",
          "loc":"50.5935470-3.6725870"
       },
       {
@@ -8205,7 +8205,7 @@
          "River":"River Bovey",
          "station":"North Bovey",
          "Town":"North Bovey",
-         "GraphCode":"",
+         "GraphCode":"1004",
          "loc":"50.6435200-3.7825360"
       },
       {
@@ -8214,7 +8214,7 @@
          "River":"River Dart",
          "station":"Austins Bridge",
          "Town":"Buckfastleigh",
-         "GraphCode":"",
+         "GraphCode":"995",
          "loc":"50.4817990-3.7793420"
       },
       {
@@ -8223,7 +8223,7 @@
          "River":"River Erme",
          "station":"Ermington",
          "Town":"Ermington",
-         "GraphCode":"",
+         "GraphCode":"998",
          "loc":"-33.8145830151.0549470"
       },
       {
@@ -8232,7 +8232,7 @@
          "River":"River Erme",
          "station":"Harford",
          "Town":"Harford",
-         "GraphCode":"",
+         "GraphCode":"988",
          "loc":"39.5838964-76.3637285"
       },
       {
@@ -8241,7 +8241,7 @@
          "River":"River Harbourne",
          "station":"Harbertonford",
          "Town":"Harbertonford",
-         "GraphCode":"",
+         "GraphCode":"991",
          "loc":"50.3947920-3.7132630"
       },
       {
@@ -8250,7 +8250,7 @@
          "River":"River Harbourne",
          "station":"Palmers Dam",
          "Town":"Harbertonford",
-         "GraphCode":"",
+         "GraphCode":"996",
          "loc":"50.3947920-3.7132630"
       },
       {
@@ -8259,7 +8259,7 @@
          "River":"River Harbourne",
          "station":"Rolster Bridge",
          "Town":"Harbertonford",
-         "GraphCode":"",
+         "GraphCode":"990",
          "loc":"50.3947920-3.7132630"
       },
       {
@@ -8268,7 +8268,7 @@
          "River":"River Lemon",
          "station":"Bickington",
          "Town":"Bickington",
-         "GraphCode":"",
+         "GraphCode":"989",
          "loc":"50.5329231-3.6891221"
       },
       {
@@ -8277,7 +8277,7 @@
          "River":"River Lemon",
          "station":"Holbeam Dam",
          "Town":"Newton Abbot",
-         "GraphCode":"",
+         "GraphCode":"1002",
          "loc":"50.5289050-3.6083600"
       },
       {
@@ -8286,7 +8286,7 @@
          "River":"River Lemon",
          "station":"Holbeam Dam Downstream",
          "Town":"Newton Abbot",
-         "GraphCode":"",
+         "GraphCode":"985",
          "loc":"50.5289050-3.6083600"
       },
       {
@@ -8295,7 +8295,7 @@
          "River":"River Teign",
          "station":"Chudleigh Bridge",
          "Town":"Chudleigh",
-         "GraphCode":"",
+         "GraphCode":"986",
          "loc":"50.6069430-3.6012080"
       },
       {
@@ -8304,7 +8304,7 @@
          "River":"River Teign",
          "station":"Coombe Cellars",
          "Town":"Combeinteignhead",
-         "GraphCode":"",
+         "GraphCode":"1005",
          "loc":"50.5342310-3.5516340"
       },
       {
@@ -8313,7 +8313,7 @@
          "River":"River Teign",
          "station":"Clifford Bridge",
          "Town":"Drewsteignton",
-         "GraphCode":"",
+         "GraphCode":"993",
          "loc":"50.7055157-3.8103285"
       },
       {
@@ -8322,7 +8322,7 @@
          "River":"River Teign",
          "station":"Ashton",
          "Town":"Lower Ashton",
-         "GraphCode":"",
+         "GraphCode":"1003",
          "loc":"50.6463360-3.6355260"
       },
       {
@@ -8331,7 +8331,7 @@
          "River":"West Dart River",
          "station":"Dunnabridge",
          "Town":"Hexworthy",
-         "GraphCode":"",
+         "GraphCode":"992",
          "loc":"50.5377920-3.8956180"
       },
       {
@@ -8349,7 +8349,7 @@
          "River":"Budleigh Brook",
          "station":"East Budleigh",
          "Town":"East Budleigh",
-         "GraphCode":"",
+         "GraphCode":"920",
          "loc":"50.6472645-3.3374629"
       },
       {
@@ -8358,7 +8358,7 @@
          "River":"Glen Stream",
          "station":"Honiton",
          "Town":"Honiton",
-         "GraphCode":"",
+         "GraphCode":"918",
          "loc":"50.7994680-3.1886830"
       },
       {
@@ -8367,7 +8367,7 @@
          "River":"River Axe",
          "station":"Weycroft Bridge",
          "Town":"Axminster",
-         "GraphCode":"",
+         "GraphCode":"913",
          "loc":"50.7827270-2.9949370"
       },
       {
@@ -8376,8 +8376,8 @@
          "River":"River Axe",
          "station":"Whitford Bridge",
          "Town":"Whitford",
-         "GraphCode":"",
-         "loc":"33.7218644-117.7826733"
+         "GraphCode":"922",
+         "loc":"50.754894,-3.04935"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3227&RegionId=5&AreaId=8&CatchmentId=41",
@@ -8385,7 +8385,7 @@
          "River":"River Axe",
          "station":"Winsham",
          "Town":"Winsham",
-         "GraphCode":"",
+         "GraphCode":"911",
          "loc":"50.8536130-2.8903220"
       },
       {
@@ -8394,7 +8394,7 @@
          "River":"River Coly",
          "station":"Bonehayne",
          "Town":"Colyton",
-         "GraphCode":"",
+         "GraphCode":"916",
          "loc":"50.7406300-3.0704220"
       },
       {
@@ -8403,7 +8403,7 @@
          "River":"River Otter",
          "station":"Dotton",
          "Town":"Colaton Raleigh",
-         "GraphCode":"",
+         "GraphCode":"921",
          "loc":"50.6886707-3.3423919"
       },
       {
@@ -8412,7 +8412,7 @@
          "River":"River Otter",
          "station":"Fenny Bridges",
          "Town":"Fenny Bridges",
-         "GraphCode":"",
+         "GraphCode":"923",
          "loc":"50.7796040-3.2549570"
       },
       {
@@ -8421,7 +8421,7 @@
          "River":"River Otter",
          "station":"Upottery",
          "Town":"Upottery",
-         "GraphCode":"",
+         "GraphCode":"914",
          "loc":"50.8619530-3.1338730"
       },
       {
@@ -8430,7 +8430,7 @@
          "River":"River Sid",
          "station":"Sidbury",
          "Town":"Sidbury",
-         "GraphCode":"",
+         "GraphCode":"924",
          "loc":"50.7218200-3.2220440"
       },
       {
@@ -8439,7 +8439,7 @@
          "River":"River Sid",
          "station":"Sidmouth",
          "Town":"Sidmouth",
-         "GraphCode":"",
+         "GraphCode":"917",
          "loc":"50.6786500-3.2375600"
       },
       {
@@ -8448,7 +8448,7 @@
          "River":"River Tale",
          "station":"Fairmile",
          "Town":"Fairmile",
-         "GraphCode":"",
+         "GraphCode":"919",
          "loc":"51.2679979-0.8401849"
       },
       {
@@ -8457,7 +8457,7 @@
          "River":"River Yarty",
          "station":"Court Place Farm",
          "Town":"Yarcombe",
-         "GraphCode":"",
+         "GraphCode":"915",
          "loc":"50.8830762-3.0839231"
       },
       {
@@ -8466,7 +8466,7 @@
          "River":"Umborne Brook",
          "station":"Wilmington",
          "Town":"Wilmington",
-         "GraphCode":"",
+         "GraphCode":"912",
          "loc":"34.2257255-77.9447102"
       },
       {
@@ -8484,7 +8484,7 @@
          "River":"Ampney Brook",
          "station":"Ampney St Peter",
          "Town":"Ampney St Peter",
-         "GraphCode":"",
+         "GraphCode":"1624",
          "loc":"51.7027727-1.8746004"
       },
       {
@@ -8493,7 +8493,7 @@
          "River":"Ampney Brook",
          "station":"Sheeppen Bridge",
          "Town":"Latton",
-         "GraphCode":"",
+         "GraphCode":"1625",
          "loc":"51.6602200-1.8653970"
       },
       {
@@ -8502,7 +8502,7 @@
          "River":"Churn",
          "station":"Cerney Wick",
          "Town":"Cerney Wick",
-         "GraphCode":"",
+         "GraphCode":"1623",
          "loc":"51.6641350-1.8884950"
       },
       {
@@ -8511,7 +8511,7 @@
          "River":"Churn",
          "station":"South Cerney",
          "Town":"South Cerney",
-         "GraphCode":"",
+         "GraphCode":"1622",
          "loc":"51.6715410-1.9277760"
       },
       {
@@ -8520,8 +8520,8 @@
          "River":"Churn",
          "station":"Cirencester",
          "Town":"Stratton",
-         "GraphCode":"",
-         "loc":"43.0613889-72.9041667"
+         "GraphCode":"1620",
+         "loc":"50.831394-4.514608"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=7039&RegionId=7&AreaId=17&CatchmentId=80",
@@ -8529,7 +8529,7 @@
          "River":"Clanfield Brook",
          "station":"Clanfield",
          "Town":"Clanfield",
-         "GraphCode":"",
+         "GraphCode":"1639",
          "loc":"50.9460710-1.0042940"
       },
       {
@@ -8538,7 +8538,7 @@
          "River":"Coln",
          "station":"Bibury",
          "Town":"Bibury",
-         "GraphCode":"",
+         "GraphCode":"1630",
          "loc":"51.7580200-1.8302300"
       },
       {
@@ -8547,7 +8547,7 @@
          "River":"Coln",
          "station":"Fosse Bridge",
          "Town":"Fossebridge",
-         "GraphCode":"",
+         "GraphCode":"1629",
          "loc":"51.7985320-1.8836670"
       },
       {
@@ -8556,7 +8556,7 @@
          "River":"Dikler",
          "station":"Bourton Dickler",
          "Town":"Little Rissington",
-         "GraphCode":"",
+         "GraphCode":"1641",
          "loc":"51.8769790-1.7267140"
       },
       {
@@ -8565,7 +8565,7 @@
          "River":"Evenlode",
          "station":"Cassington Weir A",
          "Town":"Cassington",
-         "GraphCode":"",
+         "GraphCode":"1654",
          "loc":"51.7958280-1.3435760"
       },
       {
@@ -8574,7 +8574,7 @@
          "River":"Evenlode",
          "station":"Cassington Weir B",
          "Town":"Cassington",
-         "GraphCode":"",
+         "GraphCode":"1655",
          "loc":"51.7958280-1.3435760"
       },
       {
@@ -8583,7 +8583,7 @@
          "River":"Evenlode",
          "station":"Evenlode Bridge",
          "Town":"Evenlode",
-         "GraphCode":"",
+         "GraphCode":"1651",
          "loc":"52.0692145-1.3495646"
       },
       {
@@ -8592,7 +8592,7 @@
          "River":"Evenlode",
          "station":"Moreton",
          "Town":"Moreton in Marsh",
-         "GraphCode":"",
+         "GraphCode":"1614",
          "loc":"51.9911030-1.7059110"
       },
       {
@@ -8601,7 +8601,7 @@
          "River":"Evenlode",
          "station":"Shipton",
          "Town":"Shipton Under Wychwood",
-         "GraphCode":"",
+         "GraphCode":"1652",
          "loc":"51.8593780-1.5961890"
       },
       {
@@ -8610,7 +8610,7 @@
          "River":"Glyme",
          "station":"Woodstock",
          "Town":"Wootton",
-         "GraphCode":"",
+         "GraphCode":"1653",
          "loc":"52.0978260-0.5271250"
       },
       {
@@ -8619,7 +8619,7 @@
          "River":"Leach",
          "station":"Lechlade",
          "Town":"Lechlade On Thames",
-         "GraphCode":"",
+         "GraphCode":"1634",
          "loc":"51.6921190-1.6920920"
       },
       {
@@ -8628,7 +8628,7 @@
          "River":"Leach",
          "station":"Little Farringdon",
          "Town":"Little Faringdon",
-         "GraphCode":"",
+         "GraphCode":"1633",
          "loc":"51.7118040-1.6747560"
       },
       {
@@ -8637,7 +8637,7 @@
          "River":"Marston Meysey Brook",
          "station":"Whetstone Bridge",
          "Town":"Marston Meysey",
-         "GraphCode":"",
+         "GraphCode":"1627",
          "loc":"51.6721390-1.8136810"
       },
       {
@@ -8646,7 +8646,7 @@
          "River":"Shill Brook",
          "station":"Bampton",
          "Town":"Bampton",
-         "GraphCode":"",
+         "GraphCode":"1613",
          "loc":"51.7234530-1.5491050"
       },
       {
@@ -8655,7 +8655,7 @@
          "River":"Swill Brook",
          "station":"Oaksey",
          "Town":"Oaksey",
-         "GraphCode":"",
+         "GraphCode":"1617",
          "loc":"51.6417217-2.0139855"
       },
       {
@@ -8664,7 +8664,7 @@
          "River":"Thames",
          "station":"Northmoor Lock",
          "Town":"Appleton",
-         "GraphCode":"",
+         "GraphCode":"1646",
          "loc":"44.2619309-88.4153847"
       },
       {
@@ -8673,7 +8673,7 @@
          "River":"Thames",
          "station":"Buscot Lock",
          "Town":"Buscot",
-         "GraphCode":"",
+         "GraphCode":"1635",
          "loc":"51.6741500-1.6642360"
       },
       {
@@ -8682,7 +8682,7 @@
          "River":"Thames",
          "station":"Rushey Lock",
          "Town":"Carswell Marsh",
-         "GraphCode":"",
+         "GraphCode":"1637",
          "loc":"51.6873570-1.5363610"
       },
       {
@@ -8691,7 +8691,7 @@
          "River":"Thames",
          "station":"Cricklade",
          "Town":"Cricklade",
-         "GraphCode":"",
+         "GraphCode":"1619",
          "loc":"51.6380709-1.8563510"
       },
       {
@@ -8700,8 +8700,8 @@
          "River":"Thames",
          "station":"Ewen",
          "Town":"Ewen",
-         "GraphCode":"",
-         "loc":"46.5352220-89.2812556"
+         "GraphCode":"1615",
+         "loc":"51.678011-1.996207"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=7047&RegionId=7&AreaId=17&CatchmentId=80",
@@ -8709,7 +8709,7 @@
          "River":"Thames",
          "station":"Farmoor",
          "Town":"Farmoor",
-         "GraphCode":"",
+         "GraphCode":"1648",
          "loc":"51.7603640-1.3479480"
       },
       {
@@ -8718,7 +8718,7 @@
          "River":"Thames",
          "station":"Pinkhill Lock",
          "Town":"Farmoor",
-         "GraphCode":"",
+         "GraphCode":"1649",
          "loc":"51.7603640-1.3479480"
       },
       {
@@ -8727,7 +8727,7 @@
          "River":"Thames",
          "station":"Hannington Bridge",
          "Town":"Hannington Wick",
-         "GraphCode":"",
+         "GraphCode":"1628",
          "loc":"51.6531270-1.7500420"
       },
       {
@@ -8736,7 +8736,7 @@
          "River":"Thames",
          "station":"St Johns Lock",
          "Town":"Lechlade On Thames",
-         "GraphCode":"",
+         "GraphCode":"1631",
          "loc":"51.6921190-1.6920920"
       },
       {
@@ -8745,7 +8745,7 @@
          "River":"Thames",
          "station":"Somerford Keynes",
          "Town":"Somerford Keynes",
-         "GraphCode":"",
+         "GraphCode":"1616",
          "loc":"51.6568929-1.9728770"
       },
       {
@@ -8754,7 +8754,7 @@
          "River":"Windrush",
          "station":"Bourton Windrush",
          "Town":"Bourton-On-The-Water",
-         "GraphCode":"",
+         "GraphCode":"1640",
          "loc":"51.8868050-1.7631910"
       },
       {
@@ -8763,7 +8763,7 @@
          "River":"Windrush",
          "station":"Worsham",
          "Town":"Charterville Allotments",
-         "GraphCode":"",
+         "GraphCode":"1642",
          "loc":"51.7875360-1.5493480"
       },
       {
@@ -8772,7 +8772,7 @@
          "River":"Windrush",
          "station":"Newbridge Weir A",
          "Town":"Standlake",
-         "GraphCode":"",
+         "GraphCode":"1644",
          "loc":"51.7253080-1.4280750"
       },
       {
@@ -8781,7 +8781,7 @@
          "River":"Windrush",
          "station":"Newbridge Weir B",
          "Town":"Standlake",
-         "GraphCode":"",
+         "GraphCode":"1645",
          "loc":"51.7253080-1.4280750"
       },
       {
@@ -8790,7 +8790,7 @@
          "River":"Windrush",
          "station":"Witney",
          "Town":"Witney",
-         "GraphCode":"",
+         "GraphCode":"1643",
          "loc":"51.7859365-1.4850544"
       },
       {
@@ -8799,7 +8799,7 @@
          "River":"Aldbourne",
          "station":"Ramsbury Main",
          "Town":"Whittonditch",
-         "GraphCode":"",
+         "GraphCode":"1704",
          "loc":"51.4518090-1.5854940"
       },
       {
@@ -8808,7 +8808,7 @@
          "River":"Aldbourne",
          "station":"Ramsbury Side",
          "Town":"Whittonditch",
-         "GraphCode":"",
+         "GraphCode":"1705",
          "loc":"51.4518090-1.5854940"
       },
       {
@@ -8817,7 +8817,7 @@
          "River":"Bulstake Stream",
          "station":"New Botley",
          "Town":"Botley",
-         "GraphCode":"",
+         "GraphCode":"1681",
          "loc":"51.7092660-0.5706900"
       },
       {
@@ -8826,7 +8826,7 @@
          "River":"Cole",
          "station":"Lower Stratton",
          "Town":"Stratton St Margaret",
-         "GraphCode":"",
+         "GraphCode":"1662",
          "loc":"51.5826696-1.7437427"
       },
       {
@@ -8835,7 +8835,7 @@
          "River":"Cole",
          "station":"Inglesham",
          "Town":"Upper Inglesham",
-         "GraphCode":"",
+         "GraphCode":"1665",
          "loc":"51.6559160-1.7044510"
       },
       {
@@ -8844,7 +8844,7 @@
          "River":"Cole",
          "station":"Westmill Bridge",
          "Town":"Watchfield",
-         "GraphCode":"",
+         "GraphCode":"1664",
          "loc":"51.6137800-1.6491690"
       },
       {
@@ -8853,7 +8853,7 @@
          "River":"Dorcan Brook",
          "station":"Kestrel Drive",
          "Town":"Wanborough",
-         "GraphCode":"",
+         "GraphCode":"1663",
          "loc":"51.5445100-1.6996550"
       },
       {
@@ -8862,7 +8862,7 @@
          "River":"Dun",
          "station":"Hungerford Dun",
          "Town":"Hungerford",
-         "GraphCode":"",
+         "GraphCode":"1708",
          "loc":"51.4123450-1.5179950"
       },
       {
@@ -8871,7 +8871,7 @@
          "River":"Enborne",
          "station":"Brimpton",
          "Town":"Wasing",
-         "GraphCode":"",
+         "GraphCode":"1716",
          "loc":"51.3746762-1.1757803"
       },
       {
@@ -8880,7 +8880,7 @@
          "River":"Foudry Brook",
          "station":"Beech Hill",
          "Town":"Grazeley",
-         "GraphCode":"",
+         "GraphCode":"1718",
          "loc":"51.3974470-0.9969280"
       },
       {
@@ -8889,7 +8889,7 @@
          "River":"Ginge Brook",
          "station":"Steventon",
          "Town":"Steventon",
-         "GraphCode":"",
+         "GraphCode":"1688",
          "loc":"51.2284570-1.2201169"
       },
       {
@@ -8898,7 +8898,7 @@
          "River":"Hinksey Stream",
          "station":"Cold Harbour",
          "Town":"South Hinksey",
-         "GraphCode":"",
+         "GraphCode":"1682",
          "loc":"51.7319122-1.2724451"
       },
       {
@@ -8916,7 +8916,7 @@
          "River":"Kennet",
          "station":"Marlborough",
          "Town":"Marlborough",
-         "GraphCode":"",
+         "GraphCode":"1702",
          "loc":"42.3459271-71.5522874"
       },
       {
@@ -8925,7 +8925,7 @@
          "River":"Kennet",
          "station":"Newbury",
          "Town":"Newbury",
-         "GraphCode":"",
+         "GraphCode":"1710",
          "loc":"51.4014090-1.3231139"
       },
       {
@@ -8934,7 +8934,7 @@
          "River":"Kennet",
          "station":"Blakes Lock",
          "Town":"Reading",
-         "GraphCode":"",
+         "GraphCode":"1719",
          "loc":"40.3356483-75.9268747"
       },
       {
@@ -8943,7 +8943,7 @@
          "River":"Kennet",
          "station":"Theale",
          "Town":"Theale",
-         "GraphCode":"",
+         "GraphCode":"1717",
          "loc":"51.4338787-1.0792129"
       },
       {
@@ -8952,7 +8952,7 @@
          "River":"Kennet",
          "station":"Knighton Main",
          "Town":"Whittonditch",
-         "GraphCode":"",
+         "GraphCode":"1706",
          "loc":"51.4518090-1.5854940"
       },
       {
@@ -8961,7 +8961,7 @@
          "River":"Kennet",
          "station":"Knighton Side",
          "Town":"Whittonditch",
-         "GraphCode":"",
+         "GraphCode":"1707",
          "loc":"51.4518090-1.5854940"
       },
       {
@@ -8970,7 +8970,7 @@
          "River":"Kennet",
          "station":"Winterborne Monkton",
          "Town":"Winterbourne Monkton",
-         "GraphCode":"",
+         "GraphCode":"1701",
          "loc":"51.4455140-1.8536280"
       },
       {
@@ -8979,7 +8979,7 @@
          "River":"Key",
          "station":"Purton Stoke",
          "Town":"Purton Stoke",
-         "GraphCode":"",
+         "GraphCode":"1658",
          "loc":"51.6126350-1.8708280"
       },
       {
@@ -8988,7 +8988,7 @@
          "River":"Kingsclere Brook",
          "station":"Kingsclere",
          "Town":"Kingsclere",
-         "GraphCode":"",
+         "GraphCode":"1715",
          "loc":"51.3250730-1.2417050"
       },
       {
@@ -8997,7 +8997,7 @@
          "River":"Lambourn",
          "station":"Shaw",
          "Town":"Donnington",
-         "GraphCode":"",
+         "GraphCode":"1714",
          "loc":"52.7195850-2.4376740"
       },
       {
@@ -9006,8 +9006,8 @@
          "River":"Lambourn",
          "station":"Eastbury",
          "Town":"Eastbury",
-         "GraphCode":"",
-         "loc":"37.2883891-76.7643463"
+         "GraphCode":"1712",
+         "loc":"51.491832-1.49899"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=7123&RegionId=7&AreaId=17&CatchmentId=81",
@@ -9015,7 +9015,7 @@
          "River":"Lambourn",
          "station":"Lambourn",
          "Town":"Lambourn",
-         "GraphCode":"",
+         "GraphCode":"1711",
          "loc":"51.5079540-1.5315310"
       },
       {
@@ -9024,7 +9024,7 @@
          "River":"Letcombe Brook",
          "station":"Letcombe Bassett",
          "Town":"Letcombe Bassett",
-         "GraphCode":"",
+         "GraphCode":"1685",
          "loc":"51.5605290-1.4648360"
       },
       {
@@ -9033,7 +9033,7 @@
          "River":"Letcombe Brook",
          "station":"Letcombe Regis",
          "Town":"Letcombe Regis",
-         "GraphCode":"",
+         "GraphCode":"1686",
          "loc":"51.5727030-1.4510690"
       },
       {
@@ -9042,7 +9042,7 @@
          "River":"Letcombe Brook",
          "station":"Wantage",
          "Town":"Wantage",
-         "GraphCode":"",
+         "GraphCode":"1657",
          "loc":"51.5888680-1.4264530"
       },
       {
@@ -9051,7 +9051,7 @@
          "River":"Mill Brook",
          "station":"Blewbury",
          "Town":"Blewbury",
-         "GraphCode":"",
+         "GraphCode":"1692",
          "loc":"51.5668220-1.2340380"
       },
       {
@@ -9060,7 +9060,7 @@
          "River":"Ock",
          "station":"Abingdon",
          "Town":"Abingdon",
-         "GraphCode":"",
+         "GraphCode":"1687",
          "loc":"51.6707800-1.2879529"
       },
       {
@@ -9069,7 +9069,7 @@
          "River":"Ock",
          "station":"Charney Bassett",
          "Town":"Charney Bassett",
-         "GraphCode":"",
+         "GraphCode":"1684",
          "loc":"51.6481131-1.4534124"
       },
       {
@@ -9078,7 +9078,7 @@
          "River":"Ock",
          "station":"Stanford Vale",
          "Town":"Stanford In The Vale",
-         "GraphCode":"",
+         "GraphCode":"1683",
          "loc":"51.6415810-1.5051060"
       },
       {
@@ -9087,7 +9087,7 @@
          "River":"Og",
          "station":"Poulton Farm",
          "Town":"Marlborough",
-         "GraphCode":"",
+         "GraphCode":"1703",
          "loc":"42.3459271-71.5522874"
       },
       {
@@ -9096,7 +9096,7 @@
          "River":"Pang",
          "station":"Bucklebury",
          "Town":"Bucklebury",
-         "GraphCode":"",
+         "GraphCode":"1695",
          "loc":"51.4364310-1.2044379"
       },
       {
@@ -9105,7 +9105,7 @@
          "River":"Pang",
          "station":"Frilsham",
          "Town":"Frilsham",
-         "GraphCode":"",
+         "GraphCode":"1693",
          "loc":"51.4559480-1.2149980"
       },
       {
@@ -9114,7 +9114,7 @@
          "River":"Pang",
          "station":"Pangbourne",
          "Town":"Pangbourne",
-         "GraphCode":"",
+         "GraphCode":"1697",
          "loc":"51.4756592-1.1047881"
       },
       {
@@ -9123,7 +9123,7 @@
          "River":"Pang",
          "station":"Tidmarsh",
          "Town":"Tidmarsh",
-         "GraphCode":"",
+         "GraphCode":"1696",
          "loc":"51.4683330-1.0875500"
       },
       {
@@ -9132,7 +9132,7 @@
          "River":"Ray (Wilts)",
          "station":"Water Eaton",
          "Town":"Cricklade",
-         "GraphCode":"",
+         "GraphCode":"1661",
          "loc":"51.6380709-1.8563510"
       },
       {
@@ -9141,7 +9141,7 @@
          "River":"Ray (Wilts)",
          "station":"Rodbourne",
          "Town":"Haydon Wick",
-         "GraphCode":"",
+         "GraphCode":"1660",
          "loc":"51.5921329-1.8123590"
       },
       {
@@ -9150,7 +9150,7 @@
          "River":"Ray (Wilts)",
          "station":"Rushey Platt",
          "Town":"Swindon",
-         "GraphCode":"",
+         "GraphCode":"1659",
          "loc":"51.5557739-1.7797176"
       },
       {
@@ -9159,7 +9159,7 @@
          "River":"River Shalbourne",
          "station":"Hungerford Shalbourne",
          "Town":"Hungerford",
-         "GraphCode":"",
+         "GraphCode":"1709",
          "loc":"51.4123450-1.5179950"
       },
       {
@@ -9168,7 +9168,7 @@
          "River":"Seacourt Stream",
          "station":"Minns Estate",
          "Town":"Botley",
-         "GraphCode":"",
+         "GraphCode":"1680",
          "loc":"51.7092660-0.5706900"
       },
       {
@@ -9177,7 +9177,7 @@
          "River":"Stert",
          "station":"Abingdon",
          "Town":"Abingdon",
-         "GraphCode":"",
+         "GraphCode":"1656",
          "loc":"51.6707800-1.2879529"
       },
       {
@@ -9186,7 +9186,7 @@
          "River":"Sulham Brook",
          "station":"Sulham",
          "Town":"Sulham",
-         "GraphCode":"",
+         "GraphCode":"1698",
          "loc":"51.4626030-1.0746670"
       },
       {
@@ -9195,7 +9195,7 @@
          "River":"Thames",
          "station":"Benson Lock",
          "Town":"Benson",
-         "GraphCode":"",
+         "GraphCode":"1690",
          "loc":"31.9678611-110.2945174"
       },
       {
@@ -9204,7 +9204,7 @@
          "River":"Thames",
          "station":"Osney Lock",
          "Town":"Botley",
-         "GraphCode":"",
+         "GraphCode":"1678",
          "loc":"51.7092660-0.5706900"
       },
       {
@@ -9213,7 +9213,7 @@
          "River":"Thames",
          "station":"Sutton Courtenay",
          "Town":"Culham",
-         "GraphCode":"",
+         "GraphCode":"1689",
          "loc":"51.6513300-1.2699470"
       },
       {
@@ -9222,7 +9222,7 @@
          "River":"Thames",
          "station":"Grafton Lock",
          "Town":"Eaton Hastings",
-         "GraphCode":"",
+         "GraphCode":"1666",
          "loc":"51.6774811-1.6253684"
       },
       {
@@ -9231,7 +9231,7 @@
          "River":"Thames",
          "station":"Mapledurham Lock",
          "Town":"Mapledurham",
-         "GraphCode":"",
+         "GraphCode":"1699",
          "loc":"51.4874859-1.0338980"
       },
       {
@@ -9240,7 +9240,7 @@
          "River":"Thames",
          "station":"Radcot Lock",
          "Town":"Radcot",
-         "GraphCode":"",
+         "GraphCode":"1668",
          "loc":"51.6924190-1.5879800"
       },
       {
@@ -9249,7 +9249,7 @@
          "River":"Thames",
          "station":"Shifford Lock",
          "Town":"Shifford",
-         "GraphCode":"",
+         "GraphCode":"1670",
          "loc":"51.7142480-1.4638230"
       },
       {
@@ -9258,7 +9258,7 @@
          "River":"Thames",
          "station":"Sonning Lock",
          "Town":"Sonning",
-         "GraphCode":"",
+         "GraphCode":"1721",
          "loc":"51.4730750-0.9066160"
       },
       {
@@ -9267,7 +9267,7 @@
          "River":"Thames",
          "station":"Eynsham Lock",
          "Town":"Swinford",
-         "GraphCode":"",
+         "GraphCode":"1672",
          "loc":"53.9437021-8.9500060"
       },
       {
@@ -9276,7 +9276,7 @@
          "River":"Thames",
          "station":"Kings Lock",
          "Town":"Wolvercote",
-         "GraphCode":"",
+         "GraphCode":"1674",
          "loc":"51.7835640-1.2728569"
       },
       {
@@ -9285,7 +9285,7 @@
          "River":"Thames",
          "station":"Godstow Lock",
          "Town":"Wytham",
-         "GraphCode":"",
+         "GraphCode":"1676",
          "loc":"51.7763042-1.3139801"
       },
       {
@@ -9294,7 +9294,7 @@
          "River":"Winterbourne Stream",
          "station":"Bagnor",
          "Town":"Bagnor",
-         "GraphCode":"",
+         "GraphCode":"1713",
          "loc":"51.4245960-1.3523099"
       },
       {
@@ -9303,7 +9303,7 @@
          "River":"Cherwell",
          "station":"Enslow Weir B",
          "Town":"Shipton-On-Cherwell",
-         "GraphCode":"",
+         "GraphCode":"1567",
          "loc":"51.8452130-1.3031910"
       },
       {
@@ -9312,7 +9312,7 @@
          "River":"Ash (Surrey)",
          "station":"Knowle Green",
          "Town":"Staines",
-         "GraphCode":"",
+         "GraphCode":"1269",
          "loc":"51.4314800-0.5155250"
       },
       {
@@ -9321,7 +9321,7 @@
          "River":"Ash (Surrey)",
          "station":"Staines Ash",
          "Town":"Staines",
-         "GraphCode":"",
+         "GraphCode":"1273",
          "loc":"51.4314800-0.5155250"
       },
       {
@@ -9330,8 +9330,8 @@
          "River":"Colne",
          "station":"Iver, Clisbys Bridge",
          "Town":"Cowley",
-         "GraphCode":"",
-         "loc":"44.8832856-108.4695651"
+         "GraphCode":"1306",
+         "loc":"51.732716,-1.206179"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=7192&RegionId=7&AreaId=18&CatchmentId=82",
