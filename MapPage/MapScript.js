@@ -68,6 +68,12 @@ function Initialise() {
 
              gauges[i] = new Gauge(currentGauge["url"], currentGauge["River"], currentGauge["station"], currentGauge["Town"], currentGauge["GraphCode"], currentGauge["loc"]);
              var latlong = gauges[i].loc.split("-");
+             if (latlong.length == 1) {
+                 latlong = gauges[i].loc.split(",");
+             }
+             if (latlong.length == 1) {
+                 alert(gauges[i].station);
+             }
         
              var marker = new google.maps.Marker({
                  position: new google.maps.LatLng(latlong[0], -latlong[1]),
