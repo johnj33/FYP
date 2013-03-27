@@ -26,77 +26,49 @@ var ViewGauge = function() {
         var gaugeeditbox = document.getElementById("GaugesSelection");
         
         var gauge = gaugeeditbox.options[gaugeeditbox.selectedIndex].text;
-        var search = new Search(gauge);
-        gauges.forEach(search.FindGaugeByStation);
+        showGauge(gauge);
         
-        if (searchResult != null) {
-
-            var data = "";
-            data += searchResult.town;
-            data += "," + searchResult.url;
-            data += "," + searchResult.river;
-            data += "," + searchResult.station;
-            data += "," + searchResult.graphcode;
-            data += "," + searchResult.loc;
-
-            localStorage["Gauge"] = data;
-            window.location = "Gauge/Gauge.html";
-        }
     }
     catch(ex)
     {
         alert(ex);
     }
 };
+function showGauge(gauge) {
+    var search = new Search(gauge);
+    gauges.forEach(search.FindGaugeByStation);
+        
+    if (searchResult != null) {
 
+        var data = "";
+        data += searchResult.town;
+        data += "," + searchResult.url;
+        data += "," + searchResult.river;
+        data += "," + searchResult.station;
+        data += "," + searchResult.graphcode;
+        data += "," + searchResult.loc;
+
+        localStorage["Gauge"] = data;
+        window.location = "Gauge/Gauge.html";
+    }
+}
 var GetCurrentLocation = function () {
     window.location = "MapPage/MapPage.html";
-    //var suc = function(p) {
-    //    try {
-    //        var mapOptions = {
-    //            zoom: 14,
-    //            center: new google.maps.LatLng(p.coords.latitude, p.coords.longitude),
-    //            mapTypeId: google.maps.MapTypeId.ROADMAP
-    //        };
-
-    //        map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
-    //        alert(text);
-    //    } catch(ex) {
-    //        alert(ex);
-    //    }
-//};
-
-//    var locFail = function() {
-//        alert("fail");
-//    };
-//    try {
-
-//        if (gauges != null) {
-//            var search = new Search("Colwick");
-//            gauges.forEach(search.FindGaugeByStation);
-//            alert(gauges.length);
-//            if (searchResult != null) {
-//                alert(searchResult.town);
-                
-//                localStorage["Gauge"] = data;
-//                window.location = "Gauge/Gauge.html";
-
-//            } else
-//                alert("location not found");
-//        }
-//    } catch(ex3) {
-//        alert(ex3);
-//    }
-
-//    navigator.geolocation.getCurrentPosition(suc, locFail);
 };
 
+function ViewFavGauge() {
+    var gaugeeditbox = document.getElementById("FavsSelection");
+
+    var gauge = gaugeeditbox.options[gaugeeditbox.selectedIndex].text;
+    showGauge(gauge);
+
+}
 
 function initialize() {
 
     var xmlhttp = new XMLHttpRequest();
     try {
-       
+        addFavs();
         $.getJSON("Data/environment-agency-river-levels.json", function(data) {
             jsonparse(data);
         });
@@ -107,6 +79,25 @@ function initialize() {
     
 }
 
+function addFavs() {
+    var favsEditBox = document.getElementById("FavsSelection");
+    var fav = localStorage["favs"];
+    if (typeof fav === "undefined") {
+        alert("no favs");
+    }
+    else {
+        
+
+
+        var favs = fav.split(',');
+        for (var i = 0; i < favs.length; i++) {
+            favsEditBox.options.add(new Option(favs[i], favs[i]));
+        }
+    }
+    
+}
+
+
 function jsonparse(data) {
     try {
         alert(data);
@@ -115,10 +106,6 @@ function jsonparse(data) {
         for (var i = 0; i < data["gauges"].length; i++) {
             var currentGauge = data["gauges"][i];
             
-            if (i == 0) {
-                    
-                    //alert(loc.results.address_components.geometry.location.lat);
-            }
             gauges[i] = new Gauge(currentGauge["url"], currentGauge["River"], currentGauge["station"], currentGauge["Town"], currentGauge["GraphCode"], currentGauge["loc"]);
             if (!RiverAdded(currentGauge["River"])) {
                 rivers[rivers.length] = currentGauge["River"];
