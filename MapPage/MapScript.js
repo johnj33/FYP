@@ -75,7 +75,6 @@ function Initialise() {
                  title: gauges[i].station,
                  data:gauges[i]
              });
-             //'<script> function ViewGauge(){alert("test");} </script>' +
              
              google.maps.event.addListener(marker, 'click', (function (marker, i) {
                  return function () {
@@ -89,8 +88,9 @@ function Initialise() {
                             '</div>' +
                             '<h2 id="firstHeading" class="firstHeading">'+gauges[i].station+'</h2>' +
                             '<div id="bodyContent">' +
-                            '<p><b>'+ gauges[i].river +'</b></p>' +
-                            '<button id="ViewGaugeBtn" onclick="ViewGauge()" > View Gauge</button>' +
+                            '<p><b>' + gauges[i].river + '</b> </p>'+
+                            '<p><a href="../Gauge/Gauge.html">' +
+                            'View Gauge</a></p>' +
                             '</div>' +
                             '</div>';
                      infowindow.setContent(contentString);
@@ -101,19 +101,13 @@ function Initialise() {
                      data += "," + gauges[i].station;
                      data += "," + gauges[i].graphcode;
                      data += "," + gauges[i].loc;
+                     localStorage["Gauge"] = data;
                      infowindow.open(map, marker);
                  }
              })(marker, i));
-             //google.maps.event.addListener(marker, 'click', function () {
-             //    map.setCenter(new google.maps.LatLng(pinMarker.position.lat(), pinMarker.position.lng())); 
-             //    map.setZoom(18); 
-             //    onItemClick(event, pinMarker); 
-             //});
 
          }
-         var infowindow = new google.maps.InfoWindow();
-         // Info window trigger function 
-        
+         var infowindow = new google.maps.InfoWindow();        
      }
      catch (ex2) {
          alert(ex2);
