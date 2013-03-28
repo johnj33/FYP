@@ -65,10 +65,10 @@ function AddToFavorites() {
 
 function zoomImg1() {
     localStorage["img"] = image1str;
-    window.location = "../FullscreenImg/FullscrImg.html";
+    window.location = "../FullscreenImg/FullScrImg.html";
 }
 
 function zoomImg2() {
     localStorage["img"] = image2str;
-    window.location = "../FullscreenImg/FullscrImg.html";
+    window.location = "../FullscreenImg/FullScrImg.html";
 }
