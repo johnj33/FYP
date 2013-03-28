@@ -69,7 +69,7 @@ function initialize() {
     var xmlhttp = new XMLHttpRequest();
     try {
         addFavs();
-        $.getJSON("Data/environment-agency-river-levels.json", function(data) {
+        $.getJSON("../Data/environment-agency-river-levels.json", function(data) {
             jsonparse(data);
         });
     }
