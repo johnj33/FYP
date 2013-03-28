@@ -10,8 +10,11 @@
         var values = localStorage["Gauge"].split(",");
         var graphurl = "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/Controls/RiverLevels/ChartImage.jpg?Id=";
 
-        graph1.src = graphurl + values[4] + "&ChartType=Graph";
-        graph2.src = graphurl + values[4] + "&ChartType=Histogram";
+        image1str = graphurl + values[4] + "&ChartType=Graph";
+        image2str = graphurl + values[4] + "&ChartType=Histogram";
+
+        graph1.src = image1str;
+        graph2.src = image2str;
         gauge = values[3];
 
         text1.textContent = "Gauge: " + gauge;
@@ -24,6 +27,8 @@
     }
     
 }
+var image1str;
+var image2str;
 var gauge;
 
 function AddToFavorites() {
@@ -56,4 +61,14 @@ function AddToFavorites() {
         alert(ex);
     }
     
+}
+
+function zoomImg1() {
+    localStorage["img"] = image1str;
+    window.location = "../FullscreenImg/FullscrImg.html";
+}
+
+function zoomImg2() {
+    localStorage["img"] = image2str;
+    window.location = "../FullscreenImg/FullscrImg.html";
 }
