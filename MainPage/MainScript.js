@@ -49,11 +49,11 @@ function showGauge(gauge) {
         data += "," + searchResult.loc;
 
         localStorage["Gauge"] = data;
-        window.location = "Gauge/Gauge.html";
+        window.location = "../Gauge/Gauge.html";
     }
 }
 var GetCurrentLocation = function () {
-    window.location = "MapPage/MapPage.html";
+    window.location = "../MapPage/MapPage.html";
 };
 
 function ViewFavGauge() {

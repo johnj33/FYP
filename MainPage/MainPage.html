@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=320; user-scalable=no" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <title>Local River Levels</title>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="MainScript.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCr7CxvSh4GRjo7Arsvz8SXzPibP-ajV3w&sensor=true"> </script>
+</head>
+
+<body onload="initialize();" style="background-color: lightsteelblue">
+    <style>
+        @font-face {
+            font-family: Age;
+            src: url('Resources/segoeui.ttf'); /* IE9+ */
+        }
+
+        div {
+            font-family: Age;
+        }
+
+        .imageStyle {
+            width: 100%;
+        }
+    </style>
+    <table style="width: 100%;">
+        <tr>
+            <td>&nbsp;
+                <div id="table" />
+                <div style="font-size: 22pt">River Levels</div>
+            </td>
+
+        </tr>
+
+        <tr>
+            <td style="width: 70%">
+                <select id="RiversSelction" style="font-family: Age; width: 100%"/>
+            </td>
+            <td  style="width: 30%">
+                <button style="font-family: Age; height: 45px; width: 157px; font-size: 12pt; border-width: thick; border-color: black; background-color: white;" onclick="SearchRivers()">Gauges By Rivers</button>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 70%">
+                <select id="GaugesSelection" style="width: 100%"/>
+            </td>
+            <td style="width: 30%">
+                <button id="ViewGaugeBtn" onclick="ViewGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white" > View Gauge</button>
+            </td>
+
+        </tr>
+        <tr>
+            <td style="width: 70%">&nbsp;
+                
+                <button id="Button1" onclick="GetCurrentLocation();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white" >Gauges Near Me</button>
+            </td>
+            <td style="width: 30%"/>
+        </tr>
+        
+         <tr>
+            <td style="width: 70%">
+                <select id="FavsSelection" style="width: 100%"/>
+            </td>
+            <td style="width: 30%">
+                <button id="VeiwFavButton" onclick="ViewFavGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white" > View Gauge</button>
+            </td>
+
+        </tr>
+    </table>
+
+    <img src="Resources/alps.png" class="imageStyle" style="font-family: Age;"/>
+    <textarea id ="jsontxt"></textarea>
+
+</body>
+</html>
