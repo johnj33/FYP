@@ -9,35 +9,45 @@
         var graph2 = document.getElementById("graph2");
         
         var values = localStorage["Gauge"].split(",");
-        var graphurl = "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/Controls/RiverLevels/ChartImage.jpg?Id=";
+        alert(values[0]);
+        if (values[0] == "offline") {
+            alert("offline");
+            var gaugedata = localStorage[values[1] + "other"].split(",");
+            gauge = values[1].split("-")[1];
+            river = gaugedata[0];
+            town = gaugedata[1];
+            currentLevel = gaugedata[2] + values[1];
 
-        image1str = graphurl + values[4] + "&ChartType=Graph";
-        image2str = graphurl + values[4] + "&ChartType=Histogram";
+            graph1.src = localStorage[values[1] + "img1"];
+            alert(localStorage[values[1] + "img1"]);
+            graph2.src = localStorage[values[1] + "img2s"];
+        }
+        else {
 
-        graph1.src = image1str;
-        graph2.src = image2str;
-        gauge = values[3];
-        url =  'http://query.yahooapis.com/v1/public/yql?q='+encodeURIComponent('select * from html where url="'+values[1]+'"')+' and xpath="//*[@id=\'station-detail-right\']/div/div/h3\"&format=json&callback=cbFunc';
-              
-       
-        //$.get(url,
-                
-        //    function (data) {
-        //    alert('page content: ' + data);
-        //    }
-        //    );
-        var xmlHttp = null;
+            var graphurl = "http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/Controls/RiverLevels/ChartImage.jpg?Id=";
 
-        xmlHttp = new XMLHttpRequest();
-        xmlHttp.open("GET", url, false);
-        xmlHttp.send(null);
-        var currentLevel = xmlHttp.responseText.split("Current level: ")[1].split("\"")[0];
+            image1str = graphurl + values[4] + "&ChartType=Graph";
+            image2str = graphurl + values[4] + "&ChartType=Histogram";
+
+            graph1.src = image1str;
+            graph2.src = image2str;
+            gauge = values[3];
+            url = 'http://query.yahooapis.com/v1/public/yql?q=' + encodeURIComponent('select * from html where url="' + values[1] + '"') + ' and xpath="//*[@id=\'station-detail-right\']/div/div/h3\"&format=json&callback=cbFunc';
+
+            var xmlHttp = null;
+
+            xmlHttp = new XMLHttpRequest();
+            xmlHttp.open("GET", url, false);
+            xmlHttp.send(null);
+            currentLevel = xmlHttp.responseText.split("Current level: ")[1].split("\"")[0];
+            town = values[0];
+            river = values[2];
+        }
+            text1.textContent = "Gauge: " + gauge;
+            text2.textContent = "Town: " + town;
+            text3.textContent = " \n River: " + river;
+            text4.textContent = "Current Level:" + currentLevel;
         
-
-        text1.textContent = "Gauge: " + gauge;
-        text2.textContent = "Town: " + values[0];
-        text3.textContent = " \n River: " + values[2];
-        text4.textContent = "Current Level:" + currentLevel;
     }
     catch (ex) {
         alert(ex);
@@ -47,6 +57,9 @@
 var image1str;
 var image2str;
 var gauge;
+var town;
+var river;
+var currentLevel;
 
 function AddToFavorites() {
     try{
@@ -88,4 +101,63 @@ function zoomImg1() {
 function zoomImg2() {
     localStorage["img"] = image2str;
     window.location = "../FullscreenImg/FullScrImg.html";
+}
+
+function Save() {
+    try {
+        var StoredOffline = localStorage["offline"];
+        if (typeof StoredOffline === "undefined") {
+            StoredOffline = "";
+        }
+        else {
+            StoredOffline += ",";
+        }
+
+        var DateTime = new Date();
+        var uniqueID = DateTime.getDate() + "/"
+                    + (DateTime.getMonth() + 1) + "/"
+                    + DateTime.getFullYear() + " @ "
+                    + DateTime.getHours() + ":"
+                    + DateTime.getMinutes() + ":"
+                    + DateTime.getSeconds() + "-"
+                    + gauge;
+        localStorage["offline"] += uniqueID;
+
+        alert(uniqueID);
+
+        var graph1 = document.getElementById("graph1");
+        var graph2 = document.getElementById("graph2");
+
+        $('graph1').load(function () {
+            var canvas = document.createElement("canvas");
+            canvas.width = this.width;
+            canvas.height = this.height;
+
+            // Copy the image contents to the canvas
+            var ctx = canvas.getContext("2d");
+            ctx.drawImage(this, 0, 0);
+            localStorage[uniqueID + "img1"] = canvas.toDataURL("image/png");
+
+        })
+
+        $('graph2').load(function () {
+            var canvas = document.createElement("canvas");
+            canvas.width = this.width;
+            canvas.height = this.height;
+
+            // Copy the image contents to the canvas
+            var ctx = canvas.getContext("2d");
+            ctx.drawImage(this, 0, 0);
+            localStorage[uniqueID + "img2"] = canvas.toDataURL("image/png");
+
+        })
+
+
+        localStorage[uniqueID + "other"] = river+","+town +","+ currentLevel;
+
+        
+    }
+    catch (ex) {
+        alert(ex);
+    }
 }

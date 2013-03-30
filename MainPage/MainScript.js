@@ -34,6 +34,16 @@ var ViewGauge = function() {
         alert(ex);
     }
 };
+
+function ViewOffGauge() {
+
+    var gaugeeditbox = document.getElementById("OfflineSelection");
+
+    var gaugetxt = "offline," + gaugeeditbox.options[gaugeeditbox.selectedIndex].text;
+    localStorage["Gauge"] =  gaugetxt;
+    alert(gaugetxt);
+    window.location = "../Gauge/Gauge.html";
+}
 function showGauge(gauge) {
     var search = new Search(gauge);
     gauges.forEach(search.FindGaugeByStation);
@@ -81,17 +91,26 @@ function initialize() {
 
 function addFavs() {
     var favsEditBox = document.getElementById("FavsSelection");
+    var offEditBox = document.getElementById("OfflineSelection");
     var fav = localStorage["favs"];
+    var off = localStorage["offline"];
     if (typeof fav === "undefined") {
         alert("no favs");
     }
     else {
-        
-
-
         var favs = fav.split(',');
         for (var i = 0; i < favs.length; i++) {
             favsEditBox.options.add(new Option(favs[i], favs[i]));
+        }
+    }
+    
+    if (typeof off === "undefined") {
+        alert("no offline");
+    }
+    else {
+        var offs = off.split(',');
+        for (var i = 0; i < offs.length; i++) {
+            offEditBox.options.add(new Option(offs[i], offs[i]));
         }
     }
     
