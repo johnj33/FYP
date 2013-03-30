@@ -9,9 +9,9 @@
         var graph2 = document.getElementById("graph2");
         
         var values = localStorage["Gauge"].split(",");
-        alert(values[0]);
+        
         if (values[0] == "offline") {
-            alert("offline");
+          
             var gaugedata = localStorage[values[1] + "other"].split(",");
             gauge = values[1].split("-")[1];
             river = gaugedata[0];
@@ -19,7 +19,6 @@
             currentLevel = gaugedata[2] + values[1];
 
             graph1.src = localStorage[values[1] + "img1"];
-            alert(localStorage[values[1] + "img1"]);
             graph2.src = localStorage[values[1] + "img2s"];
         }
         else {
@@ -109,51 +108,48 @@ function Save() {
         if (typeof StoredOffline === "undefined") {
             StoredOffline = "";
         }
-        else {
-            StoredOffline += ",";
-        }
 
         var DateTime = new Date();
         var uniqueID = DateTime.getDate() + "/"
                     + (DateTime.getMonth() + 1) + "/"
-                    + DateTime.getFullYear() + " @ "
+                    + DateTime.getFullYear()
                     + DateTime.getHours() + ":"
                     + DateTime.getMinutes() + ":"
                     + DateTime.getSeconds() + "-"
                     + gauge;
-        localStorage["offline"] += uniqueID;
+        localStorage["offline"] += uniqueID + ",";
 
         alert(uniqueID);
 
         var graph1 = document.getElementById("graph1");
         var graph2 = document.getElementById("graph2");
+        localStorage[uniqueID + "other"] = river + "," + town + "," + currentLevel;
 
-        $('graph1').load(function () {
-            var canvas = document.createElement("canvas");
-            canvas.width = this.width;
-            canvas.height = this.height;
+       
+        var fileTransfer = new FileTransfer();
+        // Get the data directory, creating it if it doesn't exist.
+        dataDir = fileSystem.root.getDirectory("data", { create: true });
 
-            // Copy the image contents to the canvas
-            var ctx = canvas.getContext("2d");
-            ctx.drawImage(this, 0, 0);
-            localStorage[uniqueID + "img1"] = canvas.toDataURL("image/png");
+        // Create the lock file, if and only if it doesn't exist.
+        lockFile = dataDir.getFile(uniqueID +"img1"+".jpg", { create: true, exclusive: true });
 
-        })
+        fileTransfer.download(
+            graph1.src,
+            lockFile,
+            function (entry) {
+                console.log("download complete: " + entry.fullPath);
+            },
+            function (error) {
+                console.log("download error source " + error.source);
+                console.log("download error target " + error.target);
+                console.log("upload error code" + error.code);
+            }
+        );
 
-        $('graph2').load(function () {
-            var canvas = document.createElement("canvas");
-            canvas.width = this.width;
-            canvas.height = this.height;
+        localStorage[uniqueID + "img1"] = graph1.value;
+        localStorage[uniqueID + "img2"] = graph2.value;
+        alert(graph1.value);
 
-            // Copy the image contents to the canvas
-            var ctx = canvas.getContext("2d");
-            ctx.drawImage(this, 0, 0);
-            localStorage[uniqueID + "img2"] = canvas.toDataURL("image/png");
-
-        })
-
-
-        localStorage[uniqueID + "other"] = river+","+town +","+ currentLevel;
 
         
     }

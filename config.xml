@@ -16,5 +16,5 @@
   <author href="https://build.phonegap.com" email="support@phonegap.com">
     John Jackson
   </author>
-
+  <plugin value="org.apache.cordova.FileTransfer" name="FileTransfer"/>
 </widget>
