@@ -99,9 +99,7 @@ function addFavs() {
 
 
 function jsonparse(data) {
-    try {
-        alert(data);
-        
+    try {        
         gauges = new Array();
         for (var i = 0; i < data["gauges"].length; i++) {
             var currentGauge = data["gauges"][i];
