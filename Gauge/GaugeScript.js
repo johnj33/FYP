@@ -16,7 +16,7 @@
             gauge = values[1].split("-")[1];
             river = gaugedata[0];
             town = gaugedata[1];
-            currentLevel = gaugedata[2] + values[1];
+            currentLevel = gaugedata[2] +" "+ values[1].split("-")[0].replace("_", "/").replace("_", "/").replace("_", ":").replace("_", ":");
 
             graph1.src = "//sdcard/RiverLevels/" + values[1] + "chart1.jpg";
             graph2.src = "//sdcard/RiverLevels/" + values[1] + "chart2.jpg";
@@ -99,12 +99,14 @@ function AddToFavorites() {
 }
 
 function zoomImg1() {
-    localStorage["img"] = image1str;
+    var graph1 = document.getElementById("graph1");
+    localStorage["img"] = graph1.src;
     window.location = "../FullscreenImg/FullScrImg.html";
 }
 
 function zoomImg2() {
-    localStorage["img"] = image2str;
+    var graph2 = document.getElementById("graph2");
+    localStorage["img"] = graph2.src;
     window.location = "../FullscreenImg/FullScrImg.html";
 }
 
