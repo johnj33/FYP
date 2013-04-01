@@ -118,7 +118,7 @@ function Save() {
         var DateTime = new Date();
         var uniqueID = DateTime.getDate() + "_"
                     + (DateTime.getMonth() + 1) + "_"
-                    + DateTime.getFullYear()
+                    + DateTime.getFullYear()+" "
                     + DateTime.getHours() + "_"
                     + DateTime.getMinutes() + "_"
                     + DateTime.getSeconds() + "-"
@@ -129,48 +129,28 @@ function Save() {
 
         
         localStorage[uniqueID + "other"] = river + "," + town + "," + currentLevel;
-
        
-        //var fileTransfer = new FileTransfer();
-        //// Get the data directory, creating it if it doesn't exist.
-        //dataDir = fileSystem.root.getDirectory("data", { create: true });
-
-        //// Create the lock file, if and only if it doesn't exist.
-        //lockFile = dataDir.getFile(uniqueID +"img1"+".jpg", { create: true, exclusive: true });
-
-        //fileTransfer.download(
-        //    graph1.src,
-        //    lockFile,
-        //    function (entry) {
-        //        console.log("download complete: " + entry.fullPath);
-        //    },
-        //    function (error) {
-        //        console.log("download error source " + error.source);
-        //        console.log("download error target " + error.target);
-        //        console.log("upload error code" + error.code);
-        //    }
-        //);
-
-        //localStorage[uniqueID + "img1"] = graph1.value;
-        //localStorage[uniqueID + "img2"] = graph2.value;
-        //alert(graph1.value);
-       
-
-        var fileTransfer = new FileTransfer();
-        fileTransfer.download(
-                image1str,
-                "file://sdcard/"+"RiverLevels/"+uniqueID + "chart1" +".jpg",
-            function (entry) {
-                alert("download complete: " + entry.fullPath);
-            },
-            function (error) {
-                alert("download error source " + error.source);
-                alert("download error target " + error.target);
-                alert("upload error code" + error.code);
-            });
+        saveimg("chart1");
+        saveimg("chart2");
+        
         
     }
     catch (ex) {
         alert(ex);
     }
+}
+function saveimg(name) {
+
+    var fileTransfer = new FileTransfer();
+    fileTransfer.download(
+            image1str,
+            "file://sdcard/" + "RiverLevels/" + uniqueID + name + ".jpg",
+        function (entry) {
+            alert("download complete: " + entry.fullPath);
+        },
+        function (error) {
+            alert("download error source " + error.source);
+            alert("download error target " + error.target);
+            alert("upload error code" + error.code);
+        });
 }
