@@ -155,11 +155,12 @@ function Save() {
         //localStorage[uniqueID + "img1"] = graph1.value;
         //localStorage[uniqueID + "img2"] = graph2.value;
         //alert(graph1.value);
+       
 
         var fileTransfer = new FileTransfer();
         fileTransfer.download(
                 graph1.src,
-                "file:///sdcard/"+uniqueID + "chart1" +".jpg",
+                "file://sdcard/"+uniqueID + "chart1" +".jpg",
             function (entry) {
                 alert("download complete: " + entry.fullPath);
             },
