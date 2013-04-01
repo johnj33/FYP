@@ -18,8 +18,8 @@
             town = gaugedata[1];
             currentLevel = gaugedata[2] + values[1];
 
-            graph1.src = localStorage[values[1] + "img1"];
-            graph2.src = localStorage[values[1] + "img2s"];
+            graph1.src = "//sdcard/RiverLevels/" + values[1] + "chart1.jpg";
+            graph2.src = "//sdcard/RiverLevels/" + values[1] + "chart2.jpg";
         }
         else {
 
