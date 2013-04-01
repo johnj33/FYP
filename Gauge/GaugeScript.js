@@ -159,7 +159,7 @@ function Save() {
         var fileTransfer = new FileTransfer();
         fileTransfer.download(
                 graph1.src,
-                "file:///sdcard/"+uniqueID + "chart1" +".pdf",
+                "file:///sdcard/"+uniqueID + "chart1" +".jpg",
             function (entry) {
                 alert("download complete: " + entry.fullPath);
             },
