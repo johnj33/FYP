@@ -127,8 +127,7 @@ function Save() {
 
         alert(uniqueID);
 
-        var graph1 = document.getElementById("graph1");
-        var graph2 = document.getElementById("graph2");
+        
         localStorage[uniqueID + "other"] = river + "," + town + "," + currentLevel;
 
        
@@ -159,7 +158,7 @@ function Save() {
 
         var fileTransfer = new FileTransfer();
         fileTransfer.download(
-                graph1.src,
+                image1str,
                 "file://sdcard/"+"RiverLevels/"+uniqueID + "chart1" +".jpg",
             function (entry) {
                 alert("download complete: " + entry.fullPath);
