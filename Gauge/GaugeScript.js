@@ -116,8 +116,8 @@ function Save() {
         }
 
         var DateTime = new Date();
-        var uniqueID = DateTime.getDate() + "/"
-                    + (DateTime.getMonth() + 1) + "/"
+        var uniqueID = DateTime.getDate() + "_"
+                    + (DateTime.getMonth() + 1) + "_"
                     + DateTime.getFullYear()
                     + DateTime.getHours() + ":"
                     + DateTime.getMinutes() + ":"
@@ -160,7 +160,7 @@ function Save() {
         var fileTransfer = new FileTransfer();
         fileTransfer.download(
                 graph1.src,
-                "file://sdcard/"+uniqueID + "chart1" +".jpg",
+                "file://sdcard/"+"RiverLevels/"+uniqueID + "chart1" +".jpg",
             function (entry) {
                 alert("download complete: " + entry.fullPath);
             },
