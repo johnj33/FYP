@@ -46,6 +46,12 @@
             text2.textContent = "Town: " + town;
             text3.textContent = " \n River: " + river;
             text4.textContent = "Current Level:" + currentLevel;
+            document.addEventListener("deviceready", onDeviceReady, false);
+
+            function onDeviceReady() {
+                alert("ready");
+                // Now safe to use the Cordova API
+            }
         
     }
     catch (ex) {
