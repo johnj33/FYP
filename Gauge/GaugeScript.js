@@ -130,8 +130,8 @@ function Save() {
         
         localStorage[uniqueID + "other"] = river + "," + town + "," + currentLevel;
        
-        saveimg("chart1");
-        saveimg("chart2");
+        saveimg(uniqueID, "chart1");
+        saveimg(uniqueID, "chart2");
         
         
     }
@@ -139,7 +139,7 @@ function Save() {
         alert(ex);
     }
 }
-function saveimg(name) {
+function saveimg(uniqueID, name) {
 
     var fileTransfer = new FileTransfer();
     fileTransfer.download(
