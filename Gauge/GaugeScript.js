@@ -119,8 +119,8 @@ function Save() {
         var uniqueID = DateTime.getDate() + "_"
                     + (DateTime.getMonth() + 1) + "_"
                     + DateTime.getFullYear()
-                    + DateTime.getHours() + ":"
-                    + DateTime.getMinutes() + ":"
+                    + DateTime.getHours() + "_"
+                    + DateTime.getMinutes() + "_"
                     + DateTime.getSeconds() + "-"
                     + gauge;
         localStorage["offline"] += uniqueID + ",";
