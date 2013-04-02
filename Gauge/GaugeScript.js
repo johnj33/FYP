@@ -41,13 +41,14 @@
             currentLevel = xmlHttp.responseText.split("Current level: ")[1].split("\"")[0];
             town = values[0];
             river = values[2];
+            longlat = values[5].split("-");
         }
             text1.textContent = "Gauge: " + gauge;
             text2.textContent = "Town: " + town;
             text3.textContent = " \n River: " + river;
             text4.textContent = "Current Level:" + currentLevel;
 
-            longlat = values[5].split("-");
+            
             
             document.addEventListener("deviceready", onDeviceReady, false);
             
