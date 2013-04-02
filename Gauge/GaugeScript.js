@@ -11,7 +11,7 @@
         var values = localStorage["Gauge"].split(",");
         
         if (values[0] == "offline") {
-          
+            alert(localStorage[values[1] + "other"]);
             var gaugedata = localStorage[values[1] + "other"].split(",");
             gauge = values[1].split("-")[1];
             river = gaugedata[0];
