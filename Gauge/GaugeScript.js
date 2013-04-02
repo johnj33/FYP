@@ -47,20 +47,8 @@
             text3.textContent = " \n River: " + river;
             text4.textContent = "Current Level:" + currentLevel;
 
-            var longlat = values[5].split("-");
-            Dispmap = new google.maps.Map(
-                        document.getElementById('map_canvas'), {
-                            center: new google.maps.LatLng(longlat[0], "-" + longlat[1]),
-                            zoom: 13,
-                            mapTypeId: google.maps.MapTypeId.ROADMAP
-                        });
-
-            var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(longlat[0], -longlat[1]),
-                map: Dispmap,
-                title: values[3],
-                data: values
-            });
+            longlat = values[5].split("-");
+            
             document.addEventListener("deviceready", onDeviceReady, false);
             
             function onDeviceReady() {
@@ -82,6 +70,7 @@ var town;
 var river;
 var currentLevel;
 var enabled = false;
+var longlat;
 
 function AddToFavorites() {
     try{
@@ -209,6 +198,20 @@ function ShowMap() {
     graph1.style.display = "none";
     graph2.style.display = "none";
     map.style.display = "block";
+
+    Dispmap = new google.maps.Map(
+                        document.getElementById('map_canvas'), {
+                            center: new google.maps.LatLng(longlat[0], "-" + longlat[1]),
+                            zoom: 13,
+                            mapTypeId: google.maps.MapTypeId.ROADMAP
+                        });
+
+    var marker = new google.maps.Marker({
+        position: new google.maps.LatLng(longlat[0], -longlat[1]),
+        map: Dispmap,
+        title: gauge,
+        data: gauge
+    });
     google.maps.event.trigger(Dispmap, "resize");
 
 }
