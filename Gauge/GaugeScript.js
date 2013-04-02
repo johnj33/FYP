@@ -46,11 +46,28 @@
             text2.textContent = "Town: " + town;
             text3.textContent = " \n River: " + river;
             text4.textContent = "Current Level:" + currentLevel;
-            document.addEventListener("deviceready", onDeviceReady, false);
 
+            var longlat = values[5].split("-");
+            Dispmap = new google.maps.Map(
+                        document.getElementById('map_canvas'), {
+                            center: new google.maps.LatLng(longlat[0], "-" + longlat[1]),
+                            zoom: 13,
+                            mapTypeId: google.maps.MapTypeId.ROADMAP
+                        });
+            google.maps.event.trigger(Dispmap, "resize");
+
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(longlat[0], -longlat[1]),
+                map: Dispmap,
+                title: values[3],
+                data: values
+            });
+            document.addEventListener("deviceready", onDeviceReady, false);
+            
             function onDeviceReady() {
                 enabled = true;
             }
+            
         
     }
     catch (ex) {
@@ -162,3 +179,35 @@ function saveimg(uniqueID, name) {
             });
     
 }
+
+function ShowChart1() {
+    var graph1 = document.getElementById("graph1");
+    var graph2 = document.getElementById("graph2");
+    var map = document.getElementById("map_canvas");
+
+    graph1.style.display = "block";
+    graph2.style.display = "none";
+}
+
+function ShowChart2() {
+    var graph1 = document.getElementById("graph1");
+    var graph2 = document.getElementById("graph2");
+    var map = document.getElementById("map_canvas");
+
+    graph1.style.display = "none";
+    graph2.style.display = "block";
+    map.style.display = "none";
+
+}
+
+function ShowMap() {
+    var graph1 = document.getElementById("graph1");
+    var graph2 = document.getElementById("graph2");
+    var map = document.getElementById("map_canvas");
+
+    graph1.style.display = "none";
+    graph2.style.display = "none";
+    map.style.display = "block";
+}
+
+var Dispmap;

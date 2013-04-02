@@ -1,5 +1,41 @@
 ﻿<!DOCTYPE html>
 <style>
+    ul, li {
+        border: 0;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    ul {
+        border-bottom: solid 1px #DEDEDE;
+        height: 29px;
+        padding-left: 5px;
+    }
+
+    li {
+        float: left;
+        margin-right: 2px;
+        background: url(../Resources/tab-round.png) right 60px;
+        color: #666666;
+        display: block;
+        font-weight: bold;
+        height: 30px;
+        line-height: 30px;
+        text-decoration: none;
+    }
+
+    .tab a:link, .tab a:visited .tab a:default {
+    }
+
+    .tab a span {
+        background: url(../Resources/tab-round.png) left 60px;
+        display: block;
+        height: 30px;
+        margin-right: 5px;
+        padding-left: 5px;
+    }
+
     @font-face {
         font-family: Age;
         src: url('../Resources/segoeui.ttf'); /* IE9+ */
@@ -8,15 +44,16 @@
     div {
         font-family: Age;
     }
+
     .imageStyle {
         width: 100%;
     }
 </style>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <script src="cordova-2.5.0.js"></script>
-<script src="http://yui.yahooapis.com/3.8.0/build/yui/yui-min.js"></script>  
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCr7CxvSh4GRjo7Arsvz8SXzPibP-ajV3w&sensor=true"> </script>
+<script src="cordova-2.5.0.js"></script>
+<script src="http://yui.yahooapis.com/3.8.0/build/yui/yui-min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?file=api&amp;v=2&amp;key=AIzaSyCr7CxvSh4GRjo7Arsvz8SXzPibP-ajV3w&sensor=true" type="text/javascript"></script>
 <script type="text/javascript" charset="utf-8" src="GaugeScript.js"></script>
 <head>
     <title></title>
@@ -26,7 +63,7 @@
         }
     </style>
 </head>
-<body onload="Initialise()" style="background-color: lightskyblue">
+<body onload="Initialise()" style="background-color: white">
 
     <table style="width: 100%;">
         <tr>
@@ -49,28 +86,33 @@
                 <div id="text4" style="font-size: 12pt" />
             </td>
         </tr>
-        <tr>
-            <td class="auto-style1">
-                <img id="graph2" src="null" height="200" onclick ="zoomImg2();"/>
-            </td>
-        </tr>
-        <tr>
-            <td class="auto-style1">
-                <img id="graph1" src="null" height="200" onclick ="zoomImg1();"/>
-            </td>
-        </tr>
     </table>
-    <table style="width: 100%;">
-        <tr>
-            <td>
-                <button onclick ="AddToFavorites();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white"> Add to Favorites</button>
-            </td>
-            <td>
-                <button onclick ="Save();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white"> Save for offline </button>
-            </td>
-        </tr>
-    </table>
-    <img src="../Resources/alps.png" class="imageStyle"/>
+    <ul class="tab" style="font-family:Age">
+        <li class="active"><a onclick="ShowChart1();"><span>Chart 1</span></a></li>
+        <li><a onclick="ShowChart2();"><span>Chart 2</span></a></li>
+        <li><a onclick="ShowMap();"><span>Map </span></a></li>
+    </ul>
+
+    <img id="graph2" src="null" height="200" onclick="zoomImg2();" />
+
+
+    <img id="graph1" src="null" height="200" onclick="zoomImg1();" style="display: none" />
+
+    <div id="map_canvas" class="mapstyle" style="display: none; height:200px; width:400px" ></div>
+    <div>
+
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <button onclick="AddToFavorites();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white">Add to Favorites</button>
+                </td>
+                <td>
+                    <button onclick="Save();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white">Save for offline </button>
+                </td>
+            </tr>
+        </table>
+        <img src="../Resources/alps.png" class="imageStyle" />
+    </div>
 
 </body>
 </html>

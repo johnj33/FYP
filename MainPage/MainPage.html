@@ -27,7 +27,7 @@
         li {
             float: left;
             margin-right: 2px;
-            background: url(tab-round.png) right 60px;
+            background: url(../Resources/tab-round.png) right 60px;
             color: #666666;
             display: block;
             font-weight: bold;
@@ -40,7 +40,7 @@
         }
 
         .tab a span {
-            background: url(tab-round.png) left 60px;
+            background: url(../Resources/tab-round.png) left 60px;
             display: block;
             height: 30px;
             margin-right: 5px;
@@ -49,7 +49,7 @@
 
         @font-face {
             font-family: Age;
-            src: url('Resources/segoeui.ttf'); /* IE9+ */
+            src: url('../Resources/segoeui.ttf'); /* IE9+ */
         }
 
         div {
@@ -60,9 +60,9 @@
             width: 100%;
         }
     </style>
-    <div style="font-size: 22pt">River Levels</div>
+    <div style="font-size: 22pt; font-family: Age;">River Levels</div>
 
-    <ul class="tab">
+    <ul class="tab" style="font-family:Age">
         <li class="active"><a onclick="RiverGauges();"><span>Gauges By Rivers </span></a></li>
         <li><a onclick="GetCurrentLocation();"><span>Map </span></a></li>
         <li><a onclick="FavoriteGauges();"><span>Favorite Gauges </span></a></li>

@@ -120,24 +120,6 @@ function Initialise() {
      }
  }
 
- function addMarker(gauge) {
-     try {
-         
-         try{
-
-             
-         }
-         catch (ex) {
-             alert(ex);
-         }
-         
-     }
-     catch (ex3) {
-         alert(ex3);
-     }
-
- }
-
  function Gauge(url, river, station, town, graphcode, loc) {
 
      this.url = url;
