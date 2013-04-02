@@ -9645,7 +9645,7 @@
          "River":"Ingrebourne",
          "station":"Upminster",
          "Town":"Upminster",
-         "GraphCode":"",
+         "GraphCode":"1278",
          "loc":"51.5559140,0.2488940"
       },
       {
@@ -9654,7 +9654,7 @@
          "River":"Rom/Beam",
          "station":"Romford",
          "Town":"Romford",
-         "GraphCode":"",
+         "GraphCode":"1275",
          "loc":"51.5770760,0.1783190"
       },
       {
@@ -9663,7 +9663,7 @@
          "River":"Ash (Hertfordshire)",
          "station":"Furneux Pelham",
          "Town":"Furneux Pelham",
-         "GraphCode":"",
+         "GraphCode":"1270",
          "loc":"51.9322380,0.0789250"
       },
       {
@@ -9672,7 +9672,7 @@
          "River":"Ash (Hertfordshire)",
          "station":"Little Hadham",
          "Town":"Little Hadham",
-         "GraphCode":"",
+         "GraphCode":"1271",
          "loc":"51.8832710,0.0913950"
       },
       {
@@ -9681,7 +9681,7 @@
          "River":"Ash (Hertfordshire)",
          "station":"Mardock",
          "Town":"Wareside",
-         "GraphCode":"",
+         "GraphCode":"1272",
          "loc":"51.8175450,0.0193030"
       },
       {
@@ -9690,7 +9690,7 @@
          "River":"Beane",
          "station":"Dane End",
          "Town":"Dane End",
-         "GraphCode":"",
+         "GraphCode":"1283",
          "loc":"51.8718890-0.0671820"
       },
       {
@@ -9699,7 +9699,7 @@
          "River":"Beane",
          "station":"Hertford, Hartham Park",
          "Town":"Hertford, Hartham Park",
-         "GraphCode":"",
+         "GraphCode":"1284",
          "loc":"51.7996160-0.0810012"
       },
       {
@@ -9708,7 +9708,7 @@
          "River":"Beane",
          "station":"Walkern",
          "Town":"Walkern",
-         "GraphCode":"",
+         "GraphCode":"1280",
          "loc":"51.9181389-0.1269299"
       },
       {
@@ -9717,7 +9717,7 @@
          "River":"Beane",
          "station":"Watton at Stone",
          "Town":"Watton At Stone",
-         "GraphCode":"",
+         "GraphCode":"1282",
          "loc":"51.8534490-0.1077460"
       },
       {
@@ -9726,7 +9726,7 @@
          "River":"Canons Brook",
          "station":"Harlow, Elizabeth way",
          "Town":"Harlow",
-         "GraphCode":"",
+         "GraphCode":"1399",
          "loc":"51.7677870,0.0878060"
       },
       {
@@ -9735,7 +9735,7 @@
          "River":"Pincey Brook",
          "station":"Sheering Hall",
          "Town":"Churchgate Street",
-         "GraphCode":"",
+         "GraphCode":"1396",
          "loc":"51.7822788,0.1488019"
       },
       {
@@ -9744,7 +9744,7 @@
          "River":"Pishiobury Brook",
          "station":"Pishiobury Brook",
          "Town":"Harlow",
-         "GraphCode":"",
+         "GraphCode":"1398",
          "loc":"51.7677870,0.0878060"
       },
       {
@@ -9753,7 +9753,7 @@
          "River":"Quin",
          "station":"Braughing",
          "Town":"Braughing",
-         "GraphCode":"",
+         "GraphCode":"1382",
          "loc":"51.9051187,0.0356993"
       },
       {
@@ -9762,7 +9762,7 @@
          "River":"Rib",
          "station":"Buntingford",
          "Town":"Buntingford",
-         "GraphCode":"",
+         "GraphCode":"1381",
          "loc":"51.9462170-0.0185470"
       },
       {
@@ -9771,7 +9771,7 @@
          "River":"Rib",
          "station":"Wadesmill",
          "Town":"Wadesmill",
-         "GraphCode":"",
+         "GraphCode":"1383",
          "loc":"51.8398010-0.0301130"
       },
       {
@@ -9780,7 +9780,7 @@
          "River":"Stansted Brook",
          "station":"Stanstead Mountfitchet, Gypsy Lane",
          "Town":"Stansted Mountfitchet",
-         "GraphCode":"",
+         "GraphCode":"1393",
          "loc":"51.8978139,0.1987030"
       },
       {
@@ -9789,7 +9789,7 @@
          "River":"Stevenage Brook",
          "station":"Bragbury Park",
          "Town":"Bragbury End",
-         "GraphCode":"",
+         "GraphCode":"1281",
          "loc":"51.8751630-0.1582629"
       },
       {
@@ -9798,7 +9798,7 @@
          "River":"Stort",
          "station":"Bishops Stortford, Grange Paddocks",
          "Town":"Bishop's Stortford",
-         "GraphCode":"",
+         "GraphCode":"1394",
          "loc":"51.8690520,0.1586050"
       },
       {
@@ -9807,7 +9807,7 @@
          "River":"Stort",
          "station":"Clavering",
          "Town":"Clavering",
-         "GraphCode":"",
+         "GraphCode":"1392",
          "loc":"51.9656130,0.1431690"
       },
       {
@@ -9816,7 +9816,7 @@
          "River":"Stort",
          "station":"Harlow Mill",
          "Town":"Harlow",
-         "GraphCode":"",
+         "GraphCode":"1397",
          "loc":"51.7677870,0.0878060"
       },
       {
@@ -9825,7 +9825,7 @@
          "River":"Stort",
          "station":"Sawbridgeworth",
          "Town":"Sawbridgeworth",
-         "GraphCode":"",
+         "GraphCode":"1395",
          "loc":"51.8155400,0.1472100"
       },
       {
@@ -9834,7 +9834,7 @@
          "River":"Stort",
          "station":"Roydon, Glen Faba",
          "Town":"Roydon",
-         "GraphCode":"",
+         "GraphCode":"1400",
          "loc":"51.7729600,0.0396100"
       },
       {
@@ -9843,7 +9843,7 @@
          "River":"Lee",
          "station":"Hoddesdon, Rye Bridge",
          "Town":"Hoddesdon",
-         "GraphCode":"",
+         "GraphCode":"1407",
          "loc":"51.7600070-0.0150420"
       },
       {
@@ -9852,7 +9852,7 @@
          "River":"Addlestone Bourne",
          "station":"Addlestone",
          "Town":"Addlestone",
-         "GraphCode":"",
+         "GraphCode":"1416",
          "loc":"51.3698130-0.4886410"
       },
       {
@@ -9861,7 +9861,7 @@
          "River":"Addlestone Bourne",
          "station":"Grants Bridge",
          "Town":"Chobham",
-         "GraphCode":"",
+         "GraphCode":"1415",
          "loc":"51.3480560-0.6038580"
       },
       {
@@ -9870,7 +9870,7 @@
          "River":"Chertsey Bourne",
          "station":"Fordwater Road",
          "Town":"Chertsey",
-         "GraphCode":"",
+         "GraphCode":"1412",
          "loc":"51.3864910-0.5094560"
       },
       {
@@ -9879,7 +9879,7 @@
          "River":"Chertsey Bourne",
          "station":"Free Prae Road",
          "Town":"Chertsey",
-         "GraphCode":"",
+         "GraphCode":"1411",
          "loc":"51.3864910-0.5094560"
       },
       {
@@ -9888,7 +9888,7 @@
          "River":"Chertsey Bourne",
          "station":"Guildford Street",
          "Town":"Chertsey",
-         "GraphCode":"",
+         "GraphCode":"1410",
          "loc":"51.3864910-0.5094560"
       },
       {
@@ -9897,7 +9897,7 @@
          "River":"Chertsey Bourne",
          "station":"Trumps Green",
          "Town":"Virginia Water",
-         "GraphCode":"",
+         "GraphCode":"1408",
          "loc":"51.4021750-0.5894110"
       },
       {
@@ -9906,7 +9906,7 @@
          "River":"Mill Bourne",
          "station":"Millbourne Bridge",
          "Town":"Chobham",
-         "GraphCode":"",
+         "GraphCode":"1414",
          "loc":"51.3480560-0.6038580"
       },
       {
@@ -9915,7 +9915,7 @@
          "River":"Windle Brook",
          "station":"Bagshot",
          "Town":"Bagshot",
-         "GraphCode":"",
+         "GraphCode":"1413",
          "loc":"51.3603430-0.6978940"
       },
       {
@@ -9924,7 +9924,7 @@
          "River":"Cranleigh Waters",
          "station":"Flash Bridge",
          "Town":"Alfold Crossways",
-         "GraphCode":"",
+         "GraphCode":"1549",
          "loc":"51.1074560-0.5140560"
       },
       {
@@ -9933,7 +9933,7 @@
          "River":"Cranleigh Waters",
          "station":"Bramley",
          "Town":"Shalford",
-         "GraphCode":"",
+         "GraphCode":"1551",
          "loc":"51.2115850-0.5683570"
       },
       {
@@ -9942,7 +9942,7 @@
          "River":"East Clandon Stream",
          "station":"Send",
          "Town":"Burntcommon",
-         "GraphCode":"",
+         "GraphCode":"1554",
          "loc":""
       },
       {
@@ -9951,7 +9951,7 @@
          "River":"Hoe Stream",
          "station":"Woking South",
          "Town":"Mayford",
-         "GraphCode":"",
+         "GraphCode":"1557",
          "loc":"51.2954007-0.5731483"
       },
       {
@@ -9960,7 +9960,7 @@
          "River":"Law Brook",
          "station":"Albury",
          "Town":"Albury",
-         "GraphCode":"",
+         "GraphCode":"1553",
          "loc":"-36.08077851,46.9164693"
       },
       {
@@ -9969,7 +9969,7 @@
          "River":"Littlemead Brook",
          "station":"Cranleigh",
          "Town":"Cranleigh",
-         "GraphCode":"",
+         "GraphCode":"1550",
          "loc":"51.1410730-0.4839850"
       },
       {
@@ -9978,7 +9978,7 @@
          "River":"Wey",
          "station":"Kings Pond",
          "Town":"Alton",
-         "GraphCode":"",
+         "GraphCode":"1543",
          "loc":"38.8906038-90.1842764"
       },
       {
@@ -9987,7 +9987,7 @@
          "River":"Wey",
          "station":"Brooklands",
          "Town":"Byfleet",
-         "GraphCode":"",
+         "GraphCode":"1558",
          "loc":"51.3401250-0.4713570"
       },
       {
@@ -9996,7 +9996,7 @@
          "River":"Wey",
          "station":"Farnham",
          "Town":"Farnham",
-         "GraphCode":"",
+         "GraphCode":"1545",
          "loc":"51.2143210-0.7988020"
       },
       {
@@ -10005,7 +10005,7 @@
          "River":"Wey",
          "station":"Westbrook Mill",
          "Town":"Godalming",
-         "GraphCode":"",
+         "GraphCode":"1548",
          "loc":"51.1857320-0.6128080"
       },
       {
@@ -10014,7 +10014,7 @@
          "River":"Wey",
          "station":"Guildford",
          "Town":"Guildford",
-         "GraphCode":"",
+         "GraphCode":"1556",
          "loc":"51.2362200-0.5704090"
       },
       {
@@ -10023,7 +10023,7 @@
          "River":"Wey",
          "station":"Passfield Mill",
          "Town":"Standford",
-         "GraphCode":"",
+         "GraphCode":"1546",
          "loc":"37.4241060-122.1660756"
       },
       {
@@ -10032,7 +10032,7 @@
          "River":"Wey",
          "station":"Tilford",
          "Town":"Tilford",
-         "GraphCode":"",
+         "GraphCode":"1547",
          "loc":"51.1840789-0.7516100"
       },
       {
@@ -10041,7 +10041,7 @@
          "River":"Wey",
          "station":"Weybridge",
          "Town":"Weybridge",
-         "GraphCode":"",
+         "GraphCode":"1559",
          "loc":"51.3716269-0.4579040"
       },
       {
@@ -10050,7 +10050,7 @@
          "River":"River Severn",
          "station":"Buttington",
          "Town":"Buttington",
-         "GraphCode":"",
+         "GraphCode":"368",
          "loc":"52.6721860-3.1082400"
       },
       {
