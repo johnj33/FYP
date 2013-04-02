@@ -9,7 +9,7 @@
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCr7CxvSh4GRjo7Arsvz8SXzPibP-ajV3w&sensor=true"> </script>
 </head>
 
-<body onload="initialize();" style="background-color: white">
+<body onload="initialize();" style="background-image: url(../Resources/view.jpg)">
     <style>
         ul, li {
             border: 0;
@@ -63,6 +63,7 @@
         .auto-style1 {
             width: 60px;
         }
+
         .auto-style2 {
             width: 55px;
         }
@@ -124,6 +125,12 @@
                 </td>
             </tr>
             <tr>
+                <td class="auto-style2"></td>
+                <td class="auto-style1">
+                    <div style="height: 30px"></div>
+                </td>
+            </tr>
+            <tr>
                 <td></td>
                 <td style="width: 30%">
                     <button id="VeiwFavButton" onclick="ViewFavGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius: 10px">View Gauge</button>
@@ -144,8 +151,13 @@
                 </td>
             </tr>
             <tr>
-                <td>
+                <td class="auto-style2"></td>
+                <td class="auto-style1">
+                    <div style="height: 30px"></div>
                 </td>
+            </tr>
+            <tr>
+                <td></td>
                 <td>
                     <button id="VeiwOflineButton" onclick="ViewOffGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius: 10px">View Gauge</button>
                 </td>
@@ -153,7 +165,9 @@
         </table>
     </div>
     <div style="height: 30px"></div>
-    <!--<img src="../Resources/alps.png" class="imageStyle" style="font-family: Age; border-radius:10px" />-->
+    <!--<div style="height:40px">
+        <img src="../Resources/view.jpg" class="imageStyle" style="font-family: Age; border-radius: 10px" />
+    </div>-->
 
 
 </body>
