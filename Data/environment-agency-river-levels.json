@@ -10059,7 +10059,7 @@
          "River":"Arrow",
          "station":"Michaelchurch on Arrow",
          "Town":"Michaelchurch on Arrow",
-         "GraphCode":"",
+         "GraphCode":"1834",
          "loc":"52.1491320-3.0969060"
       },
       {
@@ -10068,7 +10068,7 @@
          "River":"Dore",
          "station":"Peterchurch",
          "Town":"Peterchurch",
-         "GraphCode":"",
+         "GraphCode":"1841",
          "loc":"52.0423972-2.9734053"
       },
       {
@@ -10077,7 +10077,7 @@
          "River":"Elan",
          "station":"Caban Elan",
          "Town":"Caban Elan",
-         "GraphCode":"",
+         "GraphCode":"1822",
          "loc":"9.9369652-84.0751678"
       },
       {
@@ -10095,7 +10095,7 @@
          "River":"Frome",
          "station":"Yarkhill",
          "Town":"Yarkhill",
-         "GraphCode":"",
+         "GraphCode":"1848",
          "loc":"52.0810050-2.5729410"
       },
       {
@@ -10104,7 +10104,7 @@
          "River":"Honddu",
          "station":"Tafalog",
          "Town":"Tafalog",
-         "GraphCode":"",
+         "GraphCode":"1844",
          "loc":"52.6768400-3.6399189"
       },
       {
@@ -10113,7 +10113,7 @@
          "River":"Irfon",
          "station":"Abernant",
          "Town":"Abernant",
-         "GraphCode":"",
+         "GraphCode":"1815",
          "loc":"33.2903925-87.1980530"
       },
       {
@@ -10131,7 +10131,7 @@
          "River":"Ithon",
          "station":"Disserth",
          "Town":"Disserth",
-         "GraphCode":"",
+         "GraphCode":"1824",
          "loc":"52.2163520-3.4141490"
       },
       {
@@ -10140,7 +10140,7 @@
          "River":"Ithon",
          "station":"Llanddewi",
          "Town":"Llanddewi",
-         "GraphCode":"",
+         "GraphCode":"1832",
          "loc":"52.3094830-3.3107470"
       },
       {
@@ -10149,7 +10149,7 @@
          "River":"Llynfi",
          "station":"Three Cocks",
          "Town":"Aberllynfi / Three Cocks",
-         "GraphCode":"",
+         "GraphCode":"1845",
          "loc":"52.0281100-3.2109400"
       },
       {
@@ -10158,7 +10158,7 @@
          "River":"Lugg",
          "station":"Butts Bridge",
          "Town":"Butts Bridge",
-         "GraphCode":"",
+         "GraphCode":"1820",
          "loc":"51.1118712-4.1614512"
       },
       {
@@ -10167,7 +10167,7 @@
          "River":"Lugg",
          "station":"Byton",
          "Town":"Byton",
-         "GraphCode":"",
+         "GraphCode":"1821",
          "loc":"52.557447318.5961026"
       },
       {
@@ -10176,7 +10176,7 @@
          "River":"Lugg",
          "station":"Lugwardine",
          "Town":"Lugwardine",
-         "GraphCode":"",
+         "GraphCode":"1833",
          "loc":"52.0673010-2.6547420"
       },
       {
@@ -10185,7 +10185,7 @@
          "River":"Lugg",
          "station":"Monaughty",
          "Town":"Monaughty",
-         "GraphCode":"",
+         "GraphCode":"1836",
          "loc":"52.3122840-3.1204710"
       },
       {
@@ -10194,7 +10194,7 @@
          "River":"Monnow",
          "station":"Grosmont",
          "Town":"Grosmont",
-         "GraphCode":"",
+         "GraphCode":"1829",
          "loc":"51.9125330-2.8673989"
       },
       {
@@ -10203,7 +10203,7 @@
          "River":"Monnow",
          "station":"Monnow Gate",
          "Town":"Monnow Gate",
-         "GraphCode":"",
+         "GraphCode":"1838",
          "loc":"51.6085759-3.0270639"
       },
       {
@@ -10212,7 +10212,7 @@
          "River":"Monnow",
          "station":"Skenfrith",
          "Town":"Skenfrith",
-         "GraphCode":"",
+         "GraphCode":"1849",
          "loc":"51.8767770-2.7946090"
       },
       {
@@ -10221,7 +10221,7 @@
          "River":"Trothy",
          "station":"Mitchel Troy",
          "Town":"Mitchel Troy",
-         "GraphCode":"",
+         "GraphCode":"1835",
          "loc":"51.7894590-2.7370080"
       },
       {
@@ -10230,7 +10230,7 @@
          "River":"Wye",
          "station":"Belmont",
          "Town":"Belmont",
-         "GraphCode":"",
+         "GraphCode":"1816",
          "loc":"37.5202145-122.2758008"
       },
       {
@@ -10239,7 +10239,7 @@
          "River":"Wye",
          "station":"Bredwardine",
          "Town":"Bredwardine",
-         "GraphCode":"",
+         "GraphCode":"1818",
          "loc":"52.0939690-2.9779040"
       },
       {
@@ -10257,7 +10257,7 @@
          "River":"Wye",
          "station":"Ddol Farm",
          "Town":"Ddol Farm",
-         "GraphCode":"",
+         "GraphCode":"1825",
          "loc":"52.9187331-4.2331849"
       },
       {
@@ -10266,7 +10266,7 @@
          "River":"Wye",
          "station":"Erwood",
          "Town":"Erwyd / Erwood",
-         "GraphCode":"",
+         "GraphCode":"1827",
          "loc":""
       },
       {
@@ -10275,7 +10275,7 @@
          "River":"Wye",
          "station":"Hereford Bridge",
          "Town":"Hereford Bridge",
-         "GraphCode":"",
+         "GraphCode":"1831",
          "loc":"52.0307000-2.8013757"
       },
       {
@@ -10284,7 +10284,7 @@
          "River":"Wye",
          "station":"Builth Wells",
          "Town":"Llanfair ym Muallt / Builth Wells",
-         "GraphCode":"",
+         "GraphCode":"1819",
          "loc":"52.1500230-3.4045920"
       },
       {
@@ -10293,7 +10293,7 @@
          "River":"Wye",
          "station":"Mordiford",
          "Town":"Mordiford",
-         "GraphCode":"",
+         "GraphCode":"1839",
          "loc":"52.0321560-2.6264949"
       },
       {
@@ -10302,7 +10302,7 @@
          "River":"Wye",
          "station":"Pant Mawr",
          "Town":"Pant Mawr",
-         "GraphCode":"",
+         "GraphCode":"1840",
          "loc":"51.4996247-3.6041469"
       },
       {
@@ -10311,7 +10311,7 @@
          "River":"Wye",
          "station":"Redbrook",
          "Town":"Redbrook",
-         "GraphCode":"",
+         "GraphCode":"1842",
          "loc":"53.5669001-1.5042101"
       },
       {
@@ -10320,7 +10320,7 @@
          "River":"Wye",
          "station":"Ross On Wye",
          "Town":"Ross On Wye",
-         "GraphCode":"",
+         "GraphCode":"1843",
          "loc":"51.9144500-2.5824460"
       },
       {
@@ -10338,7 +10338,7 @@
          "River":"Wye",
          "station":"Titley Mill",
          "Town":"Titley Mill",
-         "GraphCode":"",
+         "GraphCode":"1847",
          "loc":"52.2199783-2.9831838"
       },
       {
@@ -10347,7 +10347,7 @@
          "River":"Wye",
          "station":"Monmouth",
          "Town":"Trefynwy / Monmouth",
-         "GraphCode":"",
+         "GraphCode":"1837",
          "loc":"51.8161320-2.7145010"
       },
       {
@@ -10356,7 +10356,7 @@
          "River":"Wye",
          "station":"Glasbury",
          "Town":"Y Clas-ar-Wy / Glasbury",
-         "GraphCode":"",
+         "GraphCode":"1828",
          "loc":"52.0453490-3.2028750"
       },
       {
@@ -10365,7 +10365,7 @@
          "River":"Wye",
          "station":"Hay On Wye",
          "Town":"Y Gelli Gandryll / Hay On Wye",
-         "GraphCode":"",
+         "GraphCode":"1830",
          "loc":"52.0730990-3.1266210"
       },
       {
@@ -10374,7 +10374,7 @@
          "River":"Yazor Brook",
          "station":"Three Elms",
          "Town":"Three Elms",
-         "GraphCode":"",
+         "GraphCode":"1846",
          "loc":"50.9026007-3.3202800"
       },
       {
@@ -10383,7 +10383,7 @@
          "River":"Grwyne Fawr",
          "station":"Millbrook",
          "Town":"Llangenau / Llangenny",
-         "GraphCode":"",
+         "GraphCode":"1805",
          "loc":""
       },
       {
@@ -10392,7 +10392,7 @@
          "River":"Honddu",
          "station":"Upper Chapel",
          "Town":"Capel Uchaf / Upper Chapel",
-         "GraphCode":"",
+         "GraphCode":"1811",
          "loc":"53.2238016-4.1631133"
       },
       {
@@ -10401,7 +10401,7 @@
          "River":"Olway Brook",
          "station":"Olway Inn",
          "Town":"Olway Inn",
-         "GraphCode":"",
+         "GraphCode":"1806",
          "loc":"51.6450840-3.0056076"
       },
       {
@@ -10410,7 +10410,7 @@
          "River":"Senni",
          "station":"Pont Hen Hafod",
          "Town":"Pont Hen Hafod",
-         "GraphCode":"",
+         "GraphCode":"1808",
          "loc":""
       },
       {
@@ -10419,7 +10419,7 @@
          "River":"Usk",
          "station":"Usk Town",
          "Town":"Brynbuga / Usk Town",
-         "GraphCode":"",
+         "GraphCode":"1813",
          "loc":"51.7035330-2.9034040"
       },
       {
@@ -10428,7 +10428,7 @@
          "River":"Usk",
          "station":"Chainbridge",
          "Town":"Chainbridge",
-         "GraphCode":"",
+         "GraphCode":"1801",
          "loc":"54.9658790-1.7035693"
       },
       {
@@ -10437,7 +10437,7 @@
          "River":"Usk",
          "station":"Crickhowell",
          "Town":"Crug Hywel / Crickhowell",
-         "GraphCode":"",
+         "GraphCode":"1802",
          "loc":"51.8794600-3.1272700"
       },
       {
@@ -10446,7 +10446,7 @@
          "River":"Usk",
          "station":"Trostrey Weir",
          "Town":"Llancayo",
-         "GraphCode":"",
+         "GraphCode":"1810",
          "loc":"51.7206240-2.9145160"
       },
       {
@@ -10455,7 +10455,7 @@
          "River":"Usk",
          "station":"Llandetty",
          "Town":"Llandetty",
-         "GraphCode":"",
+         "GraphCode":"1803",
          "loc":"51.8823900-3.2740700"
       },
       {
@@ -10464,7 +10464,7 @@
          "River":"Usk",
          "station":"Trallong",
          "Town":"Trallong",
-         "GraphCode":"",
+         "GraphCode":"1809",
          "loc":"51.9552490-3.5067730"
       },
       {
@@ -10473,7 +10473,7 @@
          "River":"Usk",
          "station":"Usk Reservoir",
          "Town":"Usk Reservoir",
-         "GraphCode":"",
+         "GraphCode":"1812",
          "loc":"51.9430984-3.7181640"
       },
       {
@@ -10482,7 +10482,7 @@
          "River":"Yscir",
          "station":"Pont Ar Yscir",
          "Town":"Pont Ar Yscir",
-         "GraphCode":"",
+         "GraphCode":"1807",
          "loc":""
       },
       {
@@ -10491,7 +10491,7 @@
          "River":"Cynon",
          "station":"Hirwaun",
          "Town":"Hirwaun",
-         "GraphCode":"",
+         "GraphCode":"1782",
          "loc":"51.7377330-3.5108870"
       },
       {
@@ -10500,7 +10500,7 @@
          "River":"Ebbw",
          "station":"Rhiwderin",
          "Town":"Rhiwderin",
-         "GraphCode":"",
+         "GraphCode":"1790",
          "loc":"51.5808571-3.0685082"
       },
       {
@@ -10509,7 +10509,7 @@
          "River":"Ebbw",
          "station":"Risca",
          "Town":"Risca",
-         "GraphCode":"",
+         "GraphCode":"1769",
          "loc":"51.6118270-3.1018000"
       },
       {
@@ -10518,7 +10518,7 @@
          "River":"Ely",
          "station":"Lanelay",
          "Town":"Lanelay",
-         "GraphCode":"",
+         "GraphCode":"1773",
          "loc":"51.5347062-3.3923952"
       },
       {
@@ -10527,7 +10527,7 @@
          "River":"Ely",
          "station":"St Fagans",
          "Town":"Sain Ffagan / St Fagans",
-         "GraphCode":"",
+         "GraphCode":"1777",
          "loc":"51.4851910-3.2707750"
       },
       {
@@ -10536,7 +10536,7 @@
          "River":"Lwyd",
          "station":"Pontnewynydd / Abersychan",
          "Town":"Abersychan",
-         "GraphCode":"",
+         "GraphCode":"1789",
          "loc":"51.7240840-3.0629000"
       },
       {
@@ -10545,7 +10545,7 @@
          "River":"Lwyd",
          "station":"Ponthir Weir",
          "Town":"Ponthir",
-         "GraphCode":"",
+         "GraphCode":"1768",
          "loc":"51.6300380-2.9726630"
       },
       {
@@ -10572,7 +10572,7 @@
          "River":"Rhondda",
          "station":"Trehafod",
          "Town":"Trehafod",
-         "GraphCode":"",
+         "GraphCode":"1772",
          "loc":"51.6096689-3.3789210"
       },
       {
@@ -10581,7 +10581,7 @@
          "River":"Rhondda",
          "station":"Tynewydd",
          "Town":"Treherbert",
-         "GraphCode":"",
+         "GraphCode":"1780",
          "loc":"51.6750070-3.5371650"
       },
       {
@@ -10590,7 +10590,7 @@
          "River":"Rhondda Fach",
          "station":"Maerdy",
          "Town":"Maerdy",
-         "GraphCode":"",
+         "GraphCode":"1774",
          "loc":"51.6764660-3.4834570"
       },
       {
@@ -10599,7 +10599,7 @@
          "River":"Rhymney",
          "station":"Waterloo Bridge, Machen",
          "Town":"Machen",
-         "GraphCode":"",
+         "GraphCode":"1785",
          "loc":"51.5953050-3.1343960"
       },
       {
@@ -10608,7 +10608,7 @@
          "River":"Rhymney",
          "station":"New Tredegar",
          "Town":"New Tredegar",
-         "GraphCode":"",
+         "GraphCode":"1788",
          "loc":"51.7215270-3.2401800"
       },
       {
@@ -10617,7 +10617,7 @@
          "River":"Sirhowy",
          "station":"Nant Y Bwch",
          "Town":"Nant Y Bwch",
-         "GraphCode":"",
+         "GraphCode":"1787",
          "loc":"51.6099135-3.2041364"
       },
       {
@@ -10626,7 +10626,7 @@
          "River":"Sirhowy",
          "station":"Ynysddu",
          "Town":"Ynysddu",
-         "GraphCode":"",
+         "GraphCode":"1770",
          "loc":"51.6250095-3.1669142"
       },
       {
@@ -10635,7 +10635,7 @@
          "River":"Taff",
          "station":"Fiddlers Elbow",
          "Town":"Abercynon",
-         "GraphCode":"",
+         "GraphCode":"1771",
          "loc":"51.6475120-3.3293529"
       },
       {
@@ -10644,7 +10644,7 @@
          "River":"Taff",
          "station":"Penarth Road Bridge",
          "Town":"Caerdydd / Cardiff",
-         "GraphCode":"",
+         "GraphCode":"1775",
          "loc":"51.4815810-3.1790900"
       },
       {
@@ -10653,7 +10653,7 @@
          "River":"Taff",
          "station":"Western Avenue",
          "Town":"Caerdydd / Cardiff",
-         "GraphCode":"",
+         "GraphCode":"1781",
          "loc":"51.4815810-3.1790900"
       },
       {
@@ -10662,7 +10662,7 @@
          "River":"Taff",
          "station":"Merthyr Tydfil",
          "Town":"Merthyr Tudful / Merthyr Tydfil",
-         "GraphCode":"",
+         "GraphCode":"1786",
          "loc":"51.7487300-3.3816460"
       },
       {
@@ -10671,7 +10671,7 @@
          "River":"Taff",
          "station":"Pontypridd",
          "Town":"Pontypridd",
-         "GraphCode":"",
+         "GraphCode":"1776",
          "loc":"51.6007740-3.3423140"
       },
       {
@@ -10680,7 +10680,7 @@
          "River":"Taff",
          "station":"Troedyrhiw",
          "Town":"Troedyrhiw",
-         "GraphCode":"",
+         "GraphCode":"1779",
          "loc":"51.7129130-3.3452120"
       },
       {
@@ -10689,7 +10689,7 @@
          "River":"Afan",
          "station":"Cwmafan",
          "Town":"Cwmafan",
-         "GraphCode":"",
+         "GraphCode":"1899",
          "loc":"51.6140440-3.7664710"
       },
       {
@@ -10707,7 +10707,7 @@
          "River":"Boverton Brook",
          "station":"Upper Boverton",
          "Town":"Treberefed Uchaf / Upper Boverton",
-         "GraphCode":"",
+         "GraphCode":"1893",
          "loc":""
       },
       {
@@ -10716,7 +10716,7 @@
          "River":"Clydach Brook",
          "station":"Ynys Fach Bridge",
          "Town":"Resolfen / Resolven",
-         "GraphCode":"",
+         "GraphCode":"1913",
          "loc":"51.7103490-3.6935840"
       },
       {
@@ -10725,7 +10725,7 @@
          "River":"Dulais",
          "station":"Cilfrew",
          "Town":"Cil-ffriw / Cilfrew",
-         "GraphCode":"",
+         "GraphCode":"1896",
          "loc":""
       },
       {
@@ -10734,7 +10734,7 @@
          "River":"Ewenny",
          "station":"Keepers Lodge",
          "Town":"Keepers Lodge",
-         "GraphCode":"",
+         "GraphCode":"1902",
          "loc":"51.1473007-1.0032591"
       },
       {
@@ -10743,7 +10743,7 @@
          "River":"Ewenny Fawr",
          "station":"Felindre Road",
          "Town":"Pencoed",
-         "GraphCode":"",
+         "GraphCode":"1900",
          "loc":"51.5210870-3.4983700"
       },
       {
@@ -10752,7 +10752,7 @@
          "River":"Ewnenny Fach",
          "station":"Old Mill",
          "Town":"Pencoed",
-         "GraphCode":"",
+         "GraphCode":"1908",
          "loc":"51.5210870-3.4983700"
       },
       {
@@ -10761,7 +10761,7 @@
          "River":"Llynfi",
          "station":"Aberkenfig",
          "Town":"Abercynffig / Aberkenfig",
-         "GraphCode":"",
+         "GraphCode":"1891",
          "loc":"51.5411514-3.5971032"
       },
       {
@@ -10770,7 +10770,7 @@
          "River":"Llynfi",
          "station":"Coytrahen",
          "Town":"Coytrahen",
-         "GraphCode":"",
+         "GraphCode":"1897",
          "loc":"51.5588120-3.6011590"
       },
       {
@@ -10779,7 +10779,7 @@
          "River":"Llynfi",
          "station":"Maesteg",
          "Town":"Maesteg",
-         "GraphCode":"",
+         "GraphCode":"1903",
          "loc":"51.6085620-3.6604660"
       },
       {
@@ -10788,7 +10788,7 @@
          "River":"Mellte",
          "station":"Pontneddfechan",
          "Town":"Pontneddfechan",
-         "GraphCode":"",
+         "GraphCode":"1911",
          "loc":"51.7570660-3.5921090"
       },
       {
@@ -10797,7 +10797,7 @@
          "River":"Neath",
          "station":"Neath Tidal",
          "Town":"Castell-Nedd / Neath",
-         "GraphCode":"",
+         "GraphCode":"1906",
          "loc":"51.6542619-3.7828745"
       },
       {
@@ -10806,7 +10806,7 @@
          "River":"Neath",
          "station":"Resolven",
          "Town":"Resolfen / Resolven",
-         "GraphCode":"",
+         "GraphCode":"1912",
          "loc":"51.7103490-3.6935840"
       },
       {
@@ -10815,7 +10815,7 @@
          "River":"Ogmore",
          "station":"Brynmenyn",
          "Town":"Brynmenyn",
-         "GraphCode":"",
+         "GraphCode":"1895",
          "loc":"51.5522360-3.5754820"
       },
       {
@@ -10824,7 +10824,7 @@
          "River":"Ogmore",
          "station":"Penybont",
          "Town":"Penybont",
-         "GraphCode":"",
+         "GraphCode":"1909",
          "loc":"52.2628830-3.2725717"
       },
       {
@@ -10833,7 +10833,7 @@
          "River":"Ogmore",
          "station":"Bridgend",
          "Town":"Pen-y-Bont ar Ogwr / Bridgend",
-         "GraphCode":"",
+         "GraphCode":"1894",
          "loc":"51.5042860-3.5769450"
       },
       {
@@ -10842,7 +10842,7 @@
          "River":"Ogwr Fawr",
          "station":"Ogmore Vale",
          "Town":"Ogmore Vale",
-         "GraphCode":"",
+         "GraphCode":"1907",
          "loc":"51.6028049-3.5431870"
       },
       {
@@ -10851,7 +10851,7 @@
          "River":"Tawe",
          "station":"Craig y Nos",
          "Town":"Craig y Nos",
-         "GraphCode":"",
+         "GraphCode":"1898",
          "loc":"51.8247880-3.6841440"
       },
       {
@@ -10860,7 +10860,7 @@
          "River":"Tawe",
          "station":"Morfa",
          "Town":"Glandwr / Landore",
-         "GraphCode":"",
+         "GraphCode":"1905",
          "loc":"51.6424587-3.9382220"
       },
       {
@@ -10869,7 +10869,7 @@
          "River":"Tawe",
          "station":"Ynystanglws",
          "Town":"Ynystanglws",
-         "GraphCode":"",
+         "GraphCode":"1914",
          "loc":""
       },
       {
@@ -10878,7 +10878,7 @@
          "River":"Twrch",
          "station":"Gurnos",
          "Town":"Y Gurnos / Gurnos",
-         "GraphCode":"",
+         "GraphCode":"1901",
          "loc":"51.7608660-3.3809770"
       },
       {
@@ -10887,7 +10887,7 @@
          "River":"Upper Clydach",
          "station":"Pontardawe",
          "Town":"Pontardawe",
-         "GraphCode":"",
+         "GraphCode":"1910",
          "loc":"51.7204350-3.8532150"
       },
       {
@@ -10896,7 +10896,7 @@
          "River":"Amman",
          "station":"Pont Amman",
          "Town":"Pontaman / Pont Amman",
-         "GraphCode":"",
+         "GraphCode":"1856",
          "loc":"31.956578335.9456951"
       },
       {
@@ -10905,7 +10905,7 @@
          "River":"Bran",
          "station":"Llangadog",
          "Town":"Llangadog",
-         "GraphCode":"",
+         "GraphCode":"1871",
          "loc":"51.9381060-3.8828590"
       },
       {
@@ -10914,7 +10914,7 @@
          "River":"Carmarthen Bay Rivers",
          "station":"Mumbles",
          "Town":"Mumbles",
-         "GraphCode":"",
+         "GraphCode":"1956",
          "loc":"51.5759060-3.9998790"
       },
       {
@@ -10923,7 +10923,7 @@
          "River":"Clyne",
          "station":"Blackpill",
          "Town":"Blackpill",
-         "GraphCode":"",
+         "GraphCode":"1892",
          "loc":"51.5954849-3.9962200"
       },
       {
@@ -10932,7 +10932,7 @@
          "River":"Cothi",
          "station":"Felin Mynachdy",
          "Town":"Nantgaredig",
-         "GraphCode":"",
+         "GraphCode":"1867",
          "loc":"51.8738270-4.1895920"
       },
       {
@@ -10941,7 +10941,7 @@
          "River":"Cynin",
          "station":"St Clears",
          "Town":"Sancler / St Clears",
-         "GraphCode":"",
+         "GraphCode":"1860",
          "loc":"51.8193410-4.4987910"
       },
       {
@@ -10950,7 +10950,7 @@
          "River":"Dewi Fawr",
          "station":"Glasfryn Ford",
          "Town":"Glasfryn",
-         "GraphCode":"",
+         "GraphCode":"1852",
          "loc":"53.0097770-3.0359960"
       },
       {
@@ -10959,7 +10959,7 @@
          "River":"Doethie",
          "station":"Craig Clungwyn",
          "Town":"Ystradfinn",
-         "GraphCode":"",
+         "GraphCode":"1864",
          "loc":"52.1049896-3.7719800"
       },
       {
@@ -10968,7 +10968,7 @@
          "River":"Dulais",
          "station":"Llanwrda",
          "Town":"Llanwrda",
-         "GraphCode":"",
+         "GraphCode":"1872",
          "loc":"51.9682010-3.8744280"
       },
       {
@@ -10977,7 +10977,7 @@
          "River":"Dulais",
          "station":"Pontardulais",
          "Town":"Pontarddulais",
-         "GraphCode":"",
+         "GraphCode":"1857",
          "loc":"51.7122660-4.0370710"
       },
       {
@@ -10986,7 +10986,7 @@
          "River":"Gronw",
          "station":"Whitland",
          "Town":"Hendy-Gwyn / Whitland",
-         "GraphCode":"",
+         "GraphCode":"1862",
          "loc":"51.8227189-4.6141152"
       },
       {
@@ -10995,7 +10995,7 @@
          "River":"Gwendraeth Fach",
          "station":"Llangendeirne",
          "Town":"Llangyndeyrn / Llangendeirne",
-         "GraphCode":"",
+         "GraphCode":"1854",
          "loc":"51.8038190-4.2393340"
       },
       {
@@ -11004,7 +11004,7 @@
          "River":"Gwendraeth Fawr",
          "station":"Pontyberem",
          "Town":"Pontyberem",
-         "GraphCode":"",
+         "GraphCode":"1859",
          "loc":"51.7777910-4.1735460"
       },
       {
@@ -11013,7 +11013,7 @@
          "River":"Gwili",
          "station":"Glan Gwili",
          "Town":"Carmarthen",
-         "GraphCode":"",
+         "GraphCode":"1869",
          "loc":"51.8576200-4.3121310"
       },
       {
@@ -11022,7 +11022,7 @@
          "River":"Gwnedraeth Fawr",
          "station":"Pontyates",
          "Town":"Pont-iets / Pontyates",
-         "GraphCode":"",
+         "GraphCode":"1858",
          "loc":"51.7548694-4.2205707"
       },
       {
@@ -11031,7 +11031,7 @@
          "River":"Gwydderig",
          "station":"Pont Felindre",
          "Town":"Llandovery",
-         "GraphCode":"",
+         "GraphCode":"1875",
          "loc":"51.9973950-3.7975080"
       },
       {
@@ -11040,7 +11040,7 @@
          "River":"Llanelli",
          "station":"Llanelli Tidal",
          "Town":"Llanelli",
-         "GraphCode":"",
+         "GraphCode":"1853",
          "loc":"51.6808860-4.1602480"
       },
       {
@@ -11049,7 +11049,7 @@
          "River":"Loughor",
          "station":"Tir Y Dail",
          "Town":"Rhydaman / Ammanford",
-         "GraphCode":"",
+         "GraphCode":"1861",
          "loc":"51.7926275-3.9904182"
       },
       {
@@ -11058,7 +11058,7 @@
          "River":"Sawdde",
          "station":"Felin Y Cwm",
          "Town":"Llangadog",
-         "GraphCode":"",
+         "GraphCode":"1868",
          "loc":"51.9381060-3.8828590"
       },
       {
@@ -11067,7 +11067,7 @@
          "River":"Taf",
          "station":"Clog Y Fran",
          "Town":"Clog Y Fran",
-         "GraphCode":"",
+         "GraphCode":"1851",
          "loc":""
       },
       {
@@ -11076,7 +11076,7 @@
          "River":"Taf",
          "station":"Login",
          "Town":"Login",
-         "GraphCode":"",
+         "GraphCode":"1855",
          "loc":"47.34904207.9079329"
       },
       {
@@ -11085,7 +11085,7 @@
          "River":"Twrch",
          "station":"Ddol Las",
          "Town":"Ffarmers",
-         "GraphCode":"",
+         "GraphCode":"1865",
          "loc":"52.0848830-3.9717600"
       },
       {
@@ -11094,7 +11094,7 @@
          "River":"Tywi",
          "station":"Capel Dewi",
          "Town":"Capel Dewi",
-         "GraphCode":"",
+         "GraphCode":"1863",
          "loc":"51.8593830-4.2128870"
       },
       {
@@ -11103,7 +11103,7 @@
          "River":"Tywi",
          "station":"Pothouse Wharf",
          "Town":"Carmarthen",
-         "GraphCode":"",
+         "GraphCode":"1876",
          "loc":"51.8576200-4.3121310"
       },
       {
@@ -11112,7 +11112,7 @@
          "River":"Tywi",
          "station":"Dolau Hirion",
          "Town":"Dolauhirion",
-         "GraphCode":"",
+         "GraphCode":"1866",
          "loc":"52.0103674-3.8043083"
       },
       {
@@ -11121,7 +11121,7 @@
          "River":"Tywi",
          "station":"Manorafon",
          "Town":"Manorafon",
-         "GraphCode":"",
+         "GraphCode":"1874",
          "loc":""
       },
       {
@@ -11130,7 +11130,7 @@
          "River":"Tywi",
          "station":"Ty Castell",
          "Town":"Nantgaredig",
-         "GraphCode":"",
+         "GraphCode":"1877",
          "loc":"51.8738270-4.1895920"
       },
       {
@@ -11139,7 +11139,7 @@
          "River":"Tywi",
          "station":"Ystradffin",
          "Town":"Ystradfinn",
-         "GraphCode":"",
+         "GraphCode":"1878",
          "loc":"52.1049896-3.7719800"
       },
       {
@@ -11148,7 +11148,7 @@
          "River":"Aberdaugleddyf Estuary",
          "station":"Milford Haven",
          "Town":"Aberdaugleddau / Milford Haven",
-         "GraphCode":"",
+         "GraphCode":"1955",
          "loc":"51.7143060-5.0426970"
       },
       {
@@ -11157,7 +11157,7 @@
          "River":"Eastern Cleddau",
          "station":"Canaston Bridge",
          "Town":"Canaston Bridge",
-         "GraphCode":"",
+         "GraphCode":"1882",
          "loc":"51.8017944-4.8051817"
       },
       {
@@ -11166,7 +11166,7 @@
          "River":"Fords Lake",
          "station":"Stepaside",
          "Town":"Stepaside",
-         "GraphCode":"",
+         "GraphCode":"1890",
          "loc":"51.7370970-4.6978140"
       },
       {
@@ -11175,7 +11175,7 @@
          "River":"Gwaun",
          "station":"Fishguard",
          "Town":"Abergwaun / Fishguard",
-         "GraphCode":"",
+         "GraphCode":"1953",
          "loc":"51.9939270-4.9759890"
       },
       {
@@ -11184,7 +11184,7 @@
          "River":"Gwaun",
          "station":"Cilrhedyn Bridge",
          "Town":"Cilrhedyn Bridge",
-         "GraphCode":"",
+         "GraphCode":"1883",
          "loc":"51.9767400-4.9071442"
       },
       {
@@ -11193,7 +11193,7 @@
          "River":"Merlin's Brook",
          "station":"Merlins Bridge",
          "Town":"Merlins Bridge",
-         "GraphCode":"",
+         "GraphCode":"1886",
          "loc":"51.7886070-4.9828810"
       },
       {
@@ -11202,7 +11202,7 @@
          "River":"Ritec",
          "station":"Kiln Park",
          "Town":"Dinbych y Pysgod / Tenby",
-         "GraphCode":"",
+         "GraphCode":"1885",
          "loc":"51.6727380-4.7035790"
       },
       {
@@ -11211,7 +11211,7 @@
          "River":"Solfach",
          "station":"Middle Mill",
          "Town":"Middle Mill",
-         "GraphCode":"",
+         "GraphCode":"1887",
          "loc":"51.89301720.9010440"
       },
       {
@@ -11220,7 +11220,7 @@
          "River":"Solfach",
          "station":"Pont y Cerbyd",
          "Town":"Pont y Cerbyd",
-         "GraphCode":"",
+         "GraphCode":"1888",
          "loc":""
       },
       {
@@ -11229,7 +11229,7 @@
          "River":"Western Cleddau",
          "station":"Haverfordwest",
          "Town":"Hwlffordd / Haverfordwest",
-         "GraphCode":"",
+         "GraphCode":"1884",
          "loc":"51.8054740-4.9723996"
       },
       {
@@ -11238,7 +11238,7 @@
          "River":"Western Cleddau",
          "station":"Prendergast Mill",
          "Town":"Withybush",
-         "GraphCode":"",
+         "GraphCode":"1889",
          "loc":"51.8243250-4.9598978"
       },
       {
@@ -11247,7 +11247,7 @@
          "River":"Aeron",
          "station":"Aberaeron",
          "Town":"Aberaeron",
-         "GraphCode":"",
+         "GraphCode":"1917",
          "loc":"52.2427930-4.2581619"
       },
       {
@@ -11256,7 +11256,7 @@
          "River":"Aeron",
          "station":"Talsarn",
          "Town":"Talsarn",
-         "GraphCode":"",
+         "GraphCode":"1924",
          "loc":"52.1858170-4.1292580"
       },
       {
@@ -11274,7 +11274,7 @@
          "River":"Clarach",
          "station":"Llangorwen",
          "Town":"Llangorwen",
-         "GraphCode":"",
+         "GraphCode":"1921",
          "loc":"52.4366680-4.0560973"
       },
       {
@@ -11283,7 +11283,7 @@
          "River":"Rheidol",
          "station":"Aberystwyth Tidal",
          "Town":"Aberystwyth",
-         "GraphCode":"",
+         "GraphCode":"1918",
          "loc":"52.4153030-4.0829200"
       },
       {
@@ -11292,7 +11292,7 @@
          "River":"Rheidol",
          "station":"Cwm Rheidol",
          "Town":"Cwm Rheidol",
-         "GraphCode":"",
+         "GraphCode":"1919",
          "loc":"52.4111823-4.0790163"
       },
       {
@@ -11301,7 +11301,7 @@
          "River":"Teifi",
          "station":"Glan Teifi",
          "Town":"Abercych",
-         "GraphCode":"",
+         "GraphCode":"1925",
          "loc":"52.0403499-4.5572440"
       },
       {
@@ -11310,7 +11310,7 @@
          "River":"Teifi",
          "station":"Llanfair",
          "Town":"Llandysul",
-         "GraphCode":"",
+         "GraphCode":"1927",
          "loc":"52.0416750-4.3091980"
       },
       {
@@ -11319,7 +11319,7 @@
          "River":"Teifi",
          "station":"Pont Llanio",
          "Town":"Pont Llanio",
-         "GraphCode":"",
+         "GraphCode":"1928",
          "loc":""
       },
       {
@@ -11328,7 +11328,7 @@
          "River":"Teifi",
          "station":"Pontrydfendigaid",
          "Town":"Pontrydfendigaid",
-         "GraphCode":"",
+         "GraphCode":"1929",
          "loc":"52.2809040-3.8632690"
       },
       {
@@ -11337,7 +11337,7 @@
          "River":"Tyweli",
          "station":"Llandysul",
          "Town":"Llandysul",
-         "GraphCode":"",
+         "GraphCode":"1926",
          "loc":"52.0416750-4.3091980"
       },
       {
@@ -11346,7 +11346,7 @@
          "River":"Wyre",
          "station":"Llanrhystud",
          "Town":"Llanrhystud",
-         "GraphCode":"",
+         "GraphCode":"1922",
          "loc":"52.3054160-4.1445630"
       },
       {
@@ -11355,7 +11355,7 @@
          "River":"Ystwyth",
          "station":"Cwmystwyth",
          "Town":"Cwmystwyth",
-         "GraphCode":"",
+         "GraphCode":"1920",
          "loc":"52.3513460-3.7791580"
       },
       {
@@ -11364,7 +11364,7 @@
          "River":"Ystwyth",
          "station":"Pont Llolwyn",
          "Town":"Pont Llolwyn",
-         "GraphCode":"",
+         "GraphCode":"1923",
          "loc":""
       },
       {
@@ -11373,7 +11373,7 @@
          "River":"Cerist",
          "station":"Llawr Cae",
          "Town":"Llawr Cae",
-         "GraphCode":"",
+         "GraphCode":"1761",
          "loc":"52.8235953-4.5209094"
       },
       {
@@ -11382,7 +11382,7 @@
          "River":"Dyfi",
          "station":"Dyfi Bridge",
          "Town":"Machynlleth",
-         "GraphCode":"",
+         "GraphCode":"1762",
          "loc":"52.5902730-3.8534850"
       },
       {
@@ -11391,7 +11391,7 @@
          "River":"Dysynni",
          "station":"Pont y Garth",
          "Town":"Dyffryn Dysynni",
-         "GraphCode":"",
+         "GraphCode":"1766",
          "loc":""
       },
       {
@@ -11400,7 +11400,7 @@
          "River":"Leri",
          "station":"Dolybont",
          "Town":"Dol y bont",
-         "GraphCode":"",
+         "GraphCode":"1763",
          "loc":"52.8244726-3.3035073"
       },
       {
@@ -11409,7 +11409,7 @@
          "River":"Mawddach",
          "station":"Tyddyn Gwladys",
          "Town":"Coed y Brenin",
-         "GraphCode":"",
+         "GraphCode":"1764",
          "loc":"51.5972620-3.3538793"
       },
       {
@@ -11418,7 +11418,7 @@
          "River":"Wnion",
          "station":"Dolgellau",
          "Town":"Dolgellau",
-         "GraphCode":"",
+         "GraphCode":"1765",
          "loc":"52.7421500-3.8844000"
       },
       {
@@ -11427,7 +11427,7 @@
          "River":"Colwyn",
          "station":"Hafod Wydr",
          "Town":"Beddgelert",
-         "GraphCode":"",
+         "GraphCode":"1753",
          "loc":"53.0127920-4.1014810"
       },
       {
@@ -11436,7 +11436,7 @@
          "River":"Dwyfor",
          "station":"Garndolbenmaen",
          "Town":"Garndolbenmaen",
-         "GraphCode":"",
+         "GraphCode":"1758",
          "loc":"52.9737260-4.2403430"
       },
       {
@@ -11445,7 +11445,7 @@
          "River":"Erch",
          "station":"Pencaenewydd",
          "Town":"Pencaenewydd",
-         "GraphCode":"",
+         "GraphCode":"1757",
          "loc":"52.9458100-4.3765050"
       },
       {
@@ -11454,7 +11454,7 @@
          "River":"Glaslyn",
          "station":"Beddgelert",
          "Town":"Beddgelert",
-         "GraphCode":"",
+         "GraphCode":"1755",
          "loc":"53.0127920-4.1014810"
       },
       {
@@ -11463,7 +11463,7 @@
          "River":"Gwyrfai",
          "station":"Bontnewydd",
          "Town":"Bontnewydd",
-         "GraphCode":"",
+         "GraphCode":"1756",
          "loc":"53.1160020-4.2681630"
       },
       {
@@ -11472,7 +11472,7 @@
          "River":"Llyfni",
          "station":"Pont y Cim",
          "Town":"Pontllyfni",
-         "GraphCode":"",
+         "GraphCode":"1754",
          "loc":"53.0474790-4.3368620"
       },
       {
@@ -11481,7 +11481,7 @@
          "River":"Peris",
          "station":"Nant Peris",
          "Town":"Nant Peris",
-         "GraphCode":"",
+         "GraphCode":"1759",
          "loc":"53.1048260-4.0856920"
       },
       {
@@ -11490,7 +11490,7 @@
          "River":"Seiont",
          "station":"Peblic Mill",
          "Town":"Caernarfon",
-         "GraphCode":"",
+         "GraphCode":"1760",
          "loc":"53.1395510-4.2739110"
       },
       {
@@ -11499,7 +11499,7 @@
          "River":"Clwyd",
          "station":"Pont Dafydd",
          "Town":"Llanelwy / St Asaph",
-         "GraphCode":"",
+         "GraphCode":"1724",
          "loc":"53.2579750-3.4437280"
       },
       {
@@ -11508,7 +11508,7 @@
          "River":"Clwyd",
          "station":"Rhuddlan",
          "Town":"Rhuddlan",
-         "GraphCode":"",
+         "GraphCode":"1727",
          "loc":"53.2919110-3.4683190"
       },
       {
@@ -11517,7 +11517,7 @@
          "River":"Clwyd",
          "station":"Ruthin Weir",
          "Town":"Rhuthun / Ruthin",
-         "GraphCode":"",
+         "GraphCode":"1728",
          "loc":"53.1147250-3.3108740"
       },
       {
@@ -11526,7 +11526,7 @@
          "River":"Clwyd",
          "station":"Pont y Cambwll",
          "Town":"Trefnant",
-         "GraphCode":"",
+         "GraphCode":"1725",
          "loc":"53.2282899-3.4224439"
       },
       {
@@ -11535,7 +11535,7 @@
          "River":"Elwy",
          "station":"St Asaph",
          "Town":"Llanelwy / St Asaph",
-         "GraphCode":"",
+         "GraphCode":"1729",
          "loc":"53.2579750-3.4437280"
       },
       {
@@ -11544,7 +11544,7 @@
          "River":"Elwy",
          "station":"Pont y Gwyddel",
          "Town":"Llanfair Talhaiarn",
-         "GraphCode":"",
+         "GraphCode":"1726",
          "loc":"53.2165480-3.6062240"
       },
       {
@@ -11553,7 +11553,7 @@
          "River":"Wheeler",
          "station":"Bodfari",
          "Town":"Bodfari",
-         "GraphCode":"",
+         "GraphCode":"1723",
          "loc":"53.2273918-3.3591430"
       },
       {
@@ -11562,7 +11562,7 @@
          "River":"Conwy",
          "station":"Cwmlanerch",
          "Town":"Betws y Coed",
-         "GraphCode":"",
+         "GraphCode":"1730",
          "loc":"53.0814091-3.8228454"
       },
       {
@@ -11571,7 +11571,7 @@
          "River":"Conwy",
          "station":"Pont Fawr",
          "Town":"Llanrwst",
-         "GraphCode":"",
+         "GraphCode":"1732",
          "loc":"53.1370330-3.7957320"
       },
       {
@@ -11580,7 +11580,7 @@
          "River":"Conwy",
          "station":"Trefriw",
          "Town":"Trefriw",
-         "GraphCode":"",
+         "GraphCode":"1733",
          "loc":"53.1507290-3.8257600"
       },
       {
@@ -11589,7 +11589,7 @@
          "River":"Lledr",
          "station":"Pont Gethin",
          "Town":"Betws y Coed",
-         "GraphCode":"",
+         "GraphCode":"1731",
          "loc":"53.0814091-3.8228454"
       },
       {
@@ -11598,7 +11598,7 @@
          "River":"Tide",
          "station":"Llandudno Pier",
          "Town":"Llandudno",
-         "GraphCode":"",
+         "GraphCode":"1954",
          "loc":"53.3240610-3.8276090"
       },
       {
@@ -11607,7 +11607,7 @@
          "River":"Aldford brook",
          "station":"Lea Hall",
          "Town":"Aldford",
-         "GraphCode":"",
+         "GraphCode":"1745",
          "loc":"53.1284630-2.8713490"
       },
       {
@@ -11616,7 +11616,7 @@
          "River":"Alwen",
          "station":"Druid",
          "Town":"Druid",
-         "GraphCode":"",
+         "GraphCode":"1741",
          "loc":"39.3072831-76.6385057"
       },
       {
@@ -11625,7 +11625,7 @@
          "River":"Alyn",
          "station":"Pont y Capel",
          "Town":"Pont y Capel, Gresford",
-         "GraphCode":"",
+         "GraphCode":"1749",
          "loc":"53.0841214-2.9827338"
       },
       {
@@ -11634,7 +11634,7 @@
          "River":"Alyn",
          "station":"Rhydymwyn",
          "Town":"Rhydymwyn",
-         "GraphCode":"",
+         "GraphCode":"1750",
          "loc":"53.1962000-3.1908580"
       },
       {
@@ -11643,7 +11643,7 @@
          "River":"Carden Brook",
          "station":"Carden Brook",
          "Town":"Clutton",
-         "GraphCode":"",
+         "GraphCode":"1736",
          "loc":"51.3305680-2.5420860"
       },
       {
@@ -11652,7 +11652,7 @@
          "River":"Ceiriog",
          "station":"Brynkinalt",
          "Town":"Y Waun / Chirk",
-         "GraphCode":"",
+         "GraphCode":"1737",
          "loc":"52.9322792-3.0567818"
       },
       {
@@ -11661,7 +11661,7 @@
          "River":"Dee",
          "station":"Ironbridge",
          "Town":"Aldford",
-         "GraphCode":"",
+         "GraphCode":"1744",
          "loc":"53.1284630-2.8713490"
       },
       {
@@ -11679,7 +11679,7 @@
          "River":"Dee",
          "station":"Corwen",
          "Town":"Corwen",
-         "GraphCode":"",
+         "GraphCode":"1738",
          "loc":"52.9800510-3.3692420"
       },
       {
@@ -11688,7 +11688,7 @@
          "River":"Dee",
          "station":"Farndon",
          "Town":"Farndon",
-         "GraphCode":"",
+         "GraphCode":"1743",
          "loc":"53.0838690-2.8791330"
       },
       {
@@ -11706,7 +11706,7 @@
          "River":"Dee",
          "station":"New Inn",
          "Town":"Llanuwchllyn",
-         "GraphCode":"",
+         "GraphCode":"1748",
          "loc":"52.8381544-3.6967011"
       },
       {
@@ -11715,7 +11715,7 @@
          "River":"Dee",
          "station":"Manley Hall",
          "Town":"Manley Hall",
-         "GraphCode":"",
+         "GraphCode":"1747",
          "loc":"37.2218486-93.2878772"
       },
       {
@@ -11724,7 +11724,7 @@
          "River":"Dee",
          "station":"Bala",
          "Town":"Y Bala / Bala",
-         "GraphCode":"",
+         "GraphCode":"1734",
          "loc":"52.9099110-3.6015840"
       },
       {
@@ -11733,7 +11733,7 @@
          "River":"Dee",
          "station":"Dee Bridge",
          "Town":"Y Bala / Bala",
-         "GraphCode":"",
+         "GraphCode":"1740",
          "loc":"52.9099110-3.6015840"
       },
       {
@@ -11742,7 +11742,7 @@
          "River":"Emral Brook",
          "station":"Emral Brook",
          "Town":"Worthenbury",
-         "GraphCode":"",
+         "GraphCode":"1742",
          "loc":"53.0078470-2.8672620"
       },
       {
@@ -11751,7 +11751,7 @@
          "River":"Gelyn",
          "station":"Cynefail",
          "Town":"Capel Celyn",
-         "GraphCode":"",
+         "GraphCode":"1739",
          "loc":"52.9576420-3.7137760"
       },
       {
@@ -11760,7 +11760,7 @@
          "River":"Wych Brook",
          "station":"Wych Brook",
          "Town":"Worthenbury",
-         "GraphCode":"",
+         "GraphCode":"1752",
          "loc":"53.0078470-2.8672620"
       },
       {
@@ -11769,7 +11769,7 @@
          "River":"Frogwy",
          "station":"Bodffordd",
          "Town":"Bodfford",
-         "GraphCode":"",
+         "GraphCode":"1767",
          "loc":"53.2719408-4.3962791"
       },
       {
@@ -11778,7 +11778,7 @@
          "River":"River Cam",
          "station":"Cambridge Jesus Lock",
          "Town":"Cambridge",
-         "GraphCode":"",
+         "GraphCode":"5",
          "loc":"42.3736158-71.1097335"
       },
       {
@@ -11787,7 +11787,7 @@
          "River":"Wyre",
          "station":"Catterall",
          "Town":"St Michael's On Wyre",
-         "GraphCode":"",
+         "GraphCode":"744",
          "loc":"53.8655870-2.8199880"
       },
       {
@@ -11805,7 +11805,7 @@
          "River":"River Valency",
          "station":"Boscastle New Mills",
          "Town":"Boscastle",
-         "GraphCode":"",
+         "GraphCode":"903",
          "loc":"50.6869140-4.6928320"
       },
       {
@@ -11814,7 +11814,7 @@
          "River":"Cherwell",
          "station":"Enslow Weir B",
          "Town":"Shipton-On-Cherwell",
-         "GraphCode":"",
+         "GraphCode":"1567",
          "loc":"51.8452130-1.3031910"
       },
       {
@@ -11832,7 +11832,7 @@
          "River":"River Laver",
          "station":"Ripon",
          "Town":"Ripon",
-         "GraphCode":"",
+         "GraphCode":"656",
          "loc":"54.1356400-1.5273340"
       },
       {
@@ -11841,7 +11841,7 @@
          "River":"Chertsey Bourne",
          "station":"Fordwater Road",
          "Town":"Chertsey",
-         "GraphCode":"",
+         "GraphCode":"1412",
          "loc":"51.3864910-0.5094560"
       },
       {
@@ -11850,7 +11850,7 @@
          "River":"Monnow",
          "station":"Grosmont",
          "Town":"Grosmont",
-         "GraphCode":"",
+         "GraphCode":"1829",
          "loc":"51.9125330-2.8673989"
       },
       {
@@ -11859,7 +11859,7 @@
          "River":"Lwyd",
          "station":"Ponthir Weir",
          "Town":"Ponthir",
-         "GraphCode":"",
+         "GraphCode":"1768",
          "loc":"51.6300380-2.9726630"
       },
       {
@@ -11868,26 +11868,8 @@
          "River":"Rhondda",
          "station":"Tynewydd",
          "Town":"Treherbert",
-         "GraphCode":"",
+         "GraphCode":"1780",
          "loc":"51.6750070-3.5371650"
-      },
-      {
-         "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=2084&RegionId=2&AreaId=3&CatchmentId=20",
-         "date_scraped":null,
-         "River":"River Severn",
-         "station":"Severn Stoke",
-         "Town":"Severn Stoke",
-         "GraphCode":"",
-         "loc":"52.0975589-2.2093100"
-      },
-      {
-         "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=3042&RegionId=5&AreaId=6&CatchmentId=29",
-         "date_scraped":null,
-         "River":"River Avon",
-         "station":"Bath Destructor Bridge",
-         "Town":"Twerton",
-         "GraphCode":"",
-         "loc":"51.3784780-2.3997870"
       },
       {
          "url":"http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/riverstation.aspx?StationId=6245&RegionId=1&AreaId=16&CatchmentId=113",
@@ -11895,7 +11877,7 @@
          "River":"River Ouse",
          "station":"Welney Causeway",
          "Town":"Welney Causeway",
-         "GraphCode":"",
+         "GraphCode":"41",
          "loc":""
       }
    ]
