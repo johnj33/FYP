@@ -207,3 +207,37 @@ function Search(value) {
     };
 
 }
+
+function RiverGauges() {
+    var RiverTable = document.getElementById("RiversTable");
+    var FavsTable = document.getElementById("FavsTable");
+    var OfflineTable = document.getElementById("offlineTable");
+
+    RiverTable.style.visibility = 'visible';
+    FavsTable.style.visibility = 'collapse';
+    OfflineTable.style.visibility = 'collapse';
+
+
+
+}
+
+
+function FavoriteGauges() {
+    var RiverTable = document.getElementById("RiversTable");
+    var FavsTable = document.getElementById("FavsTable");
+    var OfflineTable = document.getElementById("offlineTable");
+
+    RiverTable.style.visibility = 'collapse';
+    FavsTable.style.visibility = 'visible';
+    OfflineTable.style.visibility = 'collapse';
+}
+
+function OfflineGauges() {
+    var RiverTable = document.getElementById("RiversTable");
+    var FavsTable = document.getElementById("FavsTable");
+    var OfflineTable = document.getElementById("offlineTable");
+
+    RiverTable.style.visibility = 'collapse';
+    FavsTable.style.visibility = 'collapse';
+    OfflineTable.style.visibility = 'visible';
+}
