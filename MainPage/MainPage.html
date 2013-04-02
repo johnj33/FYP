@@ -36,8 +36,7 @@
             text-decoration: none;
         }
 
-        .tab a:link, .tab a:visited .tab a:default{
-            
+        .tab a:link, .tab a:visited .tab a:default {
         }
 
         .tab a span {
@@ -69,15 +68,12 @@
         <li><a onclick="FavoriteGauges();"><span>Favorite Gauges </span></a></li>
         <li><a onclick="OfflineGauges();"><span>Offline Gauges </span></a></li>
     </ul>
-    
+    <div style="height: 50px"></div>
     <div id="RiversTable" style="display: none">
         <table style="width: 100%;">
             <tr>
                 <td style="width: 70%">
-                    <select id="RiversSelction" style="font-family: Age; width: 100%" />
-                </td>
-                <td style="width: 30%">
-                    <button style="font-family: Age; height: 45px; width: 157px; font-size: 12pt; border-width: thick; border-color: black; background-color: white;" onclick="SearchRivers()">Gauges By Rivers</button>
+                    <select onchange="SearchRivers();" id="RiversSelction" style="font-family: Age; width: 100%" />
                 </td>
             </tr>
 
@@ -85,6 +81,8 @@
                 <td style="width: 70%">
                     <select id="GaugesSelection" style="width: 100%" />
                 </td>
+            </tr>
+            <tr>
                 <td style="width: 30%">
                     <button id="ViewGaugeBtn" onclick="ViewGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white">View Gauge</button>
                 </td>
@@ -101,6 +99,8 @@
                 <td style="width: 70%">
                     <select id="FavsSelection" style="width: 100%" />
                 </td>
+            </tr>
+            <tr>
                 <td style="width: 30%">
                     <button id="VeiwFavButton" onclick="ViewFavGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white">View Gauge</button>
                 </td>
@@ -115,6 +115,8 @@
                 <td style="width: 70%">
                     <select id="OfflineSelection" style="width: 100%" />
                 </td>
+            </tr>
+            <tr>
                 <td style="width: 30%">
                     <button id="VeiwOflineButton" onclick="ViewOffGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white">View Gauge</button>
                 </td>
