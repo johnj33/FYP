@@ -59,10 +59,17 @@
         .imageStyle {
             width: 100%;
         }
+
+        .auto-style1 {
+            width: 60px;
+        }
+        .auto-style2 {
+            width: 55px;
+        }
     </style>
     <div style="font-size: 22pt; font-family: Age;">River Levels</div>
 
-    <ul class="tab" style="font-family:Age">
+    <ul class="tab" style="font-family: Age">
         <li class="active"><a onclick="RiverGauges();"><span>Rivers</span></a></li>
         <li><a onclick="GetCurrentLocation();"><span>Map </span></a></li>
         <li><a onclick="FavoriteGauges();"><span>Favorites</span></a></li>
@@ -72,24 +79,32 @@
     <div id="RiversTable">
         <table style="width: 100%;">
             <tr>
-                <td style="width: 70%">
-                    <select onchange="SearchRivers();" id="RiversSelction" style="font-family: Age; width: 100%; border-radius:5px" />
+                <td class="auto-style2">
+                    <div>River</div>
+                </td>
+                <td style="width: 90%">
+                    <select onchange="SearchRivers();" id="RiversSelction" style="font-family: Age; width: 100%; border-radius: 5px" />
                 </td>
             </tr>
 
             <tr>
-                <td style="width: 70%">
-                    <select id="GaugesSelection" style="width: 100%; border-radius:5px" />
+                <td class="auto-style2">
+                    <div>Gauge</div>
                 </td>
-            </tr>
-            <tr>
                 <td>
-                    <div style="height:20px"></div>
+                    <select id="GaugesSelection" style="width: 100%; border-radius: 5px" />
                 </td>
             </tr>
             <tr>
-                <td style="width: 30%">
-                    <button id="ViewGaugeBtn" onclick="ViewGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius:10px">View Gauge</button>
+                <td class="auto-style2"></td>
+                <td class="auto-style1">
+                    <div style="height: 20px"></div>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style2"></td>
+                <td class="auto-style1">
+                    <button id="ViewGaugeBtn" onclick="ViewGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius: 10px">View Gauge</button>
                 </td>
 
             </tr>
@@ -102,12 +117,12 @@
 
             <tr>
                 <td style="width: 70%">
-                    <select id="FavsSelection" style="width: 100%; border-radius:5px" />
+                    <select id="FavsSelection" style="width: 100%; border-radius: 5px" />
                 </td>
             </tr>
             <tr>
                 <td style="width: 30%">
-                    <button id="VeiwFavButton" onclick="ViewFavGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius:10px">View Gauge</button>
+                    <button id="VeiwFavButton" onclick="ViewFavGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius: 10px">View Gauge</button>
                 </td>
             </tr>
         </table>
@@ -118,18 +133,18 @@
 
             <tr>
                 <td style="width: 70%">
-                    <select id="OfflineSelection" style="width: 100%; border-radius:5px" />
+                    <select id="OfflineSelection" style="width: 100%; border-radius: 5px" />
                 </td>
             </tr>
             <tr>
                 <td style="width: 30%">
-                    <button id="VeiwOflineButton" onclick="ViewOffGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius:10px">View Gauge</button>
+                    <button id="VeiwOflineButton" onclick="ViewOffGauge();" style="font-family: Age; height: 45px; width: 158px; font-size: 12pt; border-width: thick; border-color: black; background-color: white; border-radius: 10px">View Gauge</button>
                 </td>
             </tr>
         </table>
     </div>
-    <div style="height:30px"></div>
-    <img src="../Resources/alps.png" class="imageStyle" style="font-family: Age; border-radius:10px" />
+    <div style="height: 30px"></div>
+    <!--<img src="../Resources/alps.png" class="imageStyle" style="font-family: Age; border-radius:10px" />-->
 
 
 </body>
