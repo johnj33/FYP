@@ -32,7 +32,7 @@ namespace JsonUpdater
              {
                  try
                  {
-                     doc.Load("http://maps.googleapis.com/maps/api/geocode/xml?address=" + gauges[i].Town + "&sensor=false");
+                     doc.Load("http://maps.googleapis.com/maps/api/geocode/xml?address=" + gauges[i].Town + ",UK&sensor=false");
                      XmlNode element = doc.SelectSingleNode("//GeocodeResponse/status");
                      if (element.InnerText == "ZERO_RESULTS")
                      {
@@ -41,8 +41,10 @@ namespace JsonUpdater
                      }
                      else
                      {
-                         element = doc.SelectSingleNode("//GeocodeResponse/result/geometry/location");
-                         gauges[i].loc = element.InnerText;
+                         element = doc.SelectSingleNode("//GeocodeResponse/result/geometry/location/lat");
+                         string latlng = element.InnerText + ",";
+                         element = doc.SelectSingleNode("//GeocodeResponse/result/geometry/location/lng");
+                         gauges[i].loc = latlng + element.InnerText;
 
                      }
                  }

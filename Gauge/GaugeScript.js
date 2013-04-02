@@ -49,8 +49,7 @@
             document.addEventListener("deviceready", onDeviceReady, false);
 
             function onDeviceReady() {
-                alert("ready");
-                // Now safe to use the Cordova API
+                enabled = true;
             }
         
     }
@@ -65,6 +64,7 @@ var gauge;
 var town;
 var river;
 var currentLevel;
+var enabled = false;
 
 function AddToFavorites() {
     try{
@@ -112,47 +112,53 @@ function zoomImg2() {
 
 function Save() {
     try {
-        var StoredOffline = localStorage["offline"];
-        if (typeof StoredOffline === "undefined") {
-            StoredOffline = "";
+        if (enabled) {
+            var StoredOffline = localStorage["offline"];
+            if (typeof StoredOffline === "undefined") {
+                StoredOffline = "";
+            }
+
+            var DateTime = new Date();
+            var uniqueID = DateTime.getDate() + "_"
+                        + (DateTime.getMonth() + 1) + "_"
+                        + DateTime.getFullYear() + " "
+                        + DateTime.getHours() + "_"
+                        + DateTime.getMinutes() + "_"
+                        + DateTime.getSeconds() + "-"
+                        + gauge;
+            localStorage["offline"] += uniqueID + ",";
+
+            alert(uniqueID);
+
+
+            localStorage[uniqueID + "other"] = river + "," + town + "," + currentLevel;
+
+            saveimg(uniqueID, "chart1");
+            saveimg(uniqueID, "chart2");
         }
-
-        var DateTime = new Date();
-        var uniqueID = DateTime.getDate() + "_"
-                    + (DateTime.getMonth() + 1) + "_"
-                    + DateTime.getFullYear()+" "
-                    + DateTime.getHours() + "_"
-                    + DateTime.getMinutes() + "_"
-                    + DateTime.getSeconds() + "-"
-                    + gauge;
-        localStorage["offline"] += uniqueID + ",";
-
-        alert(uniqueID);
-
-        
-        localStorage[uniqueID + "other"] = river + "," + town + "," + currentLevel;
-       
-        saveimg(uniqueID, "chart1");
-        saveimg(uniqueID, "chart2");
-        
+        else {
+            alert("saving not supported on this device");
+        }
         
     }
     catch (ex) {
         alert(ex);
     }
 }
-function saveimg(uniqueID, name) {
 
-    var fileTransfer = new FileTransfer();
-    fileTransfer.download(
-            image1str,
-            "file://sdcard/" + "RiverLevels/" + uniqueID + name + ".jpg",
-        function (entry) {
-            alert("download complete: " + entry.fullPath);
-        },
-        function (error) {
-            alert("download error source " + error.source);
-            alert("download error target " + error.target);
-            alert("upload error code" + error.code);
-        });
+function saveimg(uniqueID, name) {
+    
+        var fileTransfer = new FileTransfer();
+        fileTransfer.download(
+                image1str,
+                "file://sdcard/" + "RiverLevels/" + uniqueID + name + ".jpg",
+            function (entry) {
+                
+            },
+            function (error) {
+                alert("download error source " + error.source);
+                alert("download error target " + error.target);
+                alert("upload error code" + error.code);
+            });
+    
 }
