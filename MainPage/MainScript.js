@@ -212,10 +212,14 @@ function RiverGauges() {
     var RiverTable = document.getElementById("RiversTable");
     var FavsTable = document.getElementById("FavsTable");
     var OfflineTable = document.getElementById("offlineTable");
-
-    RiverTable.style.visibility = 'visible';
-    FavsTable.style.visibility = 'collapse';
-    OfflineTable.style.visibility = 'collapse';
+    try{
+        RiverTable.style.display = 'block';
+        FavsTable.style.display = 'none';
+        OfflineTable.style.display = 'none';
+    }
+    catch (ex) {
+        alert(ex);
+    }
 
 
 
@@ -227,9 +231,9 @@ function FavoriteGauges() {
     var FavsTable = document.getElementById("FavsTable");
     var OfflineTable = document.getElementById("offlineTable");
 
-    RiverTable.style.visibility = 'collapse';
-    FavsTable.style.visibility = 'visible';
-    OfflineTable.style.visibility = 'collapse';
+    RiverTable.style.display = 'none';
+    FavsTable.style.display = 'block';
+    OfflineTable.style.display = 'none';
 }
 
 function OfflineGauges() {
@@ -237,7 +241,7 @@ function OfflineGauges() {
     var FavsTable = document.getElementById("FavsTable");
     var OfflineTable = document.getElementById("offlineTable");
 
-    RiverTable.style.visibility = 'collapse';
-    FavsTable.style.visibility = 'collapse';
-    OfflineTable.style.visibility = 'visible';
+    RiverTable.style.display = 'none';
+    FavsTable.style.display = 'none';
+    OfflineTable.style.display = 'block';
 }
