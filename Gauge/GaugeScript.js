@@ -54,7 +54,6 @@
                             zoom: 13,
                             mapTypeId: google.maps.MapTypeId.ROADMAP
                         });
-            google.maps.event.trigger(Dispmap, "resize");
 
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(longlat[0], -longlat[1]),
@@ -67,6 +66,7 @@
             function onDeviceReady() {
                 enabled = true;
             }
+
             
         
     }
@@ -187,6 +187,7 @@ function ShowChart1() {
 
     graph1.style.display = "block";
     graph2.style.display = "none";
+    map.style.display = "none";
 }
 
 function ShowChart2() {
@@ -208,6 +209,8 @@ function ShowMap() {
     graph1.style.display = "none";
     graph2.style.display = "none";
     map.style.display = "block";
+    google.maps.event.trigger(Dispmap, "resize");
+
 }
 
 var Dispmap;
