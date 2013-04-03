@@ -41,7 +41,9 @@
             currentLevel = xmlHttp.responseText.split("Current level: ")[1].split("\"")[0];
             town = values[0];
             river = values[2];
-            longlat = values[5].split("-");
+            longlat = new Array();
+            longlat[0] = values[5];
+            longlat[1] = values[6];
         }
             text1.textContent = "Gauge: " + gauge;
             text2.textContent = "Town: " + town;
@@ -199,16 +201,15 @@ function ShowMap() {
     graph1.style.display = "none";
     graph2.style.display = "none";
     map.style.display = "block";
-
     Dispmap = new google.maps.Map(
                         document.getElementById('map_canvas'), {
-                            center: new google.maps.LatLng(longlat[0], "-" + longlat[1]),
+                            center: new google.maps.LatLng(longlat[0], longlat[1]),
                             zoom: 13,
                             mapTypeId: google.maps.MapTypeId.ROADMAP
                         });
 
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(longlat[0], -longlat[1]),
+        position: new google.maps.LatLng(longlat[0], longlat[1]),
         map: Dispmap,
         title: gauge,
         data: gauge
