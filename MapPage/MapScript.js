@@ -20,7 +20,7 @@ function Initialise() {
 
         function displayPosition(position) {
 
-            alert("Latitude: " + position.coords.latitude + ", Longitude: " + position.coords.longitude);
+           // alert("Latitude: " + position.coords.latitude + ", Longitude: " + position.coords.longitude);
             try
             {
 
@@ -57,8 +57,6 @@ function Initialise() {
     
  function jsonparse(data) {
      try {
-        
-         alert(data);
 
          gauges = new Array();
        
@@ -69,7 +67,7 @@ function Initialise() {
              gauges[i] = new Gauge(currentGauge["url"], currentGauge["River"], currentGauge["station"], currentGauge["Town"], currentGauge["GraphCode"], currentGauge["loc"]);
              var latlong = gauges[i].loc.split(",");
              if (latlong.length == 1) {
-                 alert(gauges[i].station);
+                 
              }
         
              var marker = new google.maps.Marker({

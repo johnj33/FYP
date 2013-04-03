@@ -44,6 +44,7 @@ function ViewOffGauge() {
     alert(gaugetxt);
     window.location = "../Gauge/Gauge.html";
 }
+
 function showGauge(gauge) {
     var search = new Search(gauge);
     gauges.forEach(search.FindGaugeByStation);
@@ -62,6 +63,7 @@ function showGauge(gauge) {
         window.location = "../Gauge/Gauge.html";
     }
 }
+
 var GetCurrentLocation = function () {
     window.location = "../MapPage/MapPage.html";
 };
@@ -95,7 +97,7 @@ function addFavs() {
     var fav = localStorage["favs"];
     var off = localStorage["offline"];
     if (typeof fav === "undefined") {
-        alert("no favs");
+        //alert("no favs");
     }
     else {
         var favs = fav.split(',');
@@ -105,7 +107,7 @@ function addFavs() {
     }
     
     if (typeof off === "undefined") {
-        alert("no offline");
+        //alert("no offline");
     }
     else {
         var offs = off.split(',');
