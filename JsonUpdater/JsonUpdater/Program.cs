@@ -14,14 +14,29 @@ namespace JsonUpdater
     class Program
     {
         static List<gauge> gauges = new List<gauge>();
+        static List<gauge> gauges2 = new List<gauge>();
+
         static void Main(string[] args)
         {
             read();
             Console.ReadLine();
-            update(); 
+            updateCodes();
+            //update(); 
             output();          
             Console.WriteLine("Done");
             Console.ReadLine();
+        }
+
+        private static void updateCodes()
+        {
+            for (int i = 0; i < gauges2.Count; i++)
+            {
+                if (gauges[i].GraphCode == "")
+                {
+                    gauges[i].GraphCode = gauges2[i].GraphCode;
+                }
+            }
+
         }
 
         private static void update()
@@ -107,8 +122,17 @@ namespace JsonUpdater
             DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(gauge[]));
             DataContractJsonSerializer jsonSerializer = new DataContractJsonSerializer(typeof(gauge[]));
 
-            Stream ms = new FileStream("c:\\users\\john\\documents\\visual studio 2012\\Projects\\JsonUpdater\\JsonUpdater\\environment-agency-river-levels.json", FileMode.Open);
+            Stream ms = new FileStream("../../environment-agency-river-levels.json", FileMode.Open);
             //gauge[] obj = JsonConvert.DeserializeObject<gauge[]>(ms);
+            gauges = readfile(ms);
+            ms = new FileStream("../../environment-agency-river-levels2.json", FileMode.Open);
+            gauges2 = readfile(ms);
+
+            
+        }
+        private static List<gauge> readfile(Stream ms)
+        {
+            List<gauge> tempGauges = new List<gauge>();
             JsonTextReader jsonText = new JsonTextReader(new StreamReader(ms));
             string current = "";
             gauge Gauge = new gauge();
@@ -173,7 +197,7 @@ namespace JsonUpdater
                                 current = "";
 
 
-                                gauges.Add(Gauge);
+                                tempGauges.Add(Gauge);
                                 break;
                             }
 
@@ -181,8 +205,11 @@ namespace JsonUpdater
                 }
                 Console.WriteLine("Token: {0}, Value: {1}", jsonText.TokenType, jsonText.Value);
             }
+            return tempGauges;
         }
     }
+
+
 
     class gauge
     {

@@ -51,6 +51,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="environment-agency-river-levels.json" />
+    <None Include="environment-agency-river-levels2.json" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

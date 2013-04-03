@@ -67,16 +67,13 @@ function Initialise() {
              var currentGauge = data["gauges"][i];
 
              gauges[i] = new Gauge(currentGauge["url"], currentGauge["River"], currentGauge["station"], currentGauge["Town"], currentGauge["GraphCode"], currentGauge["loc"]);
-             var latlong = gauges[i].loc.split("-");
-             if (latlong.length == 1) {
-                 latlong = gauges[i].loc.split(",");
-             }
+             var latlong = gauges[i].loc.split(",");
              if (latlong.length == 1) {
                  alert(gauges[i].station);
              }
         
              var marker = new google.maps.Marker({
-                 position: new google.maps.LatLng(latlong[0], -latlong[1]),
+                 position: new google.maps.LatLng(latlong[0], latlong[1]),
                  map: map,
                  title: gauges[i].station,
                  data:gauges[i]
