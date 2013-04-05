@@ -142,24 +142,23 @@ function Save() {
 
             localStorage[uniqueID + "other"] = river + "," + town + "," + currentLevel;
 
-            saveimg(uniqueID, "chart1");
-            saveimg(uniqueID, "chart2");
+            saveimg(uniqueID, "chart1", image1str);
+            saveimg(uniqueID, "chart2", image2str);
         }
         else {
             alert("saving not supported on this device");
-        }
-        
+        }        
     }
     catch (ex) {
         alert(ex);
     }
 }
 
-function saveimg(uniqueID, name) {
+function saveimg(uniqueID, name, imgStr) {
     
         var fileTransfer = new FileTransfer();
         fileTransfer.download(
-                image1str,
+                imgStr,
                 "file://sdcard/" + "RiverLevels/" + uniqueID + name + ".jpg",
             function (entry) {
                 
