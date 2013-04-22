@@ -32,7 +32,7 @@ function Initialise() {
                     });
 
 
-                $.getJSON("../Data/environment-agency-river-levels.json", function (data) { jsonparse(data); });
+                $.getJSON("../Data/gauges.json", function (data) { jsonparse(data); });
 
             }
             catch (ex) {
